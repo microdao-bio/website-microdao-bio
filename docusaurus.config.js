@@ -78,8 +78,8 @@ const config = {
       title: 'microDAO',
       logo: {
         alt: 'microDAO',
-        src: 'img/logos/logo-mini.svg',
-        srcDark: 'img/logos/logo-mini-white.svg',
+        src: 'img/logos/micro-dao-logo.png',
+        srcDark: 'img/logos/micro-dao-logo.png',
       },
       items: [
         { to: 'docusaurus/core/lib/server/index.js', label: 'Blog' },
