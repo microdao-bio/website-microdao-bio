@@ -91,6 +91,18 @@ function Home() {
                   >
                     White Paper →
                   </Link>
+                  <Link
+                    //    to="https://github.com/chaos-mesh/chaos-mesh"
+                    className="tw-btn tw-btn-neutral tw-gap-0 dark:tw-glass hover:tw-text-white hover:-tw-translate-y-[3px]"
+                  >
+                    <fa-person className="tw-w-4 tw-h-4 tw-fill-white text-decoration: none" />
+                    <a
+                      href="mailto:varun@microdao.bio?&subject=Work With%20MicroDAO&body=Hi, I am interested in working with the team %20at%20microDAO%20My background is____%20a%and I would like to help with %20running events/tokenomics%20/build tools/operations"
+                      target="_top"
+                    >
+                      Join Us
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>

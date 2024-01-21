@@ -72,12 +72,7 @@ const config = {
     colorMode: {
       respectPrefersColorScheme: true,
     },
-    image: '/img/chaos-mesh-social-preview.png',
-    algolia: {
-      appId: '---',
-      apiKey: '----',
-      indexName: 'micro-dao',
-    },
+
     navbar: {
       hideOnScroll: true,
       title: 'microDAO',

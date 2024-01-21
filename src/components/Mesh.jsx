@@ -213,21 +213,24 @@ export default function Mesh() {
             {
               duration: 1,
               opacity: 1,
-              top: top - 50,
-              left: left + 25,
+              top: top - 225,
+              left: left +5,
             }
           )
           new Typewriter('.mesh-text', { delay: 50 })
-            .typeString('Injecting NetworkChaos/loss...')
+            .typeString('Predicting resistance..')
             .pauseFor(500)
             .deleteAll()
-            .typeString('Simulating packet loss...')
+            .typeString('Diagnosing Resistance')
             .pauseFor(2000)
             .deleteAll()
-            .typeString('⏳ Recovering...')
+            .typeString('Monitoring Resistance')
             .pauseFor(1500)
             .deleteAll()
-            .typeString('✅ Done!')
+            .typeString('Funding new antibiotics')
+            .pauseFor(1500)
+            .deleteAll()
+            .typeString('Prescribing the right antibiotic for the right infection')
             .pauseFor(1000)
             .callFunction(() => {
               gsap.fromTo(
