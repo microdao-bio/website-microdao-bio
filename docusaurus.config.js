@@ -100,74 +100,73 @@ const config = {
       ],
     },
     footer: {
-      links: [
-        // {
-        //   title: 'Documentation',
-        //   items: [
-        //     {
-        //       label: 'Quick Start',
-        //       to: 'docs/quick-start',
-        //     },
-        //     {
-        //       label: 'Run a Chaos Experiment',
-        //       to: 'docs/run-a-chaos-experiment',
-        //     },
-        //     {
-        //       label: 'Developer Guide Overview',
-        //       to: 'docs/developer-guide-overview',
-        //     },
-        //     {
-        //       label: 'FAQs',
-        //       to: 'docs/faqs',
-        //     },
-        //   ],
-        // },
-        // {
-        //   title: 'Community',
-        //   items: [
-        //     {
-        //       label: 'Blog',
-        //       to: 'blog',
-        //     },
-        //     {
-        //       label: 'CNCF Community Group',
-        //       href: 'https://community.cncf.io/chaos-mesh-community/',
-        //     },
-        //     {
-        //       label: 'GitHub',
-        //       href: 'https://github.com/chaos-mesh/chaos-mesh',
-        //     },
-        //     {
-        //       label: 'Slack (#project-chaos-mesh)',
-        //       href: 'https://slack.cncf.io/',
-        //     },
-        //     {
-        //       label: 'Twitter',
-        //       href: 'https://twitter.com/chaos_mesh',
-        //     },
-        //   ],
-        // },
-        // {
-        //   title: 'Acknowledgements',
-        //   items: [
-        //     {
-        //       html: `
-        //       <ul>
-        //       <li>
-        //       <p style="font-size: 0.875rem;">Thanks to netlify's Open Source Plan.</p>
-        //       <a href="https://www.netlify.com" target="_blank"><img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /></a>
-        //       </li>
-        //       <li>
-        //       <p>Thanks for the <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>.</p>
-        //       </li>
-        //       </ul>`,
-        //     },
-        //   ],
-        // },
-      ],
+      //  links: [
+      // {
+      //   title: 'Documentation',
+      //   items: [
+      //     {
+      //       label: 'Quick Start',
+      //       to: 'docs/quick-start',
+      //     },
+      //     {
+      //       label: 'Run a Chaos Experiment',
+      //       to: 'docs/run-a-chaos-experiment',
+      //     },
+      //     {
+      //       label: 'Developer Guide Overview',
+      //       to: 'docs/developer-guide-overview',
+      //     },
+      //     {
+      //       label: 'FAQs',
+      //       to: 'docs/faqs',
+      //     },
+      //   ],
+      // },
+      // {
+      //   title: 'Community',
+      //   items: [
+      //     {
+      //       label: 'Blog',
+      //       to: 'blog',
+      //     },
+      //     {
+      //       label: 'CNCF Community Group',
+      //       href: 'https://community.cncf.io/chaos-mesh-community/',
+      //     },
+      //     {
+      //       label: 'GitHub',
+      //       href: 'https://github.com/chaos-mesh/chaos-mesh',
+      //     },
+      //     {
+      //       label: 'Slack (#project-chaos-mesh)',
+      //       href: 'https://slack.cncf.io/',
+      //     },
+      //     {
+      //       label: 'Twitter',
+      //       href: 'https://twitter.com/chaos_mesh',
+      //     },
+      //   ],
+      // },
+      // {
+      //   title: 'Acknowledgements',
+      //   items: [
+      //     {
+      //       html: `
+      //       <ul>
+      //       <li>
+      //       <p style="font-size: 0.875rem;">Thanks to netlify's Open Source Plan.</p>
+      //       <a href="https://www.netlify.com" target="_blank"><img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /></a>
+      //       </li>
+      //       <li>
+      //       <p>Thanks for the <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>.</p>
+      //       </li>
+      //       </ul>`,
+      //     },
+      //   ],
+      // },
+      //      ],
       copyright: `
-        <p style="font-weight: 500;">Copyright © microDAO ${new Date().getFullYear()} | Derived from <a href='https://github.com/chaos-mesh/website'>Chaos Mesh Authors</a> </p>
-      `,
+        <p style="font-weight: 500;">Copyright © microDAO ${new Date().getFullYear()} | Derived from <a href='https://github.com/chaos-mesh/website'>Chaos Mesh documentation site</a> </p>`,
     },
     prism: {
       theme: prismThemes.github,
