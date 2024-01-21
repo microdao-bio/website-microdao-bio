@@ -97,7 +97,7 @@ const config = {
         //   position: 'right',
         // },
         {
-          href: 'https://github.com/chaos-mesh/chaos-mesh',
+          href: 'https://github.com/microdao-bio/',
           className: 'header-github-link',
           'aria-label': 'GitHub',
           position: 'right',
@@ -171,8 +171,7 @@ const config = {
         // },
       ],
       copyright: `
-        <p style="font-weight: 500;">Copyright © Chaos Mesh Authors ${new Date().getFullYear()} | Documentation Distributed under CC-BY-4.0</p>
-        © ${new Date().getFullYear()} The Linux Foundation. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our <a href="https://www.linuxfoundation.org/trademark-usage/"> Trademark Usage</a> page.
+        <p style="font-weight: 500;">Copyright © microDAO ${new Date().getFullYear()} | Derived from <a href='https://github.com/chaos-mesh/website'>Chaos Mesh Authors</a> </p>
       `,
     },
     prism: {
