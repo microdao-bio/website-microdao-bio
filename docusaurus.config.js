@@ -3,25 +3,24 @@
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
-
 import { themes as prismThemes } from 'prism-react-renderer'
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Chaos Mesh',
-  tagline: 'A Powerful Chaos Engineering Platform for Kubernetes',
+  title: 'MicroDAO',
+  tagline: 'Making AMR stewardship sustainable',
   favicon: '/img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://chaos-mesh.org',
+  url: 'https://microdao.bio',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'chaos-mesh', // Usually your GitHub org/user name.
-  projectName: 'chaos-mesh.github.io', // Usually your repo name.
+  organizationName: 'MicroDAO', // Usually your GitHub org/user name.
+  projectName: 'microdao.bio', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   trailingSlash: true,
@@ -45,20 +44,20 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         googleAnalytics: {
-          trackingID: 'UA-90760217-2',
+          trackingID: '-----',
         },
         docs: {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/chaos-mesh/website/edit/master/',
+          editUrl: 'https://github.com/microdao-bio/website-microdao-bio',
           editLocalizedFiles: true,
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/chaos-mesh/website/edit/master/',
+          editUrl: 'https://microdao.substack.com/',
           editLocalizedFiles: true,
         },
         theme: {
@@ -75,45 +74,28 @@ const config = {
     },
     image: '/img/chaos-mesh-social-preview.png',
     algolia: {
-      appId: '3BY0S3HQX6',
-      apiKey: '99bb3af44d57f0e8f6d7e019d7e2c2d7',
-      indexName: 'chaos-mesh',
+      appId: '---',
+      apiKey: '----',
+      indexName: 'micro-dao',
     },
     navbar: {
       hideOnScroll: true,
-      title: 'Chaos Mesh',
+      title: 'microDAO',
       logo: {
-        alt: 'Chaos Mesh',
+        alt: 'microDAO',
         src: 'img/logos/logo-mini.svg',
         srcDark: 'img/logos/logo-mini-white.svg',
       },
       items: [
-        { to: 'docs', label: 'Documentation' },
-        {
-          to: 'blog',
-          label: 'Blog',
-        },
-        {
-          href: 'https://community.cncf.io/chaos-mesh-community/',
-          label: 'Community Group',
-        },
-
-        {
-          type: 'docsVersionDropdown',
-          dropdownItemsAfter: [
-            {
-              type: 'html',
-              value: '<hr style="margin: .5em 0;" />',
-            },
-            { to: '/versions', label: 'All Versions' },
-            { to: '/supported-releases', label: 'Supported Releases' },
-          ],
-          position: 'right',
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-        },
+        { to: 'docusaurus/core/lib/server/index.js', label: 'Blog' },
+        // {
+        //   href: 'https://microdao.substack.com/',
+        //   label: 'Blog',
+        // },
+        // {
+        //   type: 'localeDropdown',
+        //   position: 'right',
+        // },
         {
           href: 'https://github.com/chaos-mesh/chaos-mesh',
           className: 'header-github-link',
@@ -124,69 +106,69 @@ const config = {
     },
     footer: {
       links: [
-        {
-          title: 'Documentation',
-          items: [
-            {
-              label: 'Quick Start',
-              to: 'docs/quick-start',
-            },
-            {
-              label: 'Run a Chaos Experiment',
-              to: 'docs/run-a-chaos-experiment',
-            },
-            {
-              label: 'Developer Guide Overview',
-              to: 'docs/developer-guide-overview',
-            },
-            {
-              label: 'FAQs',
-              to: 'docs/faqs',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'CNCF Community Group',
-              href: 'https://community.cncf.io/chaos-mesh-community/',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/chaos-mesh/chaos-mesh',
-            },
-            {
-              label: 'Slack (#project-chaos-mesh)',
-              href: 'https://slack.cncf.io/',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/chaos_mesh',
-            },
-          ],
-        },
-        {
-          title: 'Acknowledgements',
-          items: [
-            {
-              html: `
-              <ul>
-              <li>
-              <p style="font-size: 0.875rem;">Thanks to netlify's Open Source Plan.</p>
-              <a href="https://www.netlify.com" target="_blank"><img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /></a>
-              </li>
-              <li>
-              <p>Thanks for the <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>.</p>
-              </li>
-              </ul>`,
-            },
-          ],
-        },
+        // {
+        //   title: 'Documentation',
+        //   items: [
+        //     {
+        //       label: 'Quick Start',
+        //       to: 'docs/quick-start',
+        //     },
+        //     {
+        //       label: 'Run a Chaos Experiment',
+        //       to: 'docs/run-a-chaos-experiment',
+        //     },
+        //     {
+        //       label: 'Developer Guide Overview',
+        //       to: 'docs/developer-guide-overview',
+        //     },
+        //     {
+        //       label: 'FAQs',
+        //       to: 'docs/faqs',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'Community',
+        //   items: [
+        //     {
+        //       label: 'Blog',
+        //       to: 'blog',
+        //     },
+        //     {
+        //       label: 'CNCF Community Group',
+        //       href: 'https://community.cncf.io/chaos-mesh-community/',
+        //     },
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/chaos-mesh/chaos-mesh',
+        //     },
+        //     {
+        //       label: 'Slack (#project-chaos-mesh)',
+        //       href: 'https://slack.cncf.io/',
+        //     },
+        //     {
+        //       label: 'Twitter',
+        //       href: 'https://twitter.com/chaos_mesh',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'Acknowledgements',
+        //   items: [
+        //     {
+        //       html: `
+        //       <ul>
+        //       <li>
+        //       <p style="font-size: 0.875rem;">Thanks to netlify's Open Source Plan.</p>
+        //       <a href="https://www.netlify.com" target="_blank"><img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /></a>
+        //       </li>
+        //       <li>
+        //       <p>Thanks for the <a href="https://storyset.com/technology">Technology illustrations by Storyset</a>.</p>
+        //       </li>
+        //       </ul>`,
+        //     },
+        //   ],
+        // },
       ],
       copyright: `
         <p style="font-weight: 500;">Copyright © Chaos Mesh Authors ${new Date().getFullYear()} | Documentation Distributed under CC-BY-4.0</p>
