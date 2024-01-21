@@ -82,7 +82,7 @@ const config = {
         srcDark: 'img/logos/micro-dao-logo.png',
       },
       items: [
-        { to: 'docusaurus/core/lib/server/index.js', label: 'Blog' },
+        { to: 'https://microdao.substack.com/', label: 'Blog' },
         // {
         //   href: 'https://microdao.substack.com/',
         //   label: 'Blog',
