@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer'
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'MicroDAO',
-  tagline: 'Making AMR stewardship sustainable',
+  tagline: 'Funding the Next generation of AMR Solutions (Antimicrobials, Vaccines & Diagnostics)',
   favicon: '/img/favicon.ico',
 
   // Set the production url of your site here
@@ -83,10 +83,11 @@ const config = {
       },
       items: [
         { to: 'https://microdao.substack.com/', label: 'Blog' },
-        // {
-        //   href: 'https://microdao.substack.com/',
-        //   label: 'Blog',
-        // },
+        //  {to: 'https://alpha.forum.microdao.bio/', label: 'Forum'}
+        {
+          href: 'https://alpha.forum.microdao.bio/',
+          label: 'Forum',
+        },
         // {
         //   type: 'localeDropdown',
         //   position: 'right',

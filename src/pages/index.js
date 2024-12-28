@@ -74,11 +74,11 @@ function Home() {
                     styles.heroTitle
                   )}
                 >
-                  <span>Making</span>
+                  <span>Funding the</span>
                   <br />
-                  Antimicrobial
+                  Next Generation of
                   <br />
-                  <span>Stewardship Sustainable.</span>
+                  <span>AMR Solutions (Antimicrobials, Vaccines & Diagnostics)</span>
                 </h1>
                 <p className="lg:tw-text-lg tw-font-medium tw-rounded-2xl tw-backdrop-blur-sm lg:tw-backdrop-blur">
                   {/* TODO: add translation. */}
