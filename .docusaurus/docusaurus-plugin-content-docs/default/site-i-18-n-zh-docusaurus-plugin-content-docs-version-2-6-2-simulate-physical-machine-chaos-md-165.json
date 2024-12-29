@@ -1,0 +1,26 @@
+{
+  "id": "simulate-physical-machine-chaos",
+  "title": "使用 Chaos Mesh 创建物理机故障",
+  "description": "本文档介绍如何在 Chaos Mesh 中创建 PhysicalMachineChaos 混沌实验，以模拟物理机或虚拟机中的网络、磁盘、压力、JVM、时间等故障。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/simulate-physical-machine-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-physical-machine-chaos",
+  "permalink": "/zh/docs/simulate-physical-machine-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/simulate-physical-machine-chaos.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "使用 Chaos Mesh 创建物理机故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chaosd 组件简介",
+    "permalink": "/zh/docs/chaosd-overview"
+  },
+  "next": {
+    "title": "模拟进程故障",
+    "permalink": "/zh/docs/simulate-process-chaos-in-physical-nodes"
+  }
+}

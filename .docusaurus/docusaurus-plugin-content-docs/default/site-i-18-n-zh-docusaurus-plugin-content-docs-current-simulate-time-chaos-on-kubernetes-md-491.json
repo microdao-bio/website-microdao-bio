@@ -1,0 +1,26 @@
+{
+  "id": "simulate-time-chaos-on-kubernetes",
+  "title": "模拟时间故障",
+  "description": "TimeChaos 介绍",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/simulate-time-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-time-chaos-on-kubernetes",
+  "permalink": "/zh/docs/next/simulate-time-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/simulate-time-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "模拟时间故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 DNS 故障",
+    "permalink": "/zh/docs/next/simulate-dns-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "模拟 JVM 应用故障",
+    "permalink": "/zh/docs/next/simulate-jvm-application-chaos"
+  }
+}

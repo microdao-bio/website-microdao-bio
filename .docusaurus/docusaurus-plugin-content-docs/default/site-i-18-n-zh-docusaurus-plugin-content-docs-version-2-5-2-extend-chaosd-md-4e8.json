@@ -1,0 +1,26 @@
+{
+  "id": "extend-chaosd",
+  "title": "拓展 Chaosd 组件",
+  "description": "TODO",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/extend-chaosd.md",
+  "sourceDirName": ".",
+  "slug": "/extend-chaosd",
+  "permalink": "/zh/docs/2.5.2/extend-chaosd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/extend-chaosd.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "拓展 Chaosd 组件"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "拓展 Chaos Daemon 接口",
+    "permalink": "/zh/docs/2.5.2/extend-chaos-daemon-interface"
+  },
+  "next": {
+    "title": "常见问题解答 (FAQ)",
+    "permalink": "/zh/docs/2.5.2/faqs"
+  }
+}

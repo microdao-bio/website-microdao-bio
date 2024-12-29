@@ -1,0 +1,26 @@
+{
+  "id": "developer-guide-overview",
+  "title": "开发指南概览",
+  "description": "中文版开发指南的内容已经过时，请参考 英文版开发指南。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/developer-guide-overview.md",
+  "sourceDirName": ".",
+  "slug": "/developer-guide-overview",
+  "permalink": "/zh/docs/developer-guide-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/developer-guide-overview.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "开发指南概览"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chaosctl",
+    "permalink": "/zh/docs/chaosctl-tool"
+  },
+  "next": {
+    "title": "配置开发环境",
+    "permalink": "/zh/docs/configure-development-environment"
+  }
+}

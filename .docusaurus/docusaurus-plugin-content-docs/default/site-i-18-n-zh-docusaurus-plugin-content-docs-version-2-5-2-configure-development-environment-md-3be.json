@@ -1,0 +1,26 @@
+{
+  "id": "configure-development-environment",
+  "title": "配置开发环境",
+  "description": "本文档介绍如何搭建 Chaos Mesh 的开发环境。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/configure-development-environment.md",
+  "sourceDirName": ".",
+  "slug": "/configure-development-environment",
+  "permalink": "/zh/docs/2.5.2/configure-development-environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/configure-development-environment.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "配置开发环境"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "开发指南概览",
+    "permalink": "/zh/docs/2.5.2/developer-guide-overview"
+  },
+  "next": {
+    "title": "新增混沌实验类型",
+    "permalink": "/zh/docs/2.5.2/add-new-chaos-experiment-type"
+  }
+}

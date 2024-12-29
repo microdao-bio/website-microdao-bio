@@ -1,0 +1,26 @@
+{
+  "id": "basic-features",
+  "title": "基本功能",
+  "description": "本文档介绍 Chaos Mesh 的基本功能，包括故障注入、混沌实验场景、可视化操作、安全保障。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/basic-features.md",
+  "sourceDirName": ".",
+  "slug": "/basic-features",
+  "permalink": "/zh/docs/2.4.3/basic-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/basic-features.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "基本功能"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chaos Mesh 简介",
+    "permalink": "/zh/docs/2.4.3/"
+  },
+  "next": {
+    "title": "快速试用",
+    "permalink": "/zh/docs/2.4.3/quick-start"
+  }
+}

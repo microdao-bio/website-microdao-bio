@@ -1,0 +1,26 @@
+{
+  "id": "simulate-gcp-chaos",
+  "title": "模拟 GCP 故障",
+  "description": "本文档介绍如何使用 Chaos Mesh 为 GCP 节点注入故障，并提供 Dashboard 和 YAML 文件两种方式用于创建 GCPChaos 实验。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-gcp-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-gcp-chaos",
+  "permalink": "/zh/docs/2.4.3/simulate-gcp-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-gcp-chaos.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "模拟 GCP 故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 Azure 故障",
+    "permalink": "/zh/docs/2.4.3/simulate-azure-chaos"
+  },
+  "next": {
+    "title": "模拟 HTTP 故障",
+    "permalink": "/zh/docs/2.4.3/simulate-http-chaos-on-kubernetes"
+  }
+}

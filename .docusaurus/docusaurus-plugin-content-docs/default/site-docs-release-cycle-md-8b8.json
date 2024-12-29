@@ -5,7 +5,7 @@
   "source": "@site/docs/release-cycle.md",
   "sourceDirName": ".",
   "slug": "/release-cycle",
-  "permalink": "/docs/next/release-cycle",
+  "permalink": "/zh/docs/next/release-cycle",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/release-cycle.md",
@@ -16,11 +16,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Upgrade from 2.1 to 2.2",
-    "permalink": "/docs/next/upgrade-from-2.1-to-2.2"
+    "title": "从 2.1 升级到 2.2",
+    "permalink": "/zh/docs/next/upgrade-from-2.1-to-2.2"
   },
   "next": {
     "title": "Chaos Mesh v2.5.0 Tracking",
-    "permalink": "/docs/next/release-2.5-tracking"
+    "permalink": "/zh/docs/next/release-2.5-tracking"
   }
 }

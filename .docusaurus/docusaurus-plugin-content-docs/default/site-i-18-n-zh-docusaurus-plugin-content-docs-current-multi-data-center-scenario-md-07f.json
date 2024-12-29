@@ -1,0 +1,17 @@
+{
+  "id": "multi-data-center-scenario",
+  "title": "多数据中心场景",
+  "description": "TODO",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/multi-data-center-scenario.md",
+  "sourceDirName": ".",
+  "slug": "/multi-data-center-scenario",
+  "permalink": "/zh/docs/next/multi-data-center-scenario",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/multi-data-center-scenario.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "多数据中心场景"
+  }
+}

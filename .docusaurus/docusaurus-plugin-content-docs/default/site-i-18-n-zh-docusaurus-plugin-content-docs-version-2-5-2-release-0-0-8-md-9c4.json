@@ -1,0 +1,17 @@
+{
+  "id": "release-0.0.8",
+  "title": "0.0.8 release notes",
+  "description": "TODO",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/release-0.0.8.md",
+  "sourceDirName": ".",
+  "slug": "/release-0.0.8",
+  "permalink": "/zh/docs/2.5.2/release-0.0.8",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/release-0.0.8.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "0.0.8 release notes"
+  }
+}

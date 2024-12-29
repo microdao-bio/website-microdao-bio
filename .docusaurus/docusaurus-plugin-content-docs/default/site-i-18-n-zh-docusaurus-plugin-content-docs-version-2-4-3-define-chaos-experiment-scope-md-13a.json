@@ -1,0 +1,26 @@
+{
+  "id": "define-chaos-experiment-scope",
+  "title": "定义实验范围",
+  "description": "本篇文档描述如何为单个混沌实验定义实验范围，帮助你准确地控制故障爆炸半径。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/define-chaos-experiment-scope.md",
+  "sourceDirName": ".",
+  "slug": "/define-chaos-experiment-scope",
+  "permalink": "/zh/docs/2.4.3/define-chaos-experiment-scope",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/define-chaos-experiment-scope.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "定义实验范围"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "配置允许混沌实验的命名空间",
+    "permalink": "/zh/docs/2.4.3/configure-enabled-namespace"
+  },
+  "next": {
+    "title": "定义调度规则",
+    "permalink": "/zh/docs/2.4.3/define-scheduling-rules"
+  }
+}

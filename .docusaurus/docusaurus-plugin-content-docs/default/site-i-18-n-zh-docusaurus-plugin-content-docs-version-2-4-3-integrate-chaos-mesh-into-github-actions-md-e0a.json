@@ -1,0 +1,26 @@
+{
+  "id": "integrate-chaos-mesh-into-github-actions",
+  "title": "集成 Chaos Mesh 到 GitHub Actions",
+  "description": "本文介绍如何使用 chaos-mesh-action 将 Chaos Mesh 集成到 CI 中，帮助你在产品发布前发现在系统开发过程中引入的问题。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/integrate-chaos-mesh-into-github-actions.md",
+  "sourceDirName": ".",
+  "slug": "/integrate-chaos-mesh-into-github-actions",
+  "permalink": "/zh/docs/2.4.3/integrate-chaos-mesh-into-github-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/integrate-chaos-mesh-into-github-actions.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "集成 Chaos Mesh 到 GitHub Actions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "GCP 身份验证接入",
+    "permalink": "/zh/docs/2.4.3/gcp-authentication"
+  },
+  "next": {
+    "title": "使用 Grafana Data Source 插件进行观测",
+    "permalink": "/zh/docs/2.4.3/use-grafana-data-source"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "remote-cluster-management",
+  "title": "远程集群管理",
+  "description": "远程集群介绍",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/remote-cluster-management.md",
+  "sourceDirName": ".",
+  "slug": "/remote-cluster-management",
+  "permalink": "/zh/docs/next/remote-cluster-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/remote-cluster-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "远程集群管理"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "配置允许混沌实验的命名空间",
+    "permalink": "/zh/docs/next/configure-enabled-namespace"
+  },
+  "next": {
+    "title": "定义实验范围",
+    "permalink": "/zh/docs/next/define-chaos-experiment-scope"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "manage-user-permissions",
+  "title": "管理用户权限",
+  "description": "本文档介绍如何在 Chaos Mesh 中进行用户权限管理，包括创建用户并绑定权限、管理令牌以及开启/关闭权限验证功能。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/manage-user-permissions.md",
+  "sourceDirName": ".",
+  "slug": "/manage-user-permissions",
+  "permalink": "/zh/docs/2.5.2/manage-user-permissions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/manage-user-permissions.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "管理用户权限"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "卸载 Chaos Mesh",
+    "permalink": "/zh/docs/2.5.2/uninstallation"
+  },
+  "next": {
+    "title": "配置允许混沌实验的命名空间",
+    "permalink": "/zh/docs/2.5.2/configure-enabled-namespace"
+  }
+}

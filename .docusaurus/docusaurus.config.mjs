@@ -8,7 +8,7 @@ export default {
   "tagline": "Funding the Next generation of AMR Solutions (Antimicrobials, Vaccines & Diagnostics)",
   "favicon": "/img/favicon.ico",
   "url": "https://microdao.bio",
-  "baseUrl": "/",
+  "baseUrl": "/zh/",
   "organizationName": "MicroDAO",
   "projectName": "microdao.bio",
   "onBrokenLinks": "warn",
@@ -62,7 +62,7 @@ export default {
     },
     "navbar": {
       "hideOnScroll": true,
-      "title": "microDAO",
+      "title": "Chaos Mesh",
       "logo": {
         "alt": "microDAO",
         "src": "img/logos/micro-dao-logo.png",
@@ -71,7 +71,7 @@ export default {
       "items": [
         {
           "to": "https://microdao.substack.com/",
-          "label": "Blog",
+          "label": "博客",
           "position": "left"
         },
         {
@@ -88,7 +88,7 @@ export default {
       ]
     },
     "footer": {
-      "copyright": "\n        <p style=\"font-weight: 500;\">Copyright © microDAO 2024 | Derived from <a href='https://github.com/chaos-mesh/website'>Chaos Mesh documentation site</a> </p>",
+      "copyright": "\n        <br />\n        <strong>© Chaos Mesh Authors 2021 | Documentation Distributed under CC-BY-4.0 </strong>\n        <br />\n        <br />\n        © 2021 The Linux Foundation. All rights reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our <a href=\"https://www.linuxfoundation.org/trademark-usage/\"> Trademark Usage</a> page.\n      ",
       "style": "light",
       "links": []
     },

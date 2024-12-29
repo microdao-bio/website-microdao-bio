@@ -1,0 +1,26 @@
+{
+  "id": "simulate-disk-pressure-in-physical-nodes",
+  "title": "模拟磁盘故障",
+  "description": "本文主要介绍如何使用 Chaosd 模拟磁盘故障场景。使用该功能，你可以在物理机器上模拟磁盘读写负载（通过 dd），或磁盘填充（通过 dd，或 fallocate）。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/simulate-disk-pressure-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-disk-pressure-in-physical-nodes",
+  "permalink": "/zh/docs/simulate-disk-pressure-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/simulate-disk-pressure-in-physical-nodes.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "模拟磁盘故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟压力场景",
+    "permalink": "/zh/docs/simulate-heavy-stress-in-physical-nodes"
+  },
+  "next": {
+    "title": "模拟 JVM 应用故障",
+    "permalink": "/zh/docs/simulate-jvm-application-chaos-in-physical-nodes"
+  }
+}

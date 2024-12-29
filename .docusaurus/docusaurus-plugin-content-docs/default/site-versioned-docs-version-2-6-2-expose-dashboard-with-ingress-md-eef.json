@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-2.6.2/expose-dashboard-with-ingress.md",
   "sourceDirName": ".",
   "slug": "/expose-dashboard-with-ingress",
-  "permalink": "/docs/expose-dashboard-with-ingress",
+  "permalink": "/zh/docs/expose-dashboard-with-ingress",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/expose-dashboard-with-ingress.md",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "docs",
   "previous": {
-    "title": "Install Chaos Mesh Offline",
-    "permalink": "/docs/offline-installation"
+    "title": "离线安装",
+    "permalink": "/zh/docs/offline-installation"
   },
   "next": {
-    "title": "Persistence Chaos Dashboard",
-    "permalink": "/docs/persistence-dashboard"
+    "title": "持久化 Chaos Dashboard 数据",
+    "permalink": "/zh/docs/persistence-dashboard"
   }
 }

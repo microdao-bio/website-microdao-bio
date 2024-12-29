@@ -1,0 +1,26 @@
+{
+  "id": "run-a-chaos-experiment",
+  "title": "运行实验",
+  "description": "本文档介绍如何使用 Chaos Mesh 创建并运行混沌实验、查看混沌实验运行情况、暂停混沌实验、更新混沌实验以及清理混沌实验。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/run-a-chaos-experiment.md",
+  "sourceDirName": ".",
+  "slug": "/run-a-chaos-experiment",
+  "permalink": "/zh/docs/2.5.2/run-a-chaos-experiment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/run-a-chaos-experiment.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "运行实验"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "定义调度规则",
+    "permalink": "/zh/docs/2.5.2/define-scheduling-rules"
+  },
+  "next": {
+    "title": "检查实验结果",
+    "permalink": "/zh/docs/2.5.2/inspect-chaos-experiments"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "developer-guide-overview",
+  "title": "开发指南概览",
+  "description": "本文档介绍如何开发 Chaos Mesh。在开始之前，推荐阅读以下材料以熟悉整个项目：",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/developer-guide-overview.md",
+  "sourceDirName": ".",
+  "slug": "/developer-guide-overview",
+  "permalink": "/zh/docs/2.4.3/developer-guide-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/developer-guide-overview.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "开发指南概览"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chaosctl",
+    "permalink": "/zh/docs/2.4.3/chaosctl-tool"
+  },
+  "next": {
+    "title": "配置开发环境",
+    "permalink": "/zh/docs/2.4.3/configure-development-environment"
+  }
+}

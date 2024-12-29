@@ -1,0 +1,26 @@
+{
+  "id": "configure-enabled-namespace",
+  "title": "配置允许混沌实验的命名空间",
+  "description": "本篇文章描述如何配置混沌实验只在指定的命名空间内生效，其他未配置的命令空间则会受到保护不会被故障注入。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/configure-enabled-namespace.md",
+  "sourceDirName": ".",
+  "slug": "/configure-enabled-namespace",
+  "permalink": "/zh/docs/2.4.3/configure-enabled-namespace",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/configure-enabled-namespace.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "配置允许混沌实验的命名空间"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "管理用户权限",
+    "permalink": "/zh/docs/2.4.3/manage-user-permissions"
+  },
+  "next": {
+    "title": "定义实验范围",
+    "permalink": "/zh/docs/2.4.3/define-chaos-experiment-scope"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "inspect-chaos-experiments",
+  "title": "检查实验结果",
+  "description": "本文档介绍如何使用 Chaos Mesh 检查混沌实验的运行状态和结果。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/inspect-chaos-experiments.md",
+  "sourceDirName": ".",
+  "slug": "/inspect-chaos-experiments",
+  "permalink": "/zh/docs/next/inspect-chaos-experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/inspect-chaos-experiments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "检查实验结果"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "运行实验",
+    "permalink": "/zh/docs/next/run-a-chaos-experiment"
+  },
+  "next": {
+    "title": "创建 Chaos Mesh 工作流",
+    "permalink": "/zh/docs/next/create-chaos-mesh-workflow"
+  }
+}

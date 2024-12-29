@@ -1,0 +1,26 @@
+{
+  "id": "simulate-kernel-chaos-on-kubernetes",
+  "title": "模拟 Linux 内核故障",
+  "description": "本文介绍如何使用 KernelChaos 模拟 Linux 内核故障。该功能通过使用 BPF 在指定内核路径上注入基于 I/O 或内存的故障。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-kernel-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-kernel-chaos-on-kubernetes",
+  "permalink": "/zh/docs/2.4.3/simulate-kernel-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-kernel-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "模拟 Linux 内核故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 JVM 应用故障",
+    "permalink": "/zh/docs/2.4.3/simulate-jvm-application-chaos"
+  },
+  "next": {
+    "title": "模拟 AWS 故障",
+    "permalink": "/zh/docs/2.4.3/simulate-aws-chaos"
+  }
+}

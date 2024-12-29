@@ -1,0 +1,26 @@
+{
+  "id": "production-installation-using-helm",
+  "title": "使用 Helm 安装 Chaos Mesh",
+  "description": "本篇文档描述如何在生产环境安装 Chaos Mesh。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/production-installation-using-helm.md",
+  "sourceDirName": ".",
+  "slug": "/production-installation-using-helm",
+  "permalink": "/zh/docs/next/production-installation-using-helm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/production-installation-using-helm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "使用 Helm 安装 Chaos Mesh"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "快速试用",
+    "permalink": "/zh/docs/next/quick-start"
+  },
+  "next": {
+    "title": "离线安装",
+    "permalink": "/zh/docs/next/offline-installation"
+  }
+}

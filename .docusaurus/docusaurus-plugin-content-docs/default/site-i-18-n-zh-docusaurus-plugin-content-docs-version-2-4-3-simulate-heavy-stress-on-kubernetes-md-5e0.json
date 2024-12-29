@@ -1,0 +1,26 @@
+{
+  "id": "simulate-heavy-stress-on-kubernetes",
+  "title": "模拟压力场景",
+  "description": "StressChaos 介绍",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-heavy-stress-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-heavy-stress-on-kubernetes",
+  "permalink": "/zh/docs/2.4.3/simulate-heavy-stress-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-heavy-stress-on-kubernetes.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "模拟压力场景"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟网络故障",
+    "permalink": "/zh/docs/2.4.3/simulate-network-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "模拟文件 I/O 故障",
+    "permalink": "/zh/docs/2.4.3/simulate-io-chaos-on-kubernetes"
+  }
+}

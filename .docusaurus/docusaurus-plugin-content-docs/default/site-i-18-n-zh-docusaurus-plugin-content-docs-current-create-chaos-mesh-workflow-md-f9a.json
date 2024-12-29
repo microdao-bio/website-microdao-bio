@@ -1,0 +1,26 @@
+{
+  "id": "create-chaos-mesh-workflow",
+  "title": "创建 Chaos Mesh 工作流",
+  "description": "Chaos Mesh 工作流简介",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/create-chaos-mesh-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/create-chaos-mesh-workflow",
+  "permalink": "/zh/docs/next/create-chaos-mesh-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/create-chaos-mesh-workflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "创建 Chaos Mesh 工作流"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "检查实验结果",
+    "permalink": "/zh/docs/next/inspect-chaos-experiments"
+  },
+  "next": {
+    "title": "串行或并行运行实验",
+    "permalink": "/zh/docs/next/run-serial-or-parallel-experiments"
+  }
+}

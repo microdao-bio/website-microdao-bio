@@ -1,0 +1,26 @@
+{
+  "id": "send-http-request-on-workflow",
+  "title": "在工作流中发送 HTTP 请求",
+  "description": "Chaos Mesh 工作流提供了 Task 节点以支持任意工作负载，其功能类似于 Kubernetes 中的 Job。 为了提供更好的产品体验，Chaos Dashboard 提供了一个基于 Task 的模板。通过此模板，你可以方便地在 WebUI 中创建 HTTP 请求。本文介绍如何通过 Chaos Dashboard 创建 HTTP 请求。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/send-http-request-on-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/send-http-request-on-workflow",
+  "permalink": "/zh/docs/send-http-request-on-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.6.2/send-http-request-on-workflow.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "在工作流中发送 HTTP 请求"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "串行或并行运行实验",
+    "permalink": "/zh/docs/run-serial-or-parallel-experiments"
+  },
+  "next": {
+    "title": "检查工作流状态",
+    "permalink": "/zh/docs/check-workflow-status"
+  }
+}

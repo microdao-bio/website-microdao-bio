@@ -1,0 +1,26 @@
+{
+  "id": "offline-installation",
+  "title": "离线安装",
+  "description": "本篇文档描述如何离线安装 Chaos Mesh。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/offline-installation.md",
+  "sourceDirName": ".",
+  "slug": "/offline-installation",
+  "permalink": "/zh/docs/next/offline-installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/offline-installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "离线安装"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "使用 Helm 安装 Chaos Mesh",
+    "permalink": "/zh/docs/next/production-installation-using-helm"
+  },
+  "next": {
+    "title": "Expose Chaos Dashboard with Ingress",
+    "permalink": "/zh/docs/next/expose-dashboard-with-ingress"
+  }
+}

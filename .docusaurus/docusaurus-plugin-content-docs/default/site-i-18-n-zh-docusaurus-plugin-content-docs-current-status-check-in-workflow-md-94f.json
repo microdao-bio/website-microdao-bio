@@ -1,0 +1,26 @@
+{
+  "id": "status-check-in-workflow",
+  "title": "在工作流中进行状态检查",
+  "description": "在工作流中，状态检查可对外部系统（比如业务应用系统、监控系统）执行指定的操作来获得系统的状态，并当检查到系统不健康时可以自动地终止工作流，其概念类似于 Kubernetes 中的 Container Probes。本文介绍如何通过 YAML 的方式在工作流中进行状态检查。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/status-check-in-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/status-check-in-workflow",
+  "permalink": "/zh/docs/next/status-check-in-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/status-check-in-workflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "在工作流中进行状态检查"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "检查工作流状态",
+    "permalink": "/zh/docs/next/check-workflow-status"
+  },
+  "next": {
+    "title": "模拟 Pod 故障",
+    "permalink": "/zh/docs/next/simulate-pod-chaos-on-kubernetes"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "common/verify-installation",
+  "title": "verify-installation",
+  "description": "要查看 Chaos Mesh 的运行情况，请执行以下命令：",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/common/verify-installation.md",
+  "sourceDirName": "common",
+  "slug": "/common/verify-installation",
+  "permalink": "/zh/docs/2.5.2/common/verify-installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/common/verify-installation.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {}
+}

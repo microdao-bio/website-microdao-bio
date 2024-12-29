@@ -1,0 +1,26 @@
+{
+  "id": "uninstallation",
+  "title": "卸载 Chaos Mesh",
+  "description": "这篇文档介绍了如何卸载 Chaos Mesh，包括使用 Helm 卸载 Chaos Mesh 和手动卸载 Chaos Mesh。如果你需要从 Kubernetes 集群中手动清除 Chaos Mesh，这篇文档也是非常有用的。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/uninstallation.md",
+  "sourceDirName": ".",
+  "slug": "/uninstallation",
+  "permalink": "/zh/docs/2.5.2/uninstallation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/uninstallation.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "卸载 Chaos Mesh"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "持久化 Chaos Dashboard 数据",
+    "permalink": "/zh/docs/2.5.2/persistence-dashboard"
+  },
+  "next": {
+    "title": "管理用户权限",
+    "permalink": "/zh/docs/2.5.2/manage-user-permissions"
+  }
+}

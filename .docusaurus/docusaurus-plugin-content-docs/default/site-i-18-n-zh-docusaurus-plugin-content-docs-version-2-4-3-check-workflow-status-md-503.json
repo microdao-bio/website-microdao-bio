@@ -1,0 +1,26 @@
+{
+  "id": "check-workflow-status",
+  "title": "检查工作流状态",
+  "description": "通过 Chaos Dashboard 检查工作流状态",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/check-workflow-status.md",
+  "sourceDirName": ".",
+  "slug": "/check-workflow-status",
+  "permalink": "/zh/docs/2.4.3/check-workflow-status",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/check-workflow-status.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "检查工作流状态"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "在工作流中发送 HTTP 请求",
+    "permalink": "/zh/docs/2.4.3/send-http-request-on-workflow"
+  },
+  "next": {
+    "title": "在工作流中进行状态检查",
+    "permalink": "/zh/docs/2.4.3/status-check-in-workflow"
+  }
+}

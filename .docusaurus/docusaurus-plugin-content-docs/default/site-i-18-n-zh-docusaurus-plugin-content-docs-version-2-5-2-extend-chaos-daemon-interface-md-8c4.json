@@ -1,0 +1,26 @@
+{
+  "id": "extend-chaos-daemon-interface",
+  "title": "拓展 Chaos Daemon 接口",
+  "description": "在新增混沌实验类型中，你实现了一种名为 HelloWorldChaos 的混沌实验，它的功能是在 Chaos Controller Manager 的日志中输出一行 \"Hello world!\"。为了让 HelloWorldChaos 真正有用，你还需要向 Chaos Daemon 添加接口，从而在目标 Pod 上注入一些故障。比方说，获取目标 Pod 中正在运行的进程信息。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/extend-chaos-daemon-interface.md",
+  "sourceDirName": ".",
+  "slug": "/extend-chaos-daemon-interface",
+  "permalink": "/zh/docs/2.5.2/extend-chaos-daemon-interface",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/extend-chaos-daemon-interface.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "拓展 Chaos Daemon 接口"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "新增混沌实验类型",
+    "permalink": "/zh/docs/2.5.2/add-new-chaos-experiment-type"
+  },
+  "next": {
+    "title": "拓展 Chaosd 组件",
+    "permalink": "/zh/docs/2.5.2/extend-chaosd"
+  }
+}

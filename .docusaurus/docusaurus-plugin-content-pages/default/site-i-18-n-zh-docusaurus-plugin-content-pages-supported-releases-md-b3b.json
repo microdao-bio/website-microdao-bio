@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/zh/supported-releases",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-pages/supported-releases.md",
+  "title": "支持的版本",
+  "description": "此页面列出了当前支持的版本的状态、时间表和策略。",
+  "frontMatter": {},
+  "unlisted": false
+}

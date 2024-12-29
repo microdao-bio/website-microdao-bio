@@ -1,0 +1,26 @@
+{
+  "id": "run-serial-or-parallel-experiments",
+  "title": "串行或并行运行实验",
+  "description": "Chaos Mesh 工作流提供了串行与并行两种实验编排方式。你可以依据实验需求，编排调度多个实验的运行方式。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/run-serial-or-parallel-experiments.md",
+  "sourceDirName": ".",
+  "slug": "/run-serial-or-parallel-experiments",
+  "permalink": "/zh/docs/2.4.3/run-serial-or-parallel-experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/run-serial-or-parallel-experiments.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "串行或并行运行实验"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "创建 Chaos Mesh 工作流",
+    "permalink": "/zh/docs/2.4.3/create-chaos-mesh-workflow"
+  },
+  "next": {
+    "title": "在工作流中发送 HTTP 请求",
+    "permalink": "/zh/docs/2.4.3/send-http-request-on-workflow"
+  }
+}

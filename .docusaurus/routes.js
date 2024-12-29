@@ -1,1851 +1,1816 @@
-import React from 'react';
-import ComponentCreator from '@docusaurus/ComponentCreator';
+import ComponentCreator from '@docusaurus/ComponentCreator'
+import React from 'react'
 
 export default [
   {
-    path: '/__docusaurus/debug/',
-    component: ComponentCreator('/__docusaurus/debug/', '546'),
-    exact: true
+    path: '/zh/supported-releases/',
+    component: ComponentCreator('/zh/supported-releases/', '449'),
+    exact: true,
   },
   {
-    path: '/__docusaurus/debug/config/',
-    component: ComponentCreator('/__docusaurus/debug/config/', '8a8'),
-    exact: true
+    path: '/zh/versions/',
+    component: ComponentCreator('/zh/versions/', '5b7'),
+    exact: true,
   },
   {
-    path: '/__docusaurus/debug/content/',
-    component: ComponentCreator('/__docusaurus/debug/content/', '2da'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData/',
-    component: ComponentCreator('/__docusaurus/debug/globalData/', '178'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata/',
-    component: ComponentCreator('/__docusaurus/debug/metadata/', 'd6c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry/',
-    component: ComponentCreator('/__docusaurus/debug/registry/', '6e3'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes/',
-    component: ComponentCreator('/__docusaurus/debug/routes/', 'cab'),
-    exact: true
-  },
-  {
-    path: '/supported-releases/',
-    component: ComponentCreator('/supported-releases/', 'ed1'),
-    exact: true
-  },
-  {
-    path: '/versions/',
-    component: ComponentCreator('/versions/', 'd5a'),
-    exact: true
-  },
-  {
-    path: '/docs/',
-    component: ComponentCreator('/docs/', '296'),
+    path: '/zh/docs/',
+    component: ComponentCreator('/zh/docs/', '759'),
     routes: [
       {
-        path: '/docs/2.4.3/',
-        component: ComponentCreator('/docs/2.4.3/', 'c4b'),
+        path: '/zh/docs/2.4.3/',
+        component: ComponentCreator('/zh/docs/2.4.3/', '2a7'),
         routes: [
           {
-            path: '/docs/2.4.3/',
-            component: ComponentCreator('/docs/2.4.3/', '3f7'),
+            path: '/zh/docs/2.4.3/',
+            component: ComponentCreator('/zh/docs/2.4.3/', 'ce8'),
             routes: [
               {
-                path: '/docs/2.4.3/',
-                component: ComponentCreator('/docs/2.4.3/', 'd9e'),
+                path: '/zh/docs/2.4.3/',
+                component: ComponentCreator('/zh/docs/2.4.3/', 'ac1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/add-new-chaos-experiment-type/',
-                component: ComponentCreator('/docs/2.4.3/add-new-chaos-experiment-type/', 'bca'),
+                path: '/zh/docs/2.4.3/add-new-chaos-experiment-type/',
+                component: ComponentCreator('/zh/docs/2.4.3/add-new-chaos-experiment-type/', '9c8'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/basic-features/',
-                component: ComponentCreator('/docs/2.4.3/basic-features/', '60a'),
+                path: '/zh/docs/2.4.3/basic-features/',
+                component: ComponentCreator('/zh/docs/2.4.3/basic-features/', 'dab'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/chaos-engineering-principles/',
-                component: ComponentCreator('/docs/2.4.3/chaos-engineering-principles/', '284'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/chaosctl-tool/',
-                component: ComponentCreator('/docs/2.4.3/chaosctl-tool/', 'fb9'),
+                path: '/zh/docs/2.4.3/chaos-engineering-principles/',
+                component: ComponentCreator('/zh/docs/2.4.3/chaos-engineering-principles/', '7da'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/chaosd-overview/',
-                component: ComponentCreator('/docs/2.4.3/chaosd-overview/', 'a3d'),
+                path: '/zh/docs/2.4.3/chaosctl-tool/',
+                component: ComponentCreator('/zh/docs/2.4.3/chaosctl-tool/', '6dc'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/chaosd-search-recover/',
-                component: ComponentCreator('/docs/2.4.3/chaosd-search-recover/', '9e5'),
+                path: '/zh/docs/2.4.3/chaosd-overview/',
+                component: ComponentCreator('/zh/docs/2.4.3/chaosd-overview/', 'c7f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/check-workflow-status/',
-                component: ComponentCreator('/docs/2.4.3/check-workflow-status/', 'cb2'),
+                path: '/zh/docs/2.4.3/chaosd-search-recover/',
+                component: ComponentCreator('/zh/docs/2.4.3/chaosd-search-recover/', 'c92'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/clean-up-chaos-experiments/',
-                component: ComponentCreator('/docs/2.4.3/clean-up-chaos-experiments/', '7f8'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/common/quick-run/',
-                component: ComponentCreator('/docs/2.4.3/common/quick-run/', '741'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/common/verify-installation/',
-                component: ComponentCreator('/docs/2.4.3/common/verify-installation/', '89e'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/configure-development-environment/',
-                component: ComponentCreator('/docs/2.4.3/configure-development-environment/', 'b09'),
+                path: '/zh/docs/2.4.3/check-workflow-status/',
+                component: ComponentCreator('/zh/docs/2.4.3/check-workflow-status/', 'f77'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/configure-enabled-namespace/',
-                component: ComponentCreator('/docs/2.4.3/configure-enabled-namespace/', '266'),
+                path: '/zh/docs/2.4.3/clean-up-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/2.4.3/clean-up-chaos-experiments/', 'a65'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/create-chaos-mesh-workflow/',
-                component: ComponentCreator('/docs/2.4.3/create-chaos-mesh-workflow/', '43d'),
+                path: '/zh/docs/2.4.3/common/quick-run/',
+                component: ComponentCreator('/zh/docs/2.4.3/common/quick-run/', 'ba1'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/define-chaos-experiment-scope/',
-                component: ComponentCreator('/docs/2.4.3/define-chaos-experiment-scope/', '96e'),
+                path: '/zh/docs/2.4.3/common/verify-installation/',
+                component: ComponentCreator('/zh/docs/2.4.3/common/verify-installation/', 'f20'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/define-scheduling-rules/',
-                component: ComponentCreator('/docs/2.4.3/define-scheduling-rules/', 'e00'),
+                path: '/zh/docs/2.4.3/configure-development-environment/',
+                component: ComponentCreator('/zh/docs/2.4.3/configure-development-environment/', '8a2'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/define-workflow-scheduling-rules/',
-                component: ComponentCreator('/docs/2.4.3/define-workflow-scheduling-rules/', 'a07'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/developer-guide-overview/',
-                component: ComponentCreator('/docs/2.4.3/developer-guide-overview/', 'b44'),
+                path: '/zh/docs/2.4.3/configure-enabled-namespace/',
+                component: ComponentCreator('/zh/docs/2.4.3/configure-enabled-namespace/', 'dc7'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/extend-chaos-daemon-interface/',
-                component: ComponentCreator('/docs/2.4.3/extend-chaos-daemon-interface/', '373'),
+                path: '/zh/docs/2.4.3/create-chaos-mesh-workflow/',
+                component: ComponentCreator('/zh/docs/2.4.3/create-chaos-mesh-workflow/', 'fc6'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/extend-chaosd/',
-                component: ComponentCreator('/docs/2.4.3/extend-chaosd/', '370'),
+                path: '/zh/docs/2.4.3/define-chaos-experiment-scope/',
+                component: ComponentCreator('/zh/docs/2.4.3/define-chaos-experiment-scope/', '1b4'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/faqs/',
-                component: ComponentCreator('/docs/2.4.3/faqs/', 'cef'),
+                path: '/zh/docs/2.4.3/define-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/2.4.3/define-scheduling-rules/', 'e52'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/gcp-authentication/',
-                component: ComponentCreator('/docs/2.4.3/gcp-authentication/', '058'),
+                path: '/zh/docs/2.4.3/define-workflow-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/2.4.3/define-workflow-scheduling-rules/', 'b4a'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/glossary/',
-                component: ComponentCreator('/docs/2.4.3/glossary/', 'ce7'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/go-client/',
-                component: ComponentCreator('/docs/2.4.3/go-client/', '8d3'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/inspect-chaos-experiments/',
-                component: ComponentCreator('/docs/2.4.3/inspect-chaos-experiments/', '298'),
+                path: '/zh/docs/2.4.3/developer-guide-overview/',
+                component: ComponentCreator('/zh/docs/2.4.3/developer-guide-overview/', '6b3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/integrate-chaos-mesh-into-github-actions/',
-                component: ComponentCreator('/docs/2.4.3/integrate-chaos-mesh-into-github-actions/', '835'),
+                path: '/zh/docs/2.4.3/extend-chaos-daemon-interface/',
+                component: ComponentCreator('/zh/docs/2.4.3/extend-chaos-daemon-interface/', 'c9e'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/java-client/',
-                component: ComponentCreator('/docs/2.4.3/java-client/', '94b'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/manage-user-permissions/',
-                component: ComponentCreator('/docs/2.4.3/manage-user-permissions/', '3f5'),
+                path: '/zh/docs/2.4.3/extend-chaosd/',
+                component: ComponentCreator('/zh/docs/2.4.3/extend-chaosd/', '974'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/multi-data-center-scenario/',
-                component: ComponentCreator('/docs/2.4.3/multi-data-center-scenario/', 'f7e'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/offline-installation/',
-                component: ComponentCreator('/docs/2.4.3/offline-installation/', '49a'),
+                path: '/zh/docs/2.4.3/faqs/',
+                component: ComponentCreator('/zh/docs/2.4.3/faqs/', 'c41'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/persistence-dashboard/',
-                component: ComponentCreator('/docs/2.4.3/persistence-dashboard/', '4b9'),
+                path: '/zh/docs/2.4.3/gcp-authentication/',
+                component: ComponentCreator('/zh/docs/2.4.3/gcp-authentication/', '0b6'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/production-installation-using-helm/',
-                component: ComponentCreator('/docs/2.4.3/production-installation-using-helm/', '47b'),
+                path: '/zh/docs/2.4.3/glossary/',
+                component: ComponentCreator('/zh/docs/2.4.3/glossary/', '5d2'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/python-client/',
-                component: ComponentCreator('/docs/2.4.3/python-client/', '9eb'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/quick-start/',
-                component: ComponentCreator('/docs/2.4.3/quick-start/', 'eea'),
+                path: '/zh/docs/2.4.3/go-client/',
+                component: ComponentCreator('/zh/docs/2.4.3/go-client/', '2aa'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/release-0.0.8/',
-                component: ComponentCreator('/docs/2.4.3/release-0.0.8/', 'd76'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/release-0.0.9/',
-                component: ComponentCreator('/docs/2.4.3/release-0.0.9/', 'e40'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/release-1.0.0/',
-                component: ComponentCreator('/docs/2.4.3/release-1.0.0/', '4f7'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/release-2.0.0/',
-                component: ComponentCreator('/docs/2.4.3/release-2.0.0/', '54d'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/release-2.4-tracking/',
-                component: ComponentCreator('/docs/2.4.3/release-2.4-tracking/', '496'),
+                path: '/zh/docs/2.4.3/inspect-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/2.4.3/inspect-chaos-experiments/', '3ec'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/release-cycle/',
-                component: ComponentCreator('/docs/2.4.3/release-cycle/', '7b2'),
+                path: '/zh/docs/2.4.3/integrate-chaos-mesh-into-github-actions/',
+                component: ComponentCreator('/zh/docs/2.4.3/integrate-chaos-mesh-into-github-actions/', 'ea5'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/run-a-chaos-experiment/',
-                component: ComponentCreator('/docs/2.4.3/run-a-chaos-experiment/', '65c'),
+                path: '/zh/docs/2.4.3/java-client/',
+                component: ComponentCreator('/zh/docs/2.4.3/java-client/', '0cf'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/run-serial-or-parallel-experiments/',
-                component: ComponentCreator('/docs/2.4.3/run-serial-or-parallel-experiments/', 'baa'),
+                path: '/zh/docs/2.4.3/manage-user-permissions/',
+                component: ComponentCreator('/zh/docs/2.4.3/manage-user-permissions/', '8f7'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/rust-client/',
-                component: ComponentCreator('/docs/2.4.3/rust-client/', '4cd'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/send-http-request-on-workflow/',
-                component: ComponentCreator('/docs/2.4.3/send-http-request-on-workflow/', '68f'),
+                path: '/zh/docs/2.4.3/multi-data-center-scenario/',
+                component: ComponentCreator('/zh/docs/2.4.3/multi-data-center-scenario/', 'cfb'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-aws-chaos/',
-                component: ComponentCreator('/docs/2.4.3/simulate-aws-chaos/', '42f'),
+                path: '/zh/docs/2.4.3/offline-installation/',
+                component: ComponentCreator('/zh/docs/2.4.3/offline-installation/', 'a75'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-azure-chaos/',
-                component: ComponentCreator('/docs/2.4.3/simulate-azure-chaos/', '666'),
+                path: '/zh/docs/2.4.3/persistence-dashboard/',
+                component: ComponentCreator('/zh/docs/2.4.3/persistence-dashboard/', '849'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-block-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-block-chaos-on-kubernetes/', '650'),
+                path: '/zh/docs/2.4.3/production-installation-using-helm/',
+                component: ComponentCreator('/zh/docs/2.4.3/production-installation-using-helm/', 'a04'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-disk-pressure-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-disk-pressure-in-physical-nodes/', '239'),
+                path: '/zh/docs/2.4.3/python-client/',
+                component: ComponentCreator('/zh/docs/2.4.3/python-client/', '181'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-dns-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-dns-chaos-on-kubernetes/', 'bd9'),
+                path: '/zh/docs/2.4.3/quick-start/',
+                component: ComponentCreator('/zh/docs/2.4.3/quick-start/', '6f0'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-file-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-file-chaos-in-physical-nodes/', '865'),
+                path: '/zh/docs/2.4.3/release-0.0.8/',
+                component: ComponentCreator('/zh/docs/2.4.3/release-0.0.8/', 'a82'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-gcp-chaos/',
-                component: ComponentCreator('/docs/2.4.3/simulate-gcp-chaos/', '077'),
+                path: '/zh/docs/2.4.3/release-0.0.9/',
+                component: ComponentCreator('/zh/docs/2.4.3/release-0.0.9/', '487'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-heavy-stress-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-heavy-stress-in-physical-nodes/', '96d'),
+                path: '/zh/docs/2.4.3/release-1.0.0/',
+                component: ComponentCreator('/zh/docs/2.4.3/release-1.0.0/', '07c'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-heavy-stress-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-heavy-stress-on-kubernetes/', 'b14'),
+                path: '/zh/docs/2.4.3/release-2.0.0/',
+                component: ComponentCreator('/zh/docs/2.4.3/release-2.0.0/', 'd2c'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-host-console-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-host-console-in-physical-nodes/', 'c3b'),
+                path: '/zh/docs/2.4.3/release-2.4-tracking/',
+                component: ComponentCreator('/zh/docs/2.4.3/release-2.4-tracking/', '135'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-http-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-http-chaos-on-kubernetes/', '275'),
+                path: '/zh/docs/2.4.3/release-cycle/',
+                component: ComponentCreator('/zh/docs/2.4.3/release-cycle/', 'e56'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-io-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-io-chaos-on-kubernetes/', '833'),
+                path: '/zh/docs/2.4.3/run-a-chaos-experiment/',
+                component: ComponentCreator('/zh/docs/2.4.3/run-a-chaos-experiment/', 'c3a'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes/', '59c'),
+                path: '/zh/docs/2.4.3/run-serial-or-parallel-experiments/',
+                component: ComponentCreator('/zh/docs/2.4.3/run-serial-or-parallel-experiments/', '0f5'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-jvm-application-chaos/',
-                component: ComponentCreator('/docs/2.4.3/simulate-jvm-application-chaos/', '9f3'),
+                path: '/zh/docs/2.4.3/rust-client/',
+                component: ComponentCreator('/zh/docs/2.4.3/rust-client/', '2a8'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.4.3/simulate-kernel-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-kernel-chaos-on-kubernetes/', '2e0'),
+                path: '/zh/docs/2.4.3/send-http-request-on-workflow/',
+                component: ComponentCreator('/zh/docs/2.4.3/send-http-request-on-workflow/', '40b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-network-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-network-chaos-in-physical-nodes/', '15d'),
+                path: '/zh/docs/2.4.3/simulate-aws-chaos/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-aws-chaos/', 'f8b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-network-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-network-chaos-on-kubernetes/', '57d'),
+                path: '/zh/docs/2.4.3/simulate-azure-chaos/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-azure-chaos/', 'a92'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-physical-machine-chaos/',
-                component: ComponentCreator('/docs/2.4.3/simulate-physical-machine-chaos/', 'c1a'),
+                path: '/zh/docs/2.4.3/simulate-block-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-block-chaos-on-kubernetes/', '929'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-pod-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-pod-chaos-on-kubernetes/', 'a12'),
+                path: '/zh/docs/2.4.3/simulate-disk-pressure-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-disk-pressure-in-physical-nodes/', '9d4'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-process-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-process-chaos-in-physical-nodes/', 'ca8'),
+                path: '/zh/docs/2.4.3/simulate-dns-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-dns-chaos-on-kubernetes/', '059'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-redis-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-redis-chaos-on-physical-nodes/', '1f8'),
+                path: '/zh/docs/2.4.3/simulate-file-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-file-chaos-in-physical-nodes/', 'e5d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-time-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-time-chaos-on-kubernetes/', 'f16'),
+                path: '/zh/docs/2.4.3/simulate-gcp-chaos/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-gcp-chaos/', '53d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/simulate-time-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/2.4.3/simulate-time-chaos-on-physical-nodes/', '127'),
+                path: '/zh/docs/2.4.3/simulate-heavy-stress-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-heavy-stress-in-physical-nodes/', '556'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/status-check-in-workflow/',
-                component: ComponentCreator('/docs/2.4.3/status-check-in-workflow/', 'a8e'),
+                path: '/zh/docs/2.4.3/simulate-heavy-stress-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-heavy-stress-on-kubernetes/', 'a83'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/troubleshooting-guide/',
-                component: ComponentCreator('/docs/2.4.3/troubleshooting-guide/', 'c70'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/uninstallation/',
-                component: ComponentCreator('/docs/2.4.3/uninstallation/', 'f3d'),
+                path: '/zh/docs/2.4.3/simulate-host-console-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-host-console-in-physical-nodes/', '531'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/upgrade-from-2.1-to-2.2/',
-                component: ComponentCreator('/docs/2.4.3/upgrade-from-2.1-to-2.2/', '3de'),
+                path: '/zh/docs/2.4.3/simulate-http-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-http-chaos-on-kubernetes/', 'cf7'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/upgrade-to-2.0/',
-                component: ComponentCreator('/docs/2.4.3/upgrade-to-2.0/', '4e8'),
+                path: '/zh/docs/2.4.3/simulate-io-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-io-chaos-on-kubernetes/', '8a3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.4.3/use-argo-to-orchestrate-chaos-experiments/',
-                component: ComponentCreator('/docs/2.4.3/use-argo-to-orchestrate-chaos-experiments/', 'aef'),
-                exact: true
-              },
-              {
-                path: '/docs/2.4.3/use-grafana-data-source/',
-                component: ComponentCreator('/docs/2.4.3/use-grafana-data-source/', '9b6'),
+                path: '/zh/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes/', '0d4'),
                 exact: true,
-                sidebar: "docs"
-              }
-            ]
-          }
-        ]
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-jvm-application-chaos/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-jvm-application-chaos/', 'c95'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-kernel-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-kernel-chaos-on-kubernetes/', '0f1'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-network-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-network-chaos-in-physical-nodes/', '150'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-network-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-network-chaos-on-kubernetes/', '19b'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-physical-machine-chaos/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-physical-machine-chaos/', '937'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-pod-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-pod-chaos-on-kubernetes/', 'd72'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-process-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-process-chaos-in-physical-nodes/', '2e2'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-redis-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-redis-chaos-on-physical-nodes/', 'f8d'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-time-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-time-chaos-on-kubernetes/', 'b1d'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/simulate-time-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.4.3/simulate-time-chaos-on-physical-nodes/', 'fbb'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/status-check-in-workflow/',
+                component: ComponentCreator('/zh/docs/2.4.3/status-check-in-workflow/', '2fe'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/troubleshooting-guide/',
+                component: ComponentCreator('/zh/docs/2.4.3/troubleshooting-guide/', '4f1'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/2.4.3/uninstallation/',
+                component: ComponentCreator('/zh/docs/2.4.3/uninstallation/', '8ab'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/upgrade-from-2.1-to-2.2/',
+                component: ComponentCreator('/zh/docs/2.4.3/upgrade-from-2.1-to-2.2/', 'db5'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/upgrade-to-2.0/',
+                component: ComponentCreator('/zh/docs/2.4.3/upgrade-to-2.0/', 'a19'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.4.3/use-argo-to-orchestrate-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/2.4.3/use-argo-to-orchestrate-chaos-experiments/', 'd46'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/2.4.3/use-grafana-data-source/',
+                component: ComponentCreator('/zh/docs/2.4.3/use-grafana-data-source/', '9a4'),
+                exact: true,
+                sidebar: 'docs',
+              },
+            ],
+          },
+        ],
       },
       {
-        path: '/docs/2.5.2/',
-        component: ComponentCreator('/docs/2.5.2/', '678'),
+        path: '/zh/docs/2.5.2/',
+        component: ComponentCreator('/zh/docs/2.5.2/', '0cb'),
         routes: [
           {
-            path: '/docs/2.5.2/',
-            component: ComponentCreator('/docs/2.5.2/', 'c7e'),
+            path: '/zh/docs/2.5.2/',
+            component: ComponentCreator('/zh/docs/2.5.2/', 'cdb'),
             routes: [
               {
-                path: '/docs/2.5.2/',
-                component: ComponentCreator('/docs/2.5.2/', 'f5b'),
+                path: '/zh/docs/2.5.2/',
+                component: ComponentCreator('/zh/docs/2.5.2/', '1e9'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/add-new-chaos-experiment-type/',
-                component: ComponentCreator('/docs/2.5.2/add-new-chaos-experiment-type/', '0ca'),
+                path: '/zh/docs/2.5.2/add-new-chaos-experiment-type/',
+                component: ComponentCreator('/zh/docs/2.5.2/add-new-chaos-experiment-type/', '5a3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/basic-features/',
-                component: ComponentCreator('/docs/2.5.2/basic-features/', '477'),
+                path: '/zh/docs/2.5.2/basic-features/',
+                component: ComponentCreator('/zh/docs/2.5.2/basic-features/', 'f3e'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/chaos-engineering-principles/',
-                component: ComponentCreator('/docs/2.5.2/chaos-engineering-principles/', 'e5a'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/chaosctl-tool/',
-                component: ComponentCreator('/docs/2.5.2/chaosctl-tool/', '5bb'),
+                path: '/zh/docs/2.5.2/chaos-engineering-principles/',
+                component: ComponentCreator('/zh/docs/2.5.2/chaos-engineering-principles/', '7f6'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/chaosd-overview/',
-                component: ComponentCreator('/docs/2.5.2/chaosd-overview/', 'dad'),
+                path: '/zh/docs/2.5.2/chaosctl-tool/',
+                component: ComponentCreator('/zh/docs/2.5.2/chaosctl-tool/', '12f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/chaosd-search-recover/',
-                component: ComponentCreator('/docs/2.5.2/chaosd-search-recover/', 'cac'),
+                path: '/zh/docs/2.5.2/chaosd-overview/',
+                component: ComponentCreator('/zh/docs/2.5.2/chaosd-overview/', 'e7a'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/check-workflow-status/',
-                component: ComponentCreator('/docs/2.5.2/check-workflow-status/', '2c6'),
+                path: '/zh/docs/2.5.2/chaosd-search-recover/',
+                component: ComponentCreator('/zh/docs/2.5.2/chaosd-search-recover/', 'e54'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/clean-up-chaos-experiments/',
-                component: ComponentCreator('/docs/2.5.2/clean-up-chaos-experiments/', 'bfb'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/common/quick-run/',
-                component: ComponentCreator('/docs/2.5.2/common/quick-run/', '416'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/common/verify-installation/',
-                component: ComponentCreator('/docs/2.5.2/common/verify-installation/', '185'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/configure-development-environment/',
-                component: ComponentCreator('/docs/2.5.2/configure-development-environment/', '0d5'),
+                path: '/zh/docs/2.5.2/check-workflow-status/',
+                component: ComponentCreator('/zh/docs/2.5.2/check-workflow-status/', 'e1f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/configure-enabled-namespace/',
-                component: ComponentCreator('/docs/2.5.2/configure-enabled-namespace/', 'a95'),
+                path: '/zh/docs/2.5.2/clean-up-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/2.5.2/clean-up-chaos-experiments/', 'ad6'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/create-chaos-mesh-workflow/',
-                component: ComponentCreator('/docs/2.5.2/create-chaos-mesh-workflow/', 'ddd'),
+                path: '/zh/docs/2.5.2/common/quick-run/',
+                component: ComponentCreator('/zh/docs/2.5.2/common/quick-run/', '326'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/define-chaos-experiment-scope/',
-                component: ComponentCreator('/docs/2.5.2/define-chaos-experiment-scope/', 'f86'),
+                path: '/zh/docs/2.5.2/common/verify-installation/',
+                component: ComponentCreator('/zh/docs/2.5.2/common/verify-installation/', '367'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/define-scheduling-rules/',
-                component: ComponentCreator('/docs/2.5.2/define-scheduling-rules/', '2d5'),
+                path: '/zh/docs/2.5.2/configure-development-environment/',
+                component: ComponentCreator('/zh/docs/2.5.2/configure-development-environment/', '9f2'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/define-workflow-scheduling-rules/',
-                component: ComponentCreator('/docs/2.5.2/define-workflow-scheduling-rules/', 'a14'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/developer-guide-overview/',
-                component: ComponentCreator('/docs/2.5.2/developer-guide-overview/', '8f4'),
+                path: '/zh/docs/2.5.2/configure-enabled-namespace/',
+                component: ComponentCreator('/zh/docs/2.5.2/configure-enabled-namespace/', '982'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/extend-chaos-daemon-interface/',
-                component: ComponentCreator('/docs/2.5.2/extend-chaos-daemon-interface/', 'a4a'),
+                path: '/zh/docs/2.5.2/create-chaos-mesh-workflow/',
+                component: ComponentCreator('/zh/docs/2.5.2/create-chaos-mesh-workflow/', 'e5f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/extend-chaosd/',
-                component: ComponentCreator('/docs/2.5.2/extend-chaosd/', '874'),
+                path: '/zh/docs/2.5.2/define-chaos-experiment-scope/',
+                component: ComponentCreator('/zh/docs/2.5.2/define-chaos-experiment-scope/', 'a76'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/faqs/',
-                component: ComponentCreator('/docs/2.5.2/faqs/', '6ba'),
+                path: '/zh/docs/2.5.2/define-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/2.5.2/define-scheduling-rules/', 'a4b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/gcp-authentication/',
-                component: ComponentCreator('/docs/2.5.2/gcp-authentication/', '41e'),
+                path: '/zh/docs/2.5.2/define-workflow-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/2.5.2/define-workflow-scheduling-rules/', '6e1'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/glossary/',
-                component: ComponentCreator('/docs/2.5.2/glossary/', '79f'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/go-client/',
-                component: ComponentCreator('/docs/2.5.2/go-client/', '92f'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/inspect-chaos-experiments/',
-                component: ComponentCreator('/docs/2.5.2/inspect-chaos-experiments/', '4da'),
+                path: '/zh/docs/2.5.2/developer-guide-overview/',
+                component: ComponentCreator('/zh/docs/2.5.2/developer-guide-overview/', '14c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/integrate-chaos-mesh-into-github-actions/',
-                component: ComponentCreator('/docs/2.5.2/integrate-chaos-mesh-into-github-actions/', '31b'),
+                path: '/zh/docs/2.5.2/extend-chaos-daemon-interface/',
+                component: ComponentCreator('/zh/docs/2.5.2/extend-chaos-daemon-interface/', '69b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/java-client/',
-                component: ComponentCreator('/docs/2.5.2/java-client/', 'e5f'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/manage-user-permissions/',
-                component: ComponentCreator('/docs/2.5.2/manage-user-permissions/', '11e'),
+                path: '/zh/docs/2.5.2/extend-chaosd/',
+                component: ComponentCreator('/zh/docs/2.5.2/extend-chaosd/', 'a01'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/multi-data-center-scenario/',
-                component: ComponentCreator('/docs/2.5.2/multi-data-center-scenario/', 'e9b'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/offline-installation/',
-                component: ComponentCreator('/docs/2.5.2/offline-installation/', 'f52'),
+                path: '/zh/docs/2.5.2/faqs/',
+                component: ComponentCreator('/zh/docs/2.5.2/faqs/', 'e49'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/persistence-dashboard/',
-                component: ComponentCreator('/docs/2.5.2/persistence-dashboard/', '8b9'),
+                path: '/zh/docs/2.5.2/gcp-authentication/',
+                component: ComponentCreator('/zh/docs/2.5.2/gcp-authentication/', 'ca9'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/production-installation-using-helm/',
-                component: ComponentCreator('/docs/2.5.2/production-installation-using-helm/', '883'),
+                path: '/zh/docs/2.5.2/glossary/',
+                component: ComponentCreator('/zh/docs/2.5.2/glossary/', 'f19'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/python-client/',
-                component: ComponentCreator('/docs/2.5.2/python-client/', 'be8'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/quick-start/',
-                component: ComponentCreator('/docs/2.5.2/quick-start/', 'd06'),
+                path: '/zh/docs/2.5.2/go-client/',
+                component: ComponentCreator('/zh/docs/2.5.2/go-client/', '823'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/release-0.0.8/',
-                component: ComponentCreator('/docs/2.5.2/release-0.0.8/', 'aee'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/release-0.0.9/',
-                component: ComponentCreator('/docs/2.5.2/release-0.0.9/', '23a'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/release-1.0.0/',
-                component: ComponentCreator('/docs/2.5.2/release-1.0.0/', '903'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/release-2.0.0/',
-                component: ComponentCreator('/docs/2.5.2/release-2.0.0/', '46b'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/release-2.5-tracking/',
-                component: ComponentCreator('/docs/2.5.2/release-2.5-tracking/', '3b0'),
+                path: '/zh/docs/2.5.2/inspect-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/2.5.2/inspect-chaos-experiments/', '66a'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/release-cycle/',
-                component: ComponentCreator('/docs/2.5.2/release-cycle/', '443'),
+                path: '/zh/docs/2.5.2/integrate-chaos-mesh-into-github-actions/',
+                component: ComponentCreator('/zh/docs/2.5.2/integrate-chaos-mesh-into-github-actions/', '047'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/remote-cluster-management/',
-                component: ComponentCreator('/docs/2.5.2/remote-cluster-management/', 'ed8'),
+                path: '/zh/docs/2.5.2/java-client/',
+                component: ComponentCreator('/zh/docs/2.5.2/java-client/', '31b'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/run-a-chaos-experiment/',
-                component: ComponentCreator('/docs/2.5.2/run-a-chaos-experiment/', '21b'),
+                path: '/zh/docs/2.5.2/manage-user-permissions/',
+                component: ComponentCreator('/zh/docs/2.5.2/manage-user-permissions/', '0ff'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/run-serial-or-parallel-experiments/',
-                component: ComponentCreator('/docs/2.5.2/run-serial-or-parallel-experiments/', '5f4'),
+                path: '/zh/docs/2.5.2/multi-data-center-scenario/',
+                component: ComponentCreator('/zh/docs/2.5.2/multi-data-center-scenario/', '3f2'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/rust-client/',
-                component: ComponentCreator('/docs/2.5.2/rust-client/', '3ab'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/send-http-request-on-workflow/',
-                component: ComponentCreator('/docs/2.5.2/send-http-request-on-workflow/', '583'),
+                path: '/zh/docs/2.5.2/offline-installation/',
+                component: ComponentCreator('/zh/docs/2.5.2/offline-installation/', '29c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-aws-chaos/',
-                component: ComponentCreator('/docs/2.5.2/simulate-aws-chaos/', '4a1'),
+                path: '/zh/docs/2.5.2/persistence-dashboard/',
+                component: ComponentCreator('/zh/docs/2.5.2/persistence-dashboard/', 'f3c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-azure-chaos/',
-                component: ComponentCreator('/docs/2.5.2/simulate-azure-chaos/', '106'),
+                path: '/zh/docs/2.5.2/production-installation-using-helm/',
+                component: ComponentCreator('/zh/docs/2.5.2/production-installation-using-helm/', '1a3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-block-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-block-chaos-on-kubernetes/', '236'),
+                path: '/zh/docs/2.5.2/python-client/',
+                component: ComponentCreator('/zh/docs/2.5.2/python-client/', '3de'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/simulate-disk-pressure-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-disk-pressure-in-physical-nodes/', '62b'),
+                path: '/zh/docs/2.5.2/quick-start/',
+                component: ComponentCreator('/zh/docs/2.5.2/quick-start/', '435'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-dns-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-dns-chaos-on-kubernetes/', '98a'),
+                path: '/zh/docs/2.5.2/release-0.0.8/',
+                component: ComponentCreator('/zh/docs/2.5.2/release-0.0.8/', 'c8e'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/simulate-file-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-file-chaos-in-physical-nodes/', 'f38'),
+                path: '/zh/docs/2.5.2/release-0.0.9/',
+                component: ComponentCreator('/zh/docs/2.5.2/release-0.0.9/', 'bba'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/simulate-gcp-chaos/',
-                component: ComponentCreator('/docs/2.5.2/simulate-gcp-chaos/', '54d'),
+                path: '/zh/docs/2.5.2/release-1.0.0/',
+                component: ComponentCreator('/zh/docs/2.5.2/release-1.0.0/', 'd2c'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/simulate-heavy-stress-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-heavy-stress-in-physical-nodes/', 'd60'),
+                path: '/zh/docs/2.5.2/release-2.0.0/',
+                component: ComponentCreator('/zh/docs/2.5.2/release-2.0.0/', '031'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/simulate-heavy-stress-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-heavy-stress-on-kubernetes/', '579'),
+                path: '/zh/docs/2.5.2/release-2.5-tracking/',
+                component: ComponentCreator('/zh/docs/2.5.2/release-2.5-tracking/', '5c6'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-host-console-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-host-console-in-physical-nodes/', '763'),
+                path: '/zh/docs/2.5.2/release-cycle/',
+                component: ComponentCreator('/zh/docs/2.5.2/release-cycle/', '30b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-http-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-http-chaos-on-kubernetes/', '124'),
+                path: '/zh/docs/2.5.2/remote-cluster-management/',
+                component: ComponentCreator('/zh/docs/2.5.2/remote-cluster-management/', '8eb'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-io-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-io-chaos-on-kubernetes/', 'bcb'),
+                path: '/zh/docs/2.5.2/run-a-chaos-experiment/',
+                component: ComponentCreator('/zh/docs/2.5.2/run-a-chaos-experiment/', '951'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes/', 'acf'),
+                path: '/zh/docs/2.5.2/run-serial-or-parallel-experiments/',
+                component: ComponentCreator('/zh/docs/2.5.2/run-serial-or-parallel-experiments/', '35c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-jvm-application-chaos/',
-                component: ComponentCreator('/docs/2.5.2/simulate-jvm-application-chaos/', '4ed'),
+                path: '/zh/docs/2.5.2/rust-client/',
+                component: ComponentCreator('/zh/docs/2.5.2/rust-client/', 'a53'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/2.5.2/simulate-kernel-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-kernel-chaos-on-kubernetes/', '82a'),
+                path: '/zh/docs/2.5.2/send-http-request-on-workflow/',
+                component: ComponentCreator('/zh/docs/2.5.2/send-http-request-on-workflow/', 'ec9'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-network-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-network-chaos-in-physical-nodes/', '7b3'),
+                path: '/zh/docs/2.5.2/simulate-aws-chaos/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-aws-chaos/', 'e5f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-network-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-network-chaos-on-kubernetes/', '8ee'),
+                path: '/zh/docs/2.5.2/simulate-azure-chaos/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-azure-chaos/', '798'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-physical-machine-chaos/',
-                component: ComponentCreator('/docs/2.5.2/simulate-physical-machine-chaos/', '52f'),
+                path: '/zh/docs/2.5.2/simulate-block-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-block-chaos-on-kubernetes/', '88b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-pod-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-pod-chaos-on-kubernetes/', '79b'),
+                path: '/zh/docs/2.5.2/simulate-disk-pressure-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-disk-pressure-in-physical-nodes/', 'c28'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-process-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-process-chaos-in-physical-nodes/', '1bc'),
+                path: '/zh/docs/2.5.2/simulate-dns-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-dns-chaos-on-kubernetes/', 'd86'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-redis-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-redis-chaos-on-physical-nodes/', 'd7d'),
+                path: '/zh/docs/2.5.2/simulate-file-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-file-chaos-in-physical-nodes/', '8a3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-time-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-time-chaos-on-kubernetes/', '888'),
+                path: '/zh/docs/2.5.2/simulate-gcp-chaos/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-gcp-chaos/', '0f5'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/simulate-time-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/2.5.2/simulate-time-chaos-on-physical-nodes/', '66c'),
+                path: '/zh/docs/2.5.2/simulate-heavy-stress-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-heavy-stress-in-physical-nodes/', 'f7c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/status-check-in-workflow/',
-                component: ComponentCreator('/docs/2.5.2/status-check-in-workflow/', '16e'),
+                path: '/zh/docs/2.5.2/simulate-heavy-stress-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-heavy-stress-on-kubernetes/', '13a'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/troubleshooting-guide/',
-                component: ComponentCreator('/docs/2.5.2/troubleshooting-guide/', '520'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/uninstallation/',
-                component: ComponentCreator('/docs/2.5.2/uninstallation/', 'ac8'),
+                path: '/zh/docs/2.5.2/simulate-host-console-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-host-console-in-physical-nodes/', '186'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/upgrade-from-2.1-to-2.2/',
-                component: ComponentCreator('/docs/2.5.2/upgrade-from-2.1-to-2.2/', '6bc'),
+                path: '/zh/docs/2.5.2/simulate-http-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-http-chaos-on-kubernetes/', 'a05'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/upgrade-to-2.0/',
-                component: ComponentCreator('/docs/2.5.2/upgrade-to-2.0/', 'd1b'),
+                path: '/zh/docs/2.5.2/simulate-io-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-io-chaos-on-kubernetes/', '275'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/2.5.2/use-argo-to-orchestrate-chaos-experiments/',
-                component: ComponentCreator('/docs/2.5.2/use-argo-to-orchestrate-chaos-experiments/', '94a'),
-                exact: true
-              },
-              {
-                path: '/docs/2.5.2/use-grafana-data-source/',
-                component: ComponentCreator('/docs/2.5.2/use-grafana-data-source/', 'f52'),
+                path: '/zh/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes/', '5ed'),
                 exact: true,
-                sidebar: "docs"
-              }
-            ]
-          }
-        ]
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-jvm-application-chaos/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-jvm-application-chaos/', '41b'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-kernel-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-kernel-chaos-on-kubernetes/', '85a'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-network-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-network-chaos-in-physical-nodes/', '305'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-network-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-network-chaos-on-kubernetes/', 'f81'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-physical-machine-chaos/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-physical-machine-chaos/', 'e5d'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-pod-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-pod-chaos-on-kubernetes/', '919'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-process-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-process-chaos-in-physical-nodes/', '202'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-redis-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-redis-chaos-on-physical-nodes/', '5fd'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-time-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-time-chaos-on-kubernetes/', 'cff'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/simulate-time-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/2.5.2/simulate-time-chaos-on-physical-nodes/', '8d3'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/status-check-in-workflow/',
+                component: ComponentCreator('/zh/docs/2.5.2/status-check-in-workflow/', '75d'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/troubleshooting-guide/',
+                component: ComponentCreator('/zh/docs/2.5.2/troubleshooting-guide/', '06f'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/2.5.2/uninstallation/',
+                component: ComponentCreator('/zh/docs/2.5.2/uninstallation/', '0bf'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/upgrade-from-2.1-to-2.2/',
+                component: ComponentCreator('/zh/docs/2.5.2/upgrade-from-2.1-to-2.2/', 'adc'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/upgrade-to-2.0/',
+                component: ComponentCreator('/zh/docs/2.5.2/upgrade-to-2.0/', 'fe2'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/2.5.2/use-argo-to-orchestrate-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/2.5.2/use-argo-to-orchestrate-chaos-experiments/', 'a4e'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/2.5.2/use-grafana-data-source/',
+                component: ComponentCreator('/zh/docs/2.5.2/use-grafana-data-source/', '8d0'),
+                exact: true,
+                sidebar: 'docs',
+              },
+            ],
+          },
+        ],
       },
       {
-        path: '/docs/next/',
-        component: ComponentCreator('/docs/next/', '1b6'),
+        path: '/zh/docs/next/',
+        component: ComponentCreator('/zh/docs/next/', 'd06'),
         routes: [
           {
-            path: '/docs/next/',
-            component: ComponentCreator('/docs/next/', '1c0'),
+            path: '/zh/docs/next/',
+            component: ComponentCreator('/zh/docs/next/', '778'),
             routes: [
               {
-                path: '/docs/next/',
-                component: ComponentCreator('/docs/next/', '67d'),
+                path: '/zh/docs/next/',
+                component: ComponentCreator('/zh/docs/next/', '145'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/add-new-chaos-experiment-type/',
-                component: ComponentCreator('/docs/next/add-new-chaos-experiment-type/', '01f'),
+                path: '/zh/docs/next/add-new-chaos-experiment-type/',
+                component: ComponentCreator('/zh/docs/next/add-new-chaos-experiment-type/', '872'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/basic-features/',
-                component: ComponentCreator('/docs/next/basic-features/', '2b7'),
+                path: '/zh/docs/next/basic-features/',
+                component: ComponentCreator('/zh/docs/next/basic-features/', 'e19'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/chaos-engineering-principles/',
-                component: ComponentCreator('/docs/next/chaos-engineering-principles/', '8d8'),
-                exact: true
-              },
-              {
-                path: '/docs/next/chaosctl-tool/',
-                component: ComponentCreator('/docs/next/chaosctl-tool/', '715'),
+                path: '/zh/docs/next/chaos-engineering-principles/',
+                component: ComponentCreator('/zh/docs/next/chaos-engineering-principles/', '6c9'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/chaosd-overview/',
-                component: ComponentCreator('/docs/next/chaosd-overview/', '4ed'),
+                path: '/zh/docs/next/chaosctl-tool/',
+                component: ComponentCreator('/zh/docs/next/chaosctl-tool/', 'e11'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/chaosd-search-recover/',
-                component: ComponentCreator('/docs/next/chaosd-search-recover/', '965'),
+                path: '/zh/docs/next/chaosd-overview/',
+                component: ComponentCreator('/zh/docs/next/chaosd-overview/', 'e76'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/check-workflow-status/',
-                component: ComponentCreator('/docs/next/check-workflow-status/', '1bd'),
+                path: '/zh/docs/next/chaosd-search-recover/',
+                component: ComponentCreator('/zh/docs/next/chaosd-search-recover/', '3c5'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/clean-up-chaos-experiments/',
-                component: ComponentCreator('/docs/next/clean-up-chaos-experiments/', 'ffd'),
-                exact: true
-              },
-              {
-                path: '/docs/next/common/quick-run/',
-                component: ComponentCreator('/docs/next/common/quick-run/', '3aa'),
-                exact: true
-              },
-              {
-                path: '/docs/next/common/verify-installation/',
-                component: ComponentCreator('/docs/next/common/verify-installation/', '9ea'),
-                exact: true
-              },
-              {
-                path: '/docs/next/configure-development-environment/',
-                component: ComponentCreator('/docs/next/configure-development-environment/', 'e75'),
+                path: '/zh/docs/next/check-workflow-status/',
+                component: ComponentCreator('/zh/docs/next/check-workflow-status/', '378'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/configure-enabled-namespace/',
-                component: ComponentCreator('/docs/next/configure-enabled-namespace/', 'eb5'),
+                path: '/zh/docs/next/clean-up-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/next/clean-up-chaos-experiments/', '316'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/create-chaos-mesh-workflow/',
-                component: ComponentCreator('/docs/next/create-chaos-mesh-workflow/', '581'),
+                path: '/zh/docs/next/common/quick-run/',
+                component: ComponentCreator('/zh/docs/next/common/quick-run/', '282'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/define-chaos-experiment-scope/',
-                component: ComponentCreator('/docs/next/define-chaos-experiment-scope/', '310'),
+                path: '/zh/docs/next/common/verify-installation/',
+                component: ComponentCreator('/zh/docs/next/common/verify-installation/', '1a3'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/define-scheduling-rules/',
-                component: ComponentCreator('/docs/next/define-scheduling-rules/', 'e6c'),
+                path: '/zh/docs/next/configure-development-environment/',
+                component: ComponentCreator('/zh/docs/next/configure-development-environment/', '824'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/define-workflow-scheduling-rules/',
-                component: ComponentCreator('/docs/next/define-workflow-scheduling-rules/', '6a8'),
-                exact: true
-              },
-              {
-                path: '/docs/next/developer-guide-overview/',
-                component: ComponentCreator('/docs/next/developer-guide-overview/', 'fc6'),
+                path: '/zh/docs/next/configure-enabled-namespace/',
+                component: ComponentCreator('/zh/docs/next/configure-enabled-namespace/', '082'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/expose-dashboard-with-ingress/',
-                component: ComponentCreator('/docs/next/expose-dashboard-with-ingress/', 'b6f'),
+                path: '/zh/docs/next/create-chaos-mesh-workflow/',
+                component: ComponentCreator('/zh/docs/next/create-chaos-mesh-workflow/', 'f75'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/extend-chaos-daemon-interface/',
-                component: ComponentCreator('/docs/next/extend-chaos-daemon-interface/', '49b'),
+                path: '/zh/docs/next/define-chaos-experiment-scope/',
+                component: ComponentCreator('/zh/docs/next/define-chaos-experiment-scope/', '879'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/extend-chaosd/',
-                component: ComponentCreator('/docs/next/extend-chaosd/', '324'),
+                path: '/zh/docs/next/define-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/next/define-scheduling-rules/', '49c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/faqs/',
-                component: ComponentCreator('/docs/next/faqs/', 'bce'),
+                path: '/zh/docs/next/define-workflow-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/next/define-workflow-scheduling-rules/', '849'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/gcp-authentication/',
-                component: ComponentCreator('/docs/next/gcp-authentication/', 'd53'),
+                path: '/zh/docs/next/developer-guide-overview/',
+                component: ComponentCreator('/zh/docs/next/developer-guide-overview/', 'e65'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/glossary/',
-                component: ComponentCreator('/docs/next/glossary/', 'b81'),
-                exact: true
-              },
-              {
-                path: '/docs/next/go-client/',
-                component: ComponentCreator('/docs/next/go-client/', '22e'),
-                exact: true
-              },
-              {
-                path: '/docs/next/inspect-chaos-experiments/',
-                component: ComponentCreator('/docs/next/inspect-chaos-experiments/', 'e1b'),
+                path: '/zh/docs/next/expose-dashboard-with-ingress/',
+                component: ComponentCreator('/zh/docs/next/expose-dashboard-with-ingress/', '0ca'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/integrate-chaos-mesh-into-github-actions/',
-                component: ComponentCreator('/docs/next/integrate-chaos-mesh-into-github-actions/', 'eaa'),
+                path: '/zh/docs/next/extend-chaos-daemon-interface/',
+                component: ComponentCreator('/zh/docs/next/extend-chaos-daemon-interface/', 'a38'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/java-client/',
-                component: ComponentCreator('/docs/next/java-client/', '7b3'),
-                exact: true
-              },
-              {
-                path: '/docs/next/manage-user-permissions/',
-                component: ComponentCreator('/docs/next/manage-user-permissions/', '74f'),
+                path: '/zh/docs/next/extend-chaosd/',
+                component: ComponentCreator('/zh/docs/next/extend-chaosd/', '1bb'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/multi-data-center-scenario/',
-                component: ComponentCreator('/docs/next/multi-data-center-scenario/', '98d'),
-                exact: true
-              },
-              {
-                path: '/docs/next/offline-installation/',
-                component: ComponentCreator('/docs/next/offline-installation/', '919'),
+                path: '/zh/docs/next/faqs/',
+                component: ComponentCreator('/zh/docs/next/faqs/', 'c13'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/persistence-dashboard/',
-                component: ComponentCreator('/docs/next/persistence-dashboard/', '668'),
+                path: '/zh/docs/next/gcp-authentication/',
+                component: ComponentCreator('/zh/docs/next/gcp-authentication/', 'b68'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/production-installation-using-helm/',
-                component: ComponentCreator('/docs/next/production-installation-using-helm/', '454'),
+                path: '/zh/docs/next/glossary/',
+                component: ComponentCreator('/zh/docs/next/glossary/', '25b'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/python-client/',
-                component: ComponentCreator('/docs/next/python-client/', 'c87'),
-                exact: true
-              },
-              {
-                path: '/docs/next/quick-start/',
-                component: ComponentCreator('/docs/next/quick-start/', '2f5'),
+                path: '/zh/docs/next/go-client/',
+                component: ComponentCreator('/zh/docs/next/go-client/', '92e'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/release-0.0.8/',
-                component: ComponentCreator('/docs/next/release-0.0.8/', '7ef'),
-                exact: true
-              },
-              {
-                path: '/docs/next/release-0.0.9/',
-                component: ComponentCreator('/docs/next/release-0.0.9/', '4ca'),
-                exact: true
-              },
-              {
-                path: '/docs/next/release-1.0.0/',
-                component: ComponentCreator('/docs/next/release-1.0.0/', 'ad7'),
-                exact: true
-              },
-              {
-                path: '/docs/next/release-2.0.0/',
-                component: ComponentCreator('/docs/next/release-2.0.0/', 'f0f'),
-                exact: true
-              },
-              {
-                path: '/docs/next/release-2.5-tracking/',
-                component: ComponentCreator('/docs/next/release-2.5-tracking/', '91c'),
+                path: '/zh/docs/next/inspect-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/next/inspect-chaos-experiments/', '5e8'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/release-cycle/',
-                component: ComponentCreator('/docs/next/release-cycle/', '5e8'),
+                path: '/zh/docs/next/integrate-chaos-mesh-into-github-actions/',
+                component: ComponentCreator('/zh/docs/next/integrate-chaos-mesh-into-github-actions/', 'c90'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/remote-cluster-management/',
-                component: ComponentCreator('/docs/next/remote-cluster-management/', '2a7'),
+                path: '/zh/docs/next/java-client/',
+                component: ComponentCreator('/zh/docs/next/java-client/', 'f75'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/run-a-chaos-experiment/',
-                component: ComponentCreator('/docs/next/run-a-chaos-experiment/', 'e21'),
+                path: '/zh/docs/next/manage-user-permissions/',
+                component: ComponentCreator('/zh/docs/next/manage-user-permissions/', '91e'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/run-serial-or-parallel-experiments/',
-                component: ComponentCreator('/docs/next/run-serial-or-parallel-experiments/', '822'),
+                path: '/zh/docs/next/multi-data-center-scenario/',
+                component: ComponentCreator('/zh/docs/next/multi-data-center-scenario/', 'cec'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/rust-client/',
-                component: ComponentCreator('/docs/next/rust-client/', 'a99'),
-                exact: true
-              },
-              {
-                path: '/docs/next/send-http-request-on-workflow/',
-                component: ComponentCreator('/docs/next/send-http-request-on-workflow/', '43a'),
+                path: '/zh/docs/next/offline-installation/',
+                component: ComponentCreator('/zh/docs/next/offline-installation/', '27d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-aws-chaos/',
-                component: ComponentCreator('/docs/next/simulate-aws-chaos/', 'e0e'),
+                path: '/zh/docs/next/persistence-dashboard/',
+                component: ComponentCreator('/zh/docs/next/persistence-dashboard/', 'd73'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-azure-chaos/',
-                component: ComponentCreator('/docs/next/simulate-azure-chaos/', 'c65'),
+                path: '/zh/docs/next/production-installation-using-helm/',
+                component: ComponentCreator('/zh/docs/next/production-installation-using-helm/', '0d1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-block-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-block-chaos-on-kubernetes/', '690'),
+                path: '/zh/docs/next/python-client/',
+                component: ComponentCreator('/zh/docs/next/python-client/', 'fa7'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/simulate-disk-pressure-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-disk-pressure-in-physical-nodes/', '391'),
+                path: '/zh/docs/next/quick-start/',
+                component: ComponentCreator('/zh/docs/next/quick-start/', '81e'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-dns-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-dns-chaos-on-kubernetes/', '7b3'),
+                path: '/zh/docs/next/release-0.0.8/',
+                component: ComponentCreator('/zh/docs/next/release-0.0.8/', '59c'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/simulate-file-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-file-chaos-in-physical-nodes/', '500'),
+                path: '/zh/docs/next/release-0.0.9/',
+                component: ComponentCreator('/zh/docs/next/release-0.0.9/', 'd06'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/simulate-gcp-chaos/',
-                component: ComponentCreator('/docs/next/simulate-gcp-chaos/', 'c70'),
+                path: '/zh/docs/next/release-1.0.0/',
+                component: ComponentCreator('/zh/docs/next/release-1.0.0/', '616'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/simulate-heavy-stress-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-heavy-stress-in-physical-nodes/', '25f'),
+                path: '/zh/docs/next/release-2.0.0/',
+                component: ComponentCreator('/zh/docs/next/release-2.0.0/', 'f28'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/simulate-heavy-stress-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-heavy-stress-on-kubernetes/', '283'),
+                path: '/zh/docs/next/release-2.5-tracking/',
+                component: ComponentCreator('/zh/docs/next/release-2.5-tracking/', '012'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-host-console-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-host-console-in-physical-nodes/', 'b5e'),
+                path: '/zh/docs/next/release-cycle/',
+                component: ComponentCreator('/zh/docs/next/release-cycle/', '75e'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-http-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-http-chaos-on-kubernetes/', '32b'),
+                path: '/zh/docs/next/remote-cluster-management/',
+                component: ComponentCreator('/zh/docs/next/remote-cluster-management/', '1e0'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-io-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-io-chaos-on-kubernetes/', 'b1f'),
+                path: '/zh/docs/next/run-a-chaos-experiment/',
+                component: ComponentCreator('/zh/docs/next/run-a-chaos-experiment/', '24f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-jvm-application-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-jvm-application-chaos-in-physical-nodes/', '524'),
+                path: '/zh/docs/next/run-serial-or-parallel-experiments/',
+                component: ComponentCreator('/zh/docs/next/run-serial-or-parallel-experiments/', 'a36'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-jvm-application-chaos/',
-                component: ComponentCreator('/docs/next/simulate-jvm-application-chaos/', '2b4'),
+                path: '/zh/docs/next/rust-client/',
+                component: ComponentCreator('/zh/docs/next/rust-client/', 'd4c'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/next/simulate-kernel-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-kernel-chaos-on-kubernetes/', 'c26'),
+                path: '/zh/docs/next/send-http-request-on-workflow/',
+                component: ComponentCreator('/zh/docs/next/send-http-request-on-workflow/', '4f2'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-network-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-network-chaos-in-physical-nodes/', 'a34'),
+                path: '/zh/docs/next/simulate-aws-chaos/',
+                component: ComponentCreator('/zh/docs/next/simulate-aws-chaos/', 'dfd'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-network-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-network-chaos-on-kubernetes/', '955'),
+                path: '/zh/docs/next/simulate-azure-chaos/',
+                component: ComponentCreator('/zh/docs/next/simulate-azure-chaos/', '14b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-physical-machine-chaos/',
-                component: ComponentCreator('/docs/next/simulate-physical-machine-chaos/', '3bd'),
+                path: '/zh/docs/next/simulate-block-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-block-chaos-on-kubernetes/', '4ad'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-pod-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-pod-chaos-on-kubernetes/', '0db'),
+                path: '/zh/docs/next/simulate-disk-pressure-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-disk-pressure-in-physical-nodes/', '1e8'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-process-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-process-chaos-in-physical-nodes/', '870'),
+                path: '/zh/docs/next/simulate-dns-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-dns-chaos-on-kubernetes/', 'd26'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-redis-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-redis-chaos-on-physical-nodes/', '6cd'),
+                path: '/zh/docs/next/simulate-file-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-file-chaos-in-physical-nodes/', 'e56'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-time-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/next/simulate-time-chaos-on-kubernetes/', 'e97'),
+                path: '/zh/docs/next/simulate-gcp-chaos/',
+                component: ComponentCreator('/zh/docs/next/simulate-gcp-chaos/', 'b9d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/simulate-time-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/next/simulate-time-chaos-on-physical-nodes/', '484'),
+                path: '/zh/docs/next/simulate-heavy-stress-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-heavy-stress-in-physical-nodes/', 'ad8'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/status-check-in-workflow/',
-                component: ComponentCreator('/docs/next/status-check-in-workflow/', '406'),
+                path: '/zh/docs/next/simulate-heavy-stress-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-heavy-stress-on-kubernetes/', '2fc'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/troubleshooting-guide/',
-                component: ComponentCreator('/docs/next/troubleshooting-guide/', '6a8'),
-                exact: true
-              },
-              {
-                path: '/docs/next/uninstallation/',
-                component: ComponentCreator('/docs/next/uninstallation/', 'b4e'),
+                path: '/zh/docs/next/simulate-host-console-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-host-console-in-physical-nodes/', '0cc'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/upgrade-from-2.1-to-2.2/',
-                component: ComponentCreator('/docs/next/upgrade-from-2.1-to-2.2/', '0a9'),
+                path: '/zh/docs/next/simulate-http-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-http-chaos-on-kubernetes/', 'f38'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/upgrade-to-2.0/',
-                component: ComponentCreator('/docs/next/upgrade-to-2.0/', '4df'),
+                path: '/zh/docs/next/simulate-io-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-io-chaos-on-kubernetes/', '84f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/next/use-argo-to-orchestrate-chaos-experiments/',
-                component: ComponentCreator('/docs/next/use-argo-to-orchestrate-chaos-experiments/', '813'),
-                exact: true
-              },
-              {
-                path: '/docs/next/use-grafana-data-source/',
-                component: ComponentCreator('/docs/next/use-grafana-data-source/', '566'),
+                path: '/zh/docs/next/simulate-jvm-application-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-jvm-application-chaos-in-physical-nodes/', '119'),
                 exact: true,
-                sidebar: "docs"
-              }
-            ]
-          }
-        ]
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-jvm-application-chaos/',
+                component: ComponentCreator('/zh/docs/next/simulate-jvm-application-chaos/', '1e5'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-kernel-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-kernel-chaos-on-kubernetes/', 'a48'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-network-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-network-chaos-in-physical-nodes/', '9b6'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-network-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-network-chaos-on-kubernetes/', '4d0'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-physical-machine-chaos/',
+                component: ComponentCreator('/zh/docs/next/simulate-physical-machine-chaos/', '565'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-pod-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-pod-chaos-on-kubernetes/', '90e'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-process-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-process-chaos-in-physical-nodes/', 'df4'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-redis-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-redis-chaos-on-physical-nodes/', '031'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-time-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/next/simulate-time-chaos-on-kubernetes/', '863'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/simulate-time-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/next/simulate-time-chaos-on-physical-nodes/', '7e0'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/status-check-in-workflow/',
+                component: ComponentCreator('/zh/docs/next/status-check-in-workflow/', 'cd0'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/troubleshooting-guide/',
+                component: ComponentCreator('/zh/docs/next/troubleshooting-guide/', '4bb'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/next/uninstallation/',
+                component: ComponentCreator('/zh/docs/next/uninstallation/', 'f22'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/upgrade-from-2.1-to-2.2/',
+                component: ComponentCreator('/zh/docs/next/upgrade-from-2.1-to-2.2/', '3d9'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/upgrade-to-2.0/',
+                component: ComponentCreator('/zh/docs/next/upgrade-to-2.0/', '9cd'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/next/use-argo-to-orchestrate-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/next/use-argo-to-orchestrate-chaos-experiments/', '1da'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/next/use-grafana-data-source/',
+                component: ComponentCreator('/zh/docs/next/use-grafana-data-source/', 'c1c'),
+                exact: true,
+                sidebar: 'docs',
+              },
+            ],
+          },
+        ],
       },
       {
-        path: '/docs/',
-        component: ComponentCreator('/docs/', '52c'),
+        path: '/zh/docs/',
+        component: ComponentCreator('/zh/docs/', '7e5'),
         routes: [
           {
-            path: '/docs/',
-            component: ComponentCreator('/docs/', 'ec5'),
+            path: '/zh/docs/',
+            component: ComponentCreator('/zh/docs/', '7ae'),
             routes: [
               {
-                path: '/docs/',
-                component: ComponentCreator('/docs/', 'dbb'),
+                path: '/zh/docs/',
+                component: ComponentCreator('/zh/docs/', 'efa'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/add-new-chaos-experiment-type/',
-                component: ComponentCreator('/docs/add-new-chaos-experiment-type/', '082'),
+                path: '/zh/docs/add-new-chaos-experiment-type/',
+                component: ComponentCreator('/zh/docs/add-new-chaos-experiment-type/', '5cd'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/basic-features/',
-                component: ComponentCreator('/docs/basic-features/', '324'),
+                path: '/zh/docs/basic-features/',
+                component: ComponentCreator('/zh/docs/basic-features/', 'e69'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/chaos-engineering-principles/',
-                component: ComponentCreator('/docs/chaos-engineering-principles/', '59d'),
-                exact: true
-              },
-              {
-                path: '/docs/chaosctl-tool/',
-                component: ComponentCreator('/docs/chaosctl-tool/', 'b0b'),
+                path: '/zh/docs/chaos-engineering-principles/',
+                component: ComponentCreator('/zh/docs/chaos-engineering-principles/', 'b1a'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/chaosd-overview/',
-                component: ComponentCreator('/docs/chaosd-overview/', '5b8'),
+                path: '/zh/docs/chaosctl-tool/',
+                component: ComponentCreator('/zh/docs/chaosctl-tool/', '4ef'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/chaosd-search-recover/',
-                component: ComponentCreator('/docs/chaosd-search-recover/', 'd51'),
+                path: '/zh/docs/chaosd-overview/',
+                component: ComponentCreator('/zh/docs/chaosd-overview/', 'caf'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/check-workflow-status/',
-                component: ComponentCreator('/docs/check-workflow-status/', '62c'),
+                path: '/zh/docs/chaosd-search-recover/',
+                component: ComponentCreator('/zh/docs/chaosd-search-recover/', '3d1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/clean-up-chaos-experiments/',
-                component: ComponentCreator('/docs/clean-up-chaos-experiments/', '143'),
-                exact: true
-              },
-              {
-                path: '/docs/common/quick-run/',
-                component: ComponentCreator('/docs/common/quick-run/', 'd4f'),
-                exact: true
-              },
-              {
-                path: '/docs/common/verify-installation/',
-                component: ComponentCreator('/docs/common/verify-installation/', 'b88'),
-                exact: true
-              },
-              {
-                path: '/docs/configure-development-environment/',
-                component: ComponentCreator('/docs/configure-development-environment/', '317'),
+                path: '/zh/docs/check-workflow-status/',
+                component: ComponentCreator('/zh/docs/check-workflow-status/', '731'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/configure-enabled-namespace/',
-                component: ComponentCreator('/docs/configure-enabled-namespace/', 'd82'),
+                path: '/zh/docs/clean-up-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/clean-up-chaos-experiments/', 'a58'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/create-chaos-mesh-workflow/',
-                component: ComponentCreator('/docs/create-chaos-mesh-workflow/', 'f35'),
+                path: '/zh/docs/common/quick-run/',
+                component: ComponentCreator('/zh/docs/common/quick-run/', '72e'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/define-chaos-experiment-scope/',
-                component: ComponentCreator('/docs/define-chaos-experiment-scope/', 'f0c'),
+                path: '/zh/docs/common/verify-installation/',
+                component: ComponentCreator('/zh/docs/common/verify-installation/', 'e1b'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/define-scheduling-rules/',
-                component: ComponentCreator('/docs/define-scheduling-rules/', 'd11'),
+                path: '/zh/docs/configure-development-environment/',
+                component: ComponentCreator('/zh/docs/configure-development-environment/', '898'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/define-workflow-scheduling-rules/',
-                component: ComponentCreator('/docs/define-workflow-scheduling-rules/', '7c8'),
-                exact: true
-              },
-              {
-                path: '/docs/developer-guide-overview/',
-                component: ComponentCreator('/docs/developer-guide-overview/', 'dfd'),
+                path: '/zh/docs/configure-enabled-namespace/',
+                component: ComponentCreator('/zh/docs/configure-enabled-namespace/', 'cc1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/expose-dashboard-with-ingress/',
-                component: ComponentCreator('/docs/expose-dashboard-with-ingress/', '9cb'),
+                path: '/zh/docs/create-chaos-mesh-workflow/',
+                component: ComponentCreator('/zh/docs/create-chaos-mesh-workflow/', '808'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/extend-chaos-daemon-interface/',
-                component: ComponentCreator('/docs/extend-chaos-daemon-interface/', '3df'),
+                path: '/zh/docs/define-chaos-experiment-scope/',
+                component: ComponentCreator('/zh/docs/define-chaos-experiment-scope/', '981'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/extend-chaosd/',
-                component: ComponentCreator('/docs/extend-chaosd/', '53f'),
+                path: '/zh/docs/define-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/define-scheduling-rules/', '8b1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/faqs/',
-                component: ComponentCreator('/docs/faqs/', '6b1'),
+                path: '/zh/docs/define-workflow-scheduling-rules/',
+                component: ComponentCreator('/zh/docs/define-workflow-scheduling-rules/', '697'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/gcp-authentication/',
-                component: ComponentCreator('/docs/gcp-authentication/', '797'),
+                path: '/zh/docs/developer-guide-overview/',
+                component: ComponentCreator('/zh/docs/developer-guide-overview/', '793'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/glossary/',
-                component: ComponentCreator('/docs/glossary/', '868'),
-                exact: true
-              },
-              {
-                path: '/docs/go-client/',
-                component: ComponentCreator('/docs/go-client/', '3c3'),
-                exact: true
-              },
-              {
-                path: '/docs/inspect-chaos-experiments/',
-                component: ComponentCreator('/docs/inspect-chaos-experiments/', 'b45'),
+                path: '/zh/docs/expose-dashboard-with-ingress/',
+                component: ComponentCreator('/zh/docs/expose-dashboard-with-ingress/', 'f1b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/integrate-chaos-mesh-into-github-actions/',
-                component: ComponentCreator('/docs/integrate-chaos-mesh-into-github-actions/', '410'),
+                path: '/zh/docs/extend-chaos-daemon-interface/',
+                component: ComponentCreator('/zh/docs/extend-chaos-daemon-interface/', 'a9f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/java-client/',
-                component: ComponentCreator('/docs/java-client/', '740'),
-                exact: true
-              },
-              {
-                path: '/docs/manage-user-permissions/',
-                component: ComponentCreator('/docs/manage-user-permissions/', 'f0e'),
+                path: '/zh/docs/extend-chaosd/',
+                component: ComponentCreator('/zh/docs/extend-chaosd/', 'bd9'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/multi-data-center-scenario/',
-                component: ComponentCreator('/docs/multi-data-center-scenario/', '2ed'),
-                exact: true
-              },
-              {
-                path: '/docs/offline-installation/',
-                component: ComponentCreator('/docs/offline-installation/', '7b5'),
+                path: '/zh/docs/faqs/',
+                component: ComponentCreator('/zh/docs/faqs/', 'e9f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/persistence-dashboard/',
-                component: ComponentCreator('/docs/persistence-dashboard/', 'e52'),
+                path: '/zh/docs/gcp-authentication/',
+                component: ComponentCreator('/zh/docs/gcp-authentication/', 'cb1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/production-installation-using-helm/',
-                component: ComponentCreator('/docs/production-installation-using-helm/', '4b1'),
+                path: '/zh/docs/glossary/',
+                component: ComponentCreator('/zh/docs/glossary/', '9b6'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/python-client/',
-                component: ComponentCreator('/docs/python-client/', 'b14'),
-                exact: true
-              },
-              {
-                path: '/docs/quick-start/',
-                component: ComponentCreator('/docs/quick-start/', '33d'),
+                path: '/zh/docs/go-client/',
+                component: ComponentCreator('/zh/docs/go-client/', '40e'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/release-0.0.8/',
-                component: ComponentCreator('/docs/release-0.0.8/', 'bb4'),
-                exact: true
-              },
-              {
-                path: '/docs/release-0.0.9/',
-                component: ComponentCreator('/docs/release-0.0.9/', '677'),
-                exact: true
-              },
-              {
-                path: '/docs/release-1.0.0/',
-                component: ComponentCreator('/docs/release-1.0.0/', '67f'),
-                exact: true
-              },
-              {
-                path: '/docs/release-2.0.0/',
-                component: ComponentCreator('/docs/release-2.0.0/', '00a'),
-                exact: true
-              },
-              {
-                path: '/docs/release-2.5-tracking/',
-                component: ComponentCreator('/docs/release-2.5-tracking/', '83e'),
+                path: '/zh/docs/inspect-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/inspect-chaos-experiments/', '109'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/release-cycle/',
-                component: ComponentCreator('/docs/release-cycle/', '62c'),
+                path: '/zh/docs/integrate-chaos-mesh-into-github-actions/',
+                component: ComponentCreator('/zh/docs/integrate-chaos-mesh-into-github-actions/', '95d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/remote-cluster-management/',
-                component: ComponentCreator('/docs/remote-cluster-management/', 'cc0'),
+                path: '/zh/docs/java-client/',
+                component: ComponentCreator('/zh/docs/java-client/', 'd71'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/run-a-chaos-experiment/',
-                component: ComponentCreator('/docs/run-a-chaos-experiment/', '9ce'),
+                path: '/zh/docs/manage-user-permissions/',
+                component: ComponentCreator('/zh/docs/manage-user-permissions/', '62d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/run-serial-or-parallel-experiments/',
-                component: ComponentCreator('/docs/run-serial-or-parallel-experiments/', '98e'),
+                path: '/zh/docs/multi-data-center-scenario/',
+                component: ComponentCreator('/zh/docs/multi-data-center-scenario/', 'f5c'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/rust-client/',
-                component: ComponentCreator('/docs/rust-client/', '69e'),
-                exact: true
-              },
-              {
-                path: '/docs/send-http-request-on-workflow/',
-                component: ComponentCreator('/docs/send-http-request-on-workflow/', 'a4e'),
+                path: '/zh/docs/offline-installation/',
+                component: ComponentCreator('/zh/docs/offline-installation/', '655'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-aws-chaos/',
-                component: ComponentCreator('/docs/simulate-aws-chaos/', '3fa'),
+                path: '/zh/docs/persistence-dashboard/',
+                component: ComponentCreator('/zh/docs/persistence-dashboard/', '3b5'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-azure-chaos/',
-                component: ComponentCreator('/docs/simulate-azure-chaos/', '798'),
+                path: '/zh/docs/production-installation-using-helm/',
+                component: ComponentCreator('/zh/docs/production-installation-using-helm/', 'fa3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-block-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-block-chaos-on-kubernetes/', '89b'),
+                path: '/zh/docs/python-client/',
+                component: ComponentCreator('/zh/docs/python-client/', 'cd6'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/simulate-disk-pressure-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-disk-pressure-in-physical-nodes/', '418'),
+                path: '/zh/docs/quick-start/',
+                component: ComponentCreator('/zh/docs/quick-start/', 'c2c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-dns-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-dns-chaos-on-kubernetes/', 'b7f'),
+                path: '/zh/docs/release-0.0.8/',
+                component: ComponentCreator('/zh/docs/release-0.0.8/', '793'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/simulate-file-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-file-chaos-in-physical-nodes/', 'e5c'),
+                path: '/zh/docs/release-0.0.9/',
+                component: ComponentCreator('/zh/docs/release-0.0.9/', 'ea1'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/simulate-gcp-chaos/',
-                component: ComponentCreator('/docs/simulate-gcp-chaos/', '846'),
+                path: '/zh/docs/release-1.0.0/',
+                component: ComponentCreator('/zh/docs/release-1.0.0/', '9d0'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/simulate-heavy-stress-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-heavy-stress-in-physical-nodes/', '8c5'),
+                path: '/zh/docs/release-2.0.0/',
+                component: ComponentCreator('/zh/docs/release-2.0.0/', '3eb'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/simulate-heavy-stress-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-heavy-stress-on-kubernetes/', '29c'),
+                path: '/zh/docs/release-2.5-tracking/',
+                component: ComponentCreator('/zh/docs/release-2.5-tracking/', '015'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-host-console-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-host-console-in-physical-nodes/', '81e'),
+                path: '/zh/docs/release-cycle/',
+                component: ComponentCreator('/zh/docs/release-cycle/', 'f74'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-http-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-http-chaos-on-kubernetes/', '74a'),
+                path: '/zh/docs/remote-cluster-management/',
+                component: ComponentCreator('/zh/docs/remote-cluster-management/', 'ac4'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-io-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-io-chaos-on-kubernetes/', 'eb3'),
+                path: '/zh/docs/run-a-chaos-experiment/',
+                component: ComponentCreator('/zh/docs/run-a-chaos-experiment/', '08a'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-jvm-application-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-jvm-application-chaos-in-physical-nodes/', '991'),
+                path: '/zh/docs/run-serial-or-parallel-experiments/',
+                component: ComponentCreator('/zh/docs/run-serial-or-parallel-experiments/', '46f'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-jvm-application-chaos/',
-                component: ComponentCreator('/docs/simulate-jvm-application-chaos/', '780'),
+                path: '/zh/docs/rust-client/',
+                component: ComponentCreator('/zh/docs/rust-client/', 'ab3'),
                 exact: true,
-                sidebar: "docs"
               },
               {
-                path: '/docs/simulate-kernel-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-kernel-chaos-on-kubernetes/', '41b'),
+                path: '/zh/docs/send-http-request-on-workflow/',
+                component: ComponentCreator('/zh/docs/send-http-request-on-workflow/', '560'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-network-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-network-chaos-in-physical-nodes/', '07d'),
+                path: '/zh/docs/simulate-aws-chaos/',
+                component: ComponentCreator('/zh/docs/simulate-aws-chaos/', 'f48'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-network-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-network-chaos-on-kubernetes/', '8f0'),
+                path: '/zh/docs/simulate-azure-chaos/',
+                component: ComponentCreator('/zh/docs/simulate-azure-chaos/', '48a'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-physical-machine-chaos/',
-                component: ComponentCreator('/docs/simulate-physical-machine-chaos/', '8bf'),
+                path: '/zh/docs/simulate-block-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-block-chaos-on-kubernetes/', 'ef3'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-pod-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-pod-chaos-on-kubernetes/', '132'),
+                path: '/zh/docs/simulate-disk-pressure-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-disk-pressure-in-physical-nodes/', 'd9d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-process-chaos-in-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-process-chaos-in-physical-nodes/', 'c34'),
+                path: '/zh/docs/simulate-dns-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-dns-chaos-on-kubernetes/', 'e8d'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-redis-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-redis-chaos-on-physical-nodes/', 'cb5'),
+                path: '/zh/docs/simulate-file-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-file-chaos-in-physical-nodes/', '1da'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-time-chaos-on-kubernetes/',
-                component: ComponentCreator('/docs/simulate-time-chaos-on-kubernetes/', '9ff'),
+                path: '/zh/docs/simulate-gcp-chaos/',
+                component: ComponentCreator('/zh/docs/simulate-gcp-chaos/', '331'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/simulate-time-chaos-on-physical-nodes/',
-                component: ComponentCreator('/docs/simulate-time-chaos-on-physical-nodes/', 'e1c'),
+                path: '/zh/docs/simulate-heavy-stress-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-heavy-stress-in-physical-nodes/', 'bb1'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/status-check-in-workflow/',
-                component: ComponentCreator('/docs/status-check-in-workflow/', '05c'),
+                path: '/zh/docs/simulate-heavy-stress-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-heavy-stress-on-kubernetes/', 'e97'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/troubleshooting-guide/',
-                component: ComponentCreator('/docs/troubleshooting-guide/', 'b28'),
-                exact: true
-              },
-              {
-                path: '/docs/uninstallation/',
-                component: ComponentCreator('/docs/uninstallation/', '279'),
+                path: '/zh/docs/simulate-host-console-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-host-console-in-physical-nodes/', '85c'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/upgrade-from-2.1-to-2.2/',
-                component: ComponentCreator('/docs/upgrade-from-2.1-to-2.2/', 'e56'),
+                path: '/zh/docs/simulate-http-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-http-chaos-on-kubernetes/', 'e90'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/upgrade-to-2.0/',
-                component: ComponentCreator('/docs/upgrade-to-2.0/', 'f8b'),
+                path: '/zh/docs/simulate-io-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-io-chaos-on-kubernetes/', '34b'),
                 exact: true,
-                sidebar: "docs"
+                sidebar: 'docs',
               },
               {
-                path: '/docs/use-argo-to-orchestrate-chaos-experiments/',
-                component: ComponentCreator('/docs/use-argo-to-orchestrate-chaos-experiments/', 'a9c'),
-                exact: true
-              },
-              {
-                path: '/docs/use-grafana-data-source/',
-                component: ComponentCreator('/docs/use-grafana-data-source/', '159'),
+                path: '/zh/docs/simulate-jvm-application-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-jvm-application-chaos-in-physical-nodes/', '41e'),
                 exact: true,
-                sidebar: "docs"
-              }
-            ]
-          }
-        ]
-      }
-    ]
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-jvm-application-chaos/',
+                component: ComponentCreator('/zh/docs/simulate-jvm-application-chaos/', '088'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-kernel-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-kernel-chaos-on-kubernetes/', '3b7'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-network-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-network-chaos-in-physical-nodes/', '93f'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-network-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-network-chaos-on-kubernetes/', 'd82'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-physical-machine-chaos/',
+                component: ComponentCreator('/zh/docs/simulate-physical-machine-chaos/', 'aa0'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-pod-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-pod-chaos-on-kubernetes/', '4db'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-process-chaos-in-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-process-chaos-in-physical-nodes/', 'd29'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-redis-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-redis-chaos-on-physical-nodes/', '70d'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-time-chaos-on-kubernetes/',
+                component: ComponentCreator('/zh/docs/simulate-time-chaos-on-kubernetes/', 'd5e'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/simulate-time-chaos-on-physical-nodes/',
+                component: ComponentCreator('/zh/docs/simulate-time-chaos-on-physical-nodes/', 'a37'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/status-check-in-workflow/',
+                component: ComponentCreator('/zh/docs/status-check-in-workflow/', '013'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/troubleshooting-guide/',
+                component: ComponentCreator('/zh/docs/troubleshooting-guide/', '1db'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/uninstallation/',
+                component: ComponentCreator('/zh/docs/uninstallation/', '430'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/upgrade-from-2.1-to-2.2/',
+                component: ComponentCreator('/zh/docs/upgrade-from-2.1-to-2.2/', '10d'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/upgrade-to-2.0/',
+                component: ComponentCreator('/zh/docs/upgrade-to-2.0/', 'f33'),
+                exact: true,
+                sidebar: 'docs',
+              },
+              {
+                path: '/zh/docs/use-argo-to-orchestrate-chaos-experiments/',
+                component: ComponentCreator('/zh/docs/use-argo-to-orchestrate-chaos-experiments/', '431'),
+                exact: true,
+              },
+              {
+                path: '/zh/docs/use-grafana-data-source/',
+                component: ComponentCreator('/zh/docs/use-grafana-data-source/', '57a'),
+                exact: true,
+                sidebar: 'docs',
+              },
+            ],
+          },
+        ],
+      },
+    ],
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
-    exact: true
+    path: '/zh/',
+    component: ComponentCreator('/zh/', '9c6'),
+    exact: true,
   },
   {
     path: '*',
     component: ComponentCreator('*'),
   },
-];
+]

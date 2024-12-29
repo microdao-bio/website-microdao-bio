@@ -1,0 +1,23 @@
+{
+  "id": "overview",
+  "title": "Chaos Mesh 简介",
+  "description": "本篇文档描述 Chaos Mesh 的概念、使用场景、核心优势、以及架构概览。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/overview.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/zh/docs/next/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "title": "Chaos Mesh 简介"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "基本功能",
+    "permalink": "/zh/docs/next/basic-features"
+  }
+}

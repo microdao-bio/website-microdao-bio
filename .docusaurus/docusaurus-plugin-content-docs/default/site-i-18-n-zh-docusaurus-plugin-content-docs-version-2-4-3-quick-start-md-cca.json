@@ -1,0 +1,26 @@
+{
+  "id": "quick-start",
+  "title": "快速试用",
+  "description": "本篇文档描述如何在测试环境或本机环境快速试用 Chaos Mesh。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/quick-start.md",
+  "sourceDirName": ".",
+  "slug": "/quick-start",
+  "permalink": "/zh/docs/2.4.3/quick-start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/quick-start.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "快速试用"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "基本功能",
+    "permalink": "/zh/docs/2.4.3/basic-features"
+  },
+  "next": {
+    "title": "使用 Helm 安装 Chaos Mesh",
+    "permalink": "/zh/docs/2.4.3/production-installation-using-helm"
+  }
+}

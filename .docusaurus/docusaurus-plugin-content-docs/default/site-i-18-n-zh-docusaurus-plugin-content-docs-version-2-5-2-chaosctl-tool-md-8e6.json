@@ -1,0 +1,26 @@
+{
+  "id": "chaosctl-tool",
+  "title": "Chaosctl",
+  "description": "Chaosctl 是一个用于辅助调试 Chaos Mesh 的工具。我们希望利用 Chaosctl 简化开发调试新 chaos 类型，以及提交 issue 相关日志的流程。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/chaosctl-tool.md",
+  "sourceDirName": ".",
+  "slug": "/chaosctl-tool",
+  "permalink": "/zh/docs/2.5.2/chaosctl-tool",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/chaosctl-tool.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Chaosctl"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "使用 Grafana Data Source 插件进行观测",
+    "permalink": "/zh/docs/2.5.2/use-grafana-data-source"
+  },
+  "next": {
+    "title": "开发指南概览",
+    "permalink": "/zh/docs/2.5.2/developer-guide-overview"
+  }
+}

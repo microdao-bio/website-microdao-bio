@@ -1,0 +1,26 @@
+{
+  "id": "simulate-azure-chaos",
+  "title": "模拟 Azure 故障",
+  "description": "本文档介绍如何使用 Chaos Mesh 来模拟 Azure 故障。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/simulate-azure-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-azure-chaos",
+  "permalink": "/zh/docs/next/simulate-azure-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/simulate-azure-chaos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "模拟 Azure 故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 AWS 故障",
+    "permalink": "/zh/docs/next/simulate-aws-chaos"
+  },
+  "next": {
+    "title": "模拟 GCP 故障",
+    "permalink": "/zh/docs/next/simulate-gcp-chaos"
+  }
+}

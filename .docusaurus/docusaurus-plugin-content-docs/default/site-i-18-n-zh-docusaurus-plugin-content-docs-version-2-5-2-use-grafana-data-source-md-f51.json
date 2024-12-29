@@ -1,0 +1,26 @@
+{
+  "id": "use-grafana-data-source",
+  "title": "使用 Grafana Data Source 插件进行观测",
+  "description": "本文档介绍如何在本地 Grafana 安装 Data Source 插件，并使用 Grafana Data Source 进行观测。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/use-grafana-data-source.md",
+  "sourceDirName": ".",
+  "slug": "/use-grafana-data-source",
+  "permalink": "/zh/docs/2.5.2/use-grafana-data-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.5.2/use-grafana-data-source.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "使用 Grafana Data Source 插件进行观测"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "集成 Chaos Mesh 到 GitHub Actions",
+    "permalink": "/zh/docs/2.5.2/integrate-chaos-mesh-into-github-actions"
+  },
+  "next": {
+    "title": "Chaosctl",
+    "permalink": "/zh/docs/2.5.2/chaosctl-tool"
+  }
+}

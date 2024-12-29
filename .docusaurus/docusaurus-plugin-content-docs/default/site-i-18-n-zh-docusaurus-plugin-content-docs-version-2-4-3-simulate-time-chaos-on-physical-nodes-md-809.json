@@ -1,0 +1,26 @@
+{
+  "id": "simulate-time-chaos-on-physical-nodes",
+  "title": "模拟时间故障",
+  "description": "本文主要介绍如何使用 Chaosd 模拟时间偏移的场景。本功能支持通过命令行模式或服务模式创建实验。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-time-chaos-on-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-time-chaos-on-physical-nodes",
+  "permalink": "/zh/docs/2.4.3/simulate-time-chaos-on-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-time-chaos-on-physical-nodes.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "模拟时间故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 JVM 应用故障",
+    "permalink": "/zh/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes"
+  },
+  "next": {
+    "title": "模拟文件故障",
+    "permalink": "/zh/docs/2.4.3/simulate-file-chaos-in-physical-nodes"
+  }
+}

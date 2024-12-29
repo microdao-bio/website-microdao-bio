@@ -1,0 +1,26 @@
+{
+  "id": "faqs",
+  "title": "常见问题解答 (FAQ)",
+  "description": "If I do not have deployed Kubernetes clusters, can I use Chaos Mesh to create chaos experiments?",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/faqs.md",
+  "sourceDirName": ".",
+  "slug": "/faqs",
+  "permalink": "/zh/docs/next/faqs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/faqs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "常见问题解答 (FAQ)"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "拓展 Chaosd 组件",
+    "permalink": "/zh/docs/next/extend-chaosd"
+  },
+  "next": {
+    "title": "升级至 Chaos Mesh 2.0",
+    "permalink": "/zh/docs/next/upgrade-to-2.0"
+  }
+}

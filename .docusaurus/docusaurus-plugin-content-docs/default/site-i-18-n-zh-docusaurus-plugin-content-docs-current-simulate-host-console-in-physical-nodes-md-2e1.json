@@ -1,0 +1,26 @@
+{
+  "id": "simulate-host-console-in-physical-nodes",
+  "title": "模拟主机故障",
+  "description": "模拟主机故障",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/simulate-host-console-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-host-console-in-physical-nodes",
+  "permalink": "/zh/docs/next/simulate-host-console-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/simulate-host-console-in-physical-nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "模拟主机故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟网络故障",
+    "permalink": "/zh/docs/next/simulate-network-chaos-in-physical-nodes"
+  },
+  "next": {
+    "title": "模拟压力场景",
+    "permalink": "/zh/docs/next/simulate-heavy-stress-in-physical-nodes"
+  }
+}

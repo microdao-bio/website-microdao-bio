@@ -1,0 +1,26 @@
+{
+  "id": "simulate-network-chaos-in-physical-nodes",
+  "title": "模拟网络故障",
+  "description": "本文主要介绍如何使用 Chaosd 模拟网络故障场景。该功能通过使用 iptables、ipsets、tc 等工具修改网络路由、流量控制来模拟网络故障。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/simulate-network-chaos-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-network-chaos-in-physical-nodes",
+  "permalink": "/zh/docs/next/simulate-network-chaos-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/simulate-network-chaos-in-physical-nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "模拟网络故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟进程故障",
+    "permalink": "/zh/docs/next/simulate-process-chaos-in-physical-nodes"
+  },
+  "next": {
+    "title": "模拟主机故障",
+    "permalink": "/zh/docs/next/simulate-host-console-in-physical-nodes"
+  }
+}

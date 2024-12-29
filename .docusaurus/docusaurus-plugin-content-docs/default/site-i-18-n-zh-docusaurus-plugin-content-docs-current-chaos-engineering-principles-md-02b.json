@@ -1,0 +1,17 @@
+{
+  "id": "chaos-engineering-principles",
+  "title": "混沌工程理论",
+  "description": "TODO",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/chaos-engineering-principles.md",
+  "sourceDirName": ".",
+  "slug": "/chaos-engineering-principles",
+  "permalink": "/zh/docs/next/chaos-engineering-principles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/chaos-engineering-principles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "混沌工程理论"
+  }
+}

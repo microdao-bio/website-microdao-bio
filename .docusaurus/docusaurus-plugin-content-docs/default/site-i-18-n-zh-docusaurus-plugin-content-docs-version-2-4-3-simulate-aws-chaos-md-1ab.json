@@ -1,0 +1,26 @@
+{
+  "id": "simulate-aws-chaos",
+  "title": "模拟 AWS 故障",
+  "description": "本文档介绍如何使用 Chaos Mesh 来模拟 AWS 故障。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-aws-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-aws-chaos",
+  "permalink": "/zh/docs/2.4.3/simulate-aws-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/simulate-aws-chaos.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "模拟 AWS 故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 Linux 内核故障",
+    "permalink": "/zh/docs/2.4.3/simulate-kernel-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "模拟 Azure 故障",
+    "permalink": "/zh/docs/2.4.3/simulate-azure-chaos"
+  }
+}

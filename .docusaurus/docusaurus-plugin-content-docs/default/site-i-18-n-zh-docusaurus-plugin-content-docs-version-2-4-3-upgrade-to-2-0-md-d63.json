@@ -1,0 +1,26 @@
+{
+  "id": "upgrade-to-2.0",
+  "title": "升级至 Chaos Mesh 2.0",
+  "description": "本文介绍从 Chaos Mesh 1.x 升级至 2.0 的详细步骤。Chaos Mesh 2.0 引入了一些新功能，并修复了许多问题。Chaos Mesh 2.0 重构了一部分代码，因此需要做一些额外的操作从 Chaos Mesh 1.x 升级到 2.0。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/upgrade-to-2.0.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade-to-2.0",
+  "permalink": "/zh/docs/2.4.3/upgrade-to-2.0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/version-2.4.3/upgrade-to-2.0.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "升级至 Chaos Mesh 2.0"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "常见问题解答 (FAQ)",
+    "permalink": "/zh/docs/2.4.3/faqs"
+  },
+  "next": {
+    "title": "从 2.1 升级到 2.2",
+    "permalink": "/zh/docs/2.4.3/upgrade-from-2.1-to-2.2"
+  }
+}

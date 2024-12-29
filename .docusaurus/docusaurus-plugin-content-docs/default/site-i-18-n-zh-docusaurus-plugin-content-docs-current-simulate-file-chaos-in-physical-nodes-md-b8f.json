@@ -1,0 +1,26 @@
+{
+  "id": "simulate-file-chaos-in-physical-nodes",
+  "title": "模拟文件故障",
+  "description": "本文主要介绍如何使用 Chaosd 模拟文件故障场景，包括新增文件、写文件、删除文件、修改文件权限、重命名文件、替换文件数据等。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/simulate-file-chaos-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-file-chaos-in-physical-nodes",
+  "permalink": "/zh/docs/next/simulate-file-chaos-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/simulate-file-chaos-in-physical-nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "模拟文件故障"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟时间故障",
+    "permalink": "/zh/docs/next/simulate-time-chaos-on-physical-nodes"
+  },
+  "next": {
+    "title": "模拟 Redis 故障",
+    "permalink": "/zh/docs/next/simulate-redis-chaos-on-physical-nodes"
+  }
+}

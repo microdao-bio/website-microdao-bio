@@ -1,0 +1,27 @@
+{
+  "id": "chaosd-search-recover",
+  "title": "查找和恢复 Chaosd 实验",
+  "description": "Chaosd 支持按照条件搜索实验，以及恢复指定的 UID 对应的实验。本文档介绍了查找和恢复 Chaosd 实验的操作方法，并提供了示例。",
+  "source": "@site/i18n/zh/docusaurus-plugin-content-docs/current/chaosd-search-recover.md",
+  "sourceDirName": ".",
+  "slug": "/chaosd-search-recover",
+  "permalink": "/zh/docs/next/chaosd-search-recover",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/i18n/zh/docusaurus-plugin-content-docs/current/chaosd-search-recover.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "查找和恢复 Chaosd 实验",
+    "summary": "本文档介绍了查找和恢复 Chaosd 实验的操作方法，并提供了示例。"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "模拟 Redis 故障",
+    "permalink": "/zh/docs/next/simulate-redis-chaos-on-physical-nodes"
+  },
+  "next": {
+    "title": "GCP 身份验证接入",
+    "permalink": "/zh/docs/next/gcp-authentication"
+  }
+}
