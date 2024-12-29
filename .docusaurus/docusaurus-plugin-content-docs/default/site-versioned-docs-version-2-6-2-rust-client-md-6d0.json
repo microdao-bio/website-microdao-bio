@@ -1,0 +1,17 @@
+{
+  "id": "rust-client",
+  "title": "Rust",
+  "description": "TODO",
+  "source": "@site/versioned_docs/version-2.6.2/rust-client.md",
+  "sourceDirName": ".",
+  "slug": "/rust-client",
+  "permalink": "/docs/rust-client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/rust-client.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Rust"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "use-grafana-data-source",
+  "title": "Use Grafana Data Source Plugin for Observations",
+  "description": "This document describes how to install the Data Source plugin locally in Grafana and make observations using Grafana Data Source.",
+  "source": "@site/docs/use-grafana-data-source.md",
+  "sourceDirName": ".",
+  "slug": "/use-grafana-data-source",
+  "permalink": "/docs/next/use-grafana-data-source",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/use-grafana-data-source.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Use Grafana Data Source Plugin for Observations"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Integrate Chaos Mesh to GitHub Actions",
+    "permalink": "/docs/next/integrate-chaos-mesh-into-github-actions"
+  },
+  "next": {
+    "title": "Chaosctl",
+    "permalink": "/docs/next/chaosctl-tool"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/implement-chaos-engineering-in-k8s",
+  "editUrl": "https://microdao.substack.com/blog/2021-12-10-implement-chaos-engineering-in-k8s.md",
+  "source": "@site/blog/2021-12-10-implement-chaos-engineering-in-k8s.md",
+  "title": "Implementing Chaos Engineering in K8s: Chaos Mesh Principle Analysis and Control Plane Development",
+  "description": "Implementing Chaos Engineering in K8s",
+  "date": "2021-12-10T00:00:00.000Z",
+  "formattedDate": "December 10, 2021",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    }
+  ],
+  "readingTime": 17.915,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Mayo Cream",
+      "title": "Kubernetes Member, CNCF Security TAG Member, OSS Contributor",
+      "url": "https://github.com/mayocream",
+      "imageURL": "https://avatars.githubusercontent.com/u/35420264?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/implement-chaos-engineering-in-k8s",
+    "title": "Implementing Chaos Engineering in K8s: Chaos Mesh Principle Analysis and Control Plane Development",
+    "author": "Mayo Cream",
+    "author_title": "Kubernetes Member, CNCF Security TAG Member, OSS Contributor",
+    "author_url": "https://github.com/mayocream",
+    "author_image_url": "https://avatars.githubusercontent.com/u/35420264?v=4",
+    "image": "/img/blog/implement-chaos-engineering-in-k8s.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Chaos Mesh + SkyWalking: Better Observability for Chaos Engineering",
+    "permalink": "/blog/better-observability-for-chaos-engineering"
+  },
+  "nextItem": {
+    "title": "Hacktoberfest 2021: hack with Chaos Mesh!",
+    "permalink": "/blog/chaos-mesh-hacktoberfest-2021"
+  }
+}

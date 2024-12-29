@@ -1,0 +1,61 @@
+{
+  "permalink": "/blog/how-to-efficiently-stress-test-pod-memory",
+  "editUrl": "https://microdao.substack.com/blog/2021-07-01-how-to-efficiently-stress-test-pod-memory.md",
+  "source": "@site/blog/2021-07-01-how-to-efficiently-stress-test-pod-memory.md",
+  "title": "How to efficiently stress test Pod memory",
+  "description": "banner",
+  "date": "2021-07-01T00:00:00.000Z",
+  "formattedDate": "July 1, 2021",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    },
+    {
+      "label": "StressChaos",
+      "permalink": "/blog/tags/stress-chaos"
+    },
+    {
+      "label": "Stress Testing",
+      "permalink": "/blog/tags/stress-testing"
+    }
+  ],
+  "readingTime": 10.015,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Yinghao Wang",
+      "title": "Contributor of Chaos Mesh",
+      "url": "https://github.com/AsterNighT",
+      "imageURL": "https://avatars.githubusercontent.com/u/22937027?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/how-to-efficiently-stress-test-pod-memory",
+    "title": "How to efficiently stress test Pod memory",
+    "author": "Yinghao Wang",
+    "author_title": "Contributor of Chaos Mesh",
+    "author_url": "https://github.com/AsterNighT",
+    "author_image_url": "https://avatars.githubusercontent.com/u/22937027?v=4",
+    "image": "/img/blog/how-to-efficiently-stress-test-pod-memory-banner.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "StressChaos",
+      "Stress Testing"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Securing tenant namespaces using restrict authorization feature in Chaos Mesh",
+    "permalink": "/blog/securing-tenant-namespaces-using-restrict-authorization-feature"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh Remake: One Step Closer toward Chaos as a Service",
+    "permalink": "/blog/chaos-mesh-remake-one-step-closer-towards-chaos-as-a-service"
+  }
+}

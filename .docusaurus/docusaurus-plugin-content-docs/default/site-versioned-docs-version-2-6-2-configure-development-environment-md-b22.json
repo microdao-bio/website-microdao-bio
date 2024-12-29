@@ -1,0 +1,26 @@
+{
+  "id": "configure-development-environment",
+  "title": "Configure the Development Environment",
+  "description": "This document describes how to configure a local development environment for Chaos Mesh.",
+  "source": "@site/versioned_docs/version-2.6.2/configure-development-environment.md",
+  "sourceDirName": ".",
+  "slug": "/configure-development-environment",
+  "permalink": "/docs/configure-development-environment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/configure-development-environment.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Configure the Development Environment"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Developer Guide Overview",
+    "permalink": "/docs/developer-guide-overview"
+  },
+  "next": {
+    "title": "Add a New Chaos Experiment Type",
+    "permalink": "/docs/add-new-chaos-experiment-type"
+  }
+}

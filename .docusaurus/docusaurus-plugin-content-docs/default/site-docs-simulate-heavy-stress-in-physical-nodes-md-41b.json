@@ -1,0 +1,26 @@
+{
+  "id": "simulate-heavy-stress-in-physical-nodes",
+  "title": "Simulate Stress Scenarios",
+  "description": "This document describes how to use Chaosd to simulate stress scenarios. This feature generates CPU or memory stress on the host using stress-ng. You can create stress experiments either in command-line or service mode.",
+  "source": "@site/docs/simulate-heavy-stress-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-heavy-stress-in-physical-nodes",
+  "permalink": "/docs/next/simulate-heavy-stress-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-heavy-stress-in-physical-nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Stress Scenarios"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Host Faults",
+    "permalink": "/docs/next/simulate-host-console-in-physical-nodes"
+  },
+  "next": {
+    "title": "Simulate Disk Faults",
+    "permalink": "/docs/next/simulate-disk-pressure-in-physical-nodes"
+  }
+}

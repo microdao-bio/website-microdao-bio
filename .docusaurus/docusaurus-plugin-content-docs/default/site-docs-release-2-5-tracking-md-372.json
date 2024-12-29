@@ -1,0 +1,22 @@
+{
+  "id": "release-2.5-tracking",
+  "title": "Chaos Mesh v2.5.0 Tracking",
+  "description": "Links",
+  "source": "@site/docs/release-2.5-tracking.md",
+  "sourceDirName": ".",
+  "slug": "/release-2.5-tracking",
+  "permalink": "/docs/next/release-2.5-tracking",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/release-2.5-tracking.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Chaos Mesh v2.5.0 Tracking"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chaos Mesh Release Cycle",
+    "permalink": "/docs/next/release-cycle"
+  }
+}

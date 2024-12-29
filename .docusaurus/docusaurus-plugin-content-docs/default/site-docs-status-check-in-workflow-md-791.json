@@ -1,0 +1,26 @@
+{
+  "id": "status-check-in-workflow",
+  "title": "Status Check in Workflow",
+  "description": "In Workflow, the status check could execute specified operations on external systems, such as application systems and monitoring systems, to obtain their statuses, and automatically abort the Workflow when it finds the system is unhealthy. The concept is similar to Container Probes in Kubernetes. This article describes how to execute status checks in Workflow using YAML files.",
+  "source": "@site/docs/status-check-in-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/status-check-in-workflow",
+  "permalink": "/docs/next/status-check-in-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/status-check-in-workflow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Status Check in Workflow"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Check Workflow Status",
+    "permalink": "/docs/next/check-workflow-status"
+  },
+  "next": {
+    "title": "Simulate Pod Faults",
+    "permalink": "/docs/next/simulate-pod-chaos-on-kubernetes"
+  }
+}

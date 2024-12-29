@@ -1,0 +1,17 @@
+{
+  "id": "python-client",
+  "title": "Python",
+  "description": "TODO",
+  "source": "@site/docs/python-client.md",
+  "sourceDirName": ".",
+  "slug": "/python-client",
+  "permalink": "/docs/next/python-client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/python-client.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Python"
+  }
+}

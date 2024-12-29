@@ -1,0 +1,26 @@
+{
+  "id": "upgrade-to-2.0",
+  "title": "Upgrade to Chaos Mesh 2.0",
+  "description": "This document provides detailed instruction for upgrading Chaos Mesh from 1.x to 2.0. Chaos Mesh 2.0 introduced some new features and fixed many issues. Because in Chaos Mesh 2.0, some code has been rebuilt, you need to perform extra actions for the upgrade.",
+  "source": "@site/docs/upgrade-to-2.0.md",
+  "sourceDirName": ".",
+  "slug": "/upgrade-to-2.0",
+  "permalink": "/docs/next/upgrade-to-2.0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/upgrade-to-2.0.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Upgrade to Chaos Mesh 2.0"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/docs/next/faqs"
+  },
+  "next": {
+    "title": "Upgrade from 2.1 to 2.2",
+    "permalink": "/docs/next/upgrade-from-2.1-to-2.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "persistence-dashboard",
+  "title": "Persistence Chaos Dashboard",
+  "description": "This document describes how to make Chaos Dashboard persistence.",
+  "source": "@site/docs/persistence-dashboard.md",
+  "sourceDirName": ".",
+  "slug": "/persistence-dashboard",
+  "permalink": "/docs/next/persistence-dashboard",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/persistence-dashboard.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Persistence Chaos Dashboard"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Expose Chaos Dashboard with Ingress",
+    "permalink": "/docs/next/expose-dashboard-with-ingress"
+  },
+  "next": {
+    "title": "Uninstall Chaos Mesh",
+    "permalink": "/docs/next/uninstallation"
+  }
+}

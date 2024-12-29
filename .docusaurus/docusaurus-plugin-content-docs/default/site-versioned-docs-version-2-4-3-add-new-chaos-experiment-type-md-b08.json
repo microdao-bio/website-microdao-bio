@@ -1,0 +1,26 @@
+{
+  "id": "add-new-chaos-experiment-type",
+  "title": "Add New Chaos Experiment Type",
+  "description": "This document describes how to add a new chaos experiment type.",
+  "source": "@site/versioned_docs/version-2.4.3/add-new-chaos-experiment-type.md",
+  "sourceDirName": ".",
+  "slug": "/add-new-chaos-experiment-type",
+  "permalink": "/docs/2.4.3/add-new-chaos-experiment-type",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/add-new-chaos-experiment-type.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Add New Chaos Experiment Type"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Configure the Development Environment",
+    "permalink": "/docs/2.4.3/configure-development-environment"
+  },
+  "next": {
+    "title": "Extend Chaos Daemon Interface",
+    "permalink": "/docs/2.4.3/extend-chaos-daemon-interface"
+  }
+}

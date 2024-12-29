@@ -1,0 +1,26 @@
+{
+  "id": "simulate-aws-chaos",
+  "title": "Simulate AWS Faults",
+  "description": "This document describes how to use Chaos Mesh to simulate AWS faults.",
+  "source": "@site/versioned_docs/version-2.4.3/simulate-aws-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-aws-chaos",
+  "permalink": "/docs/2.4.3/simulate-aws-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/simulate-aws-chaos.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Simulate AWS Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Linux Kernel Faults",
+    "permalink": "/docs/2.4.3/simulate-kernel-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "Simulate Azure Faults",
+    "permalink": "/docs/2.4.3/simulate-azure-chaos"
+  }
+}

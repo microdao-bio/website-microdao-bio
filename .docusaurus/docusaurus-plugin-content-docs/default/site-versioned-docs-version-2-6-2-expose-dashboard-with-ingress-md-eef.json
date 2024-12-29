@@ -1,0 +1,24 @@
+{
+  "id": "expose-dashboard-with-ingress",
+  "title": "Expose Chaos Dashboard with Ingress",
+  "description": "At times, you may need to make the Chaos Dashboard accessible to external users, while placing it under the subpath of your current monitoring dashboard.",
+  "source": "@site/versioned_docs/version-2.6.2/expose-dashboard-with-ingress.md",
+  "sourceDirName": ".",
+  "slug": "/expose-dashboard-with-ingress",
+  "permalink": "/docs/expose-dashboard-with-ingress",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/expose-dashboard-with-ingress.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Install Chaos Mesh Offline",
+    "permalink": "/docs/offline-installation"
+  },
+  "next": {
+    "title": "Persistence Chaos Dashboard",
+    "permalink": "/docs/persistence-dashboard"
+  }
+}

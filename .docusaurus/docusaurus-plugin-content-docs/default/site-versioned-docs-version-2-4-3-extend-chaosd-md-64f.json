@@ -1,0 +1,26 @@
+{
+  "id": "extend-chaosd",
+  "title": "Extend Chaosd",
+  "description": "TODO",
+  "source": "@site/versioned_docs/version-2.4.3/extend-chaosd.md",
+  "sourceDirName": ".",
+  "slug": "/extend-chaosd",
+  "permalink": "/docs/2.4.3/extend-chaosd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/extend-chaosd.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Extend Chaosd"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Extend Chaos Daemon Interface",
+    "permalink": "/docs/2.4.3/extend-chaos-daemon-interface"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/docs/2.4.3/faqs"
+  }
+}

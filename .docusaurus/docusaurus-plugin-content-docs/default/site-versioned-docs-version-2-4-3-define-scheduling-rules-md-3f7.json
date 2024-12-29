@@ -1,0 +1,26 @@
+{
+  "id": "define-scheduling-rules",
+  "title": "Define Scheduling Rules",
+  "description": "Schedule overview",
+  "source": "@site/versioned_docs/version-2.4.3/define-scheduling-rules.md",
+  "sourceDirName": ".",
+  "slug": "/define-scheduling-rules",
+  "permalink": "/docs/2.4.3/define-scheduling-rules",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/define-scheduling-rules.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Define Scheduling Rules"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Define the Scope of Chaos Experiments",
+    "permalink": "/docs/2.4.3/define-chaos-experiment-scope"
+  },
+  "next": {
+    "title": "Run a Chaos Experiment",
+    "permalink": "/docs/2.4.3/run-a-chaos-experiment"
+  }
+}

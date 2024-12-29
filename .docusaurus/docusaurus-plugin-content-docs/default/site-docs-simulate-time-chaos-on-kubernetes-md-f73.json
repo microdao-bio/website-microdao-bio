@@ -1,0 +1,26 @@
+{
+  "id": "simulate-time-chaos-on-kubernetes",
+  "title": "Simulate Time Faults",
+  "description": "TimeChaos Introduction",
+  "source": "@site/docs/simulate-time-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-time-chaos-on-kubernetes",
+  "permalink": "/docs/next/simulate-time-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-time-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Time Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate DNS Faults",
+    "permalink": "/docs/next/simulate-dns-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "Simulate JVM Application Faults",
+    "permalink": "/docs/next/simulate-jvm-application-chaos"
+  }
+}

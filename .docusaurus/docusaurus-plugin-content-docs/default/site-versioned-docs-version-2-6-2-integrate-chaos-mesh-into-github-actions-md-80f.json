@@ -1,0 +1,26 @@
+{
+  "id": "integrate-chaos-mesh-into-github-actions",
+  "title": "Integrate Chaos Mesh to GitHub Actions",
+  "description": "This document describes how to integrate Chaos Mesh to customize the continuous integration (CI) using chaos-mesh-action. This helps you identify issues that have been introduced into system development before product releases.",
+  "source": "@site/versioned_docs/version-2.6.2/integrate-chaos-mesh-into-github-actions.md",
+  "sourceDirName": ".",
+  "slug": "/integrate-chaos-mesh-into-github-actions",
+  "permalink": "/docs/integrate-chaos-mesh-into-github-actions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/integrate-chaos-mesh-into-github-actions.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Integrate Chaos Mesh to GitHub Actions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "GCP OAuth Authentication",
+    "permalink": "/docs/gcp-authentication"
+  },
+  "next": {
+    "title": "Use Grafana Data Source Plugin for Observations",
+    "permalink": "/docs/use-grafana-data-source"
+  }
+}

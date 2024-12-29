@@ -1,0 +1,26 @@
+{
+  "id": "create-chaos-mesh-workflow",
+  "title": "Create Chaos Mesh Workflow",
+  "description": "Introduction to Chaos Mesh Workflow",
+  "source": "@site/versioned_docs/version-2.6.2/create-chaos-mesh-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/create-chaos-mesh-workflow",
+  "permalink": "/docs/create-chaos-mesh-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/create-chaos-mesh-workflow.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Create Chaos Mesh Workflow"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Inspect Results of Chaos Experiments",
+    "permalink": "/docs/inspect-chaos-experiments"
+  },
+  "next": {
+    "title": "Serial and Parallel Experiments",
+    "permalink": "/docs/run-serial-or-parallel-experiments"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "uninstallation",
+  "title": "Uninstall Chaos Mesh",
+  "description": "This document introduces how to uninstall Chaos Mesh, including uninstall Chaos Mesh with Helm and uninstall Chaos Mesh manually. It's also very helpful to manually purge Chaos Mesh installation from Kubernetes cluster if you have to do.",
+  "source": "@site/versioned_docs/version-2.6.2/uninstallation.md",
+  "sourceDirName": ".",
+  "slug": "/uninstallation",
+  "permalink": "/docs/uninstallation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/uninstallation.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Uninstall Chaos Mesh"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Persistence Chaos Dashboard",
+    "permalink": "/docs/persistence-dashboard"
+  },
+  "next": {
+    "title": "Manage User Permissions",
+    "permalink": "/docs/manage-user-permissions"
+  }
+}

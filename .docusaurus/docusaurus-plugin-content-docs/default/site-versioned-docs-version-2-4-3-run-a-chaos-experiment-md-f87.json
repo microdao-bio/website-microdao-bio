@@ -1,0 +1,26 @@
+{
+  "id": "run-a-chaos-experiment",
+  "title": "Run a Chaos Experiment",
+  "description": "This document describes how to create, run, view, pause, update, and delete Chaos experiments in Chaos Mesh.",
+  "source": "@site/versioned_docs/version-2.4.3/run-a-chaos-experiment.md",
+  "sourceDirName": ".",
+  "slug": "/run-a-chaos-experiment",
+  "permalink": "/docs/2.4.3/run-a-chaos-experiment",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/run-a-chaos-experiment.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Run a Chaos Experiment"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Define Scheduling Rules",
+    "permalink": "/docs/2.4.3/define-scheduling-rules"
+  },
+  "next": {
+    "title": "Inspect Results of Chaos Experiments",
+    "permalink": "/docs/2.4.3/inspect-chaos-experiments"
+  }
+}

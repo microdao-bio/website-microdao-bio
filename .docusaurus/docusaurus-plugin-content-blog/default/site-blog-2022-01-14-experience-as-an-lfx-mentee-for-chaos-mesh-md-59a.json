@@ -1,0 +1,61 @@
+{
+  "permalink": "/blog/experience-as-a-chaos-mesh-lfx-mentee",
+  "editUrl": "https://microdao.substack.com/blog/2022-01-14-experience-as-an-lfx-mentee-for-chaos-mesh.md",
+  "source": "@site/blog/2022-01-14-experience-as-an-lfx-mentee-for-chaos-mesh.md",
+  "title": "Experience as an LFX Mentee for Chaos Mesh",
+  "description": "Experience as an LFX Mentee for Chaos Mesh",
+  "date": "2022-01-14T00:00:00.000Z",
+  "formattedDate": "January 14, 2022",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    },
+    {
+      "label": "LFX Mentorship",
+      "permalink": "/blog/tags/lfx-mentorship"
+    },
+    {
+      "label": "Monitoring Metrics",
+      "permalink": "/blog/tags/monitoring-metrics"
+    }
+  ],
+  "readingTime": 6.57,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Chunxu Zhang",
+      "title": "LFX mentee",
+      "url": "https://github.com/TangliziGit",
+      "imageURL": "https://avatars.githubusercontent.com/u/40566218?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/experience-as-a-chaos-mesh-lfx-mentee",
+    "title": "Experience as an LFX Mentee for Chaos Mesh",
+    "author": "Chunxu Zhang",
+    "author_title": "LFX mentee",
+    "author_url": "https://github.com/TangliziGit",
+    "author_image_url": "https://avatars.githubusercontent.com/u/40566218?v=4",
+    "image": "/img/blog/lfx-mentee-experience-banner.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "LFX Mentorship",
+      "Monitoring Metrics"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Chaos Mesh Q&A at KUBECON EU 2022",
+    "permalink": "/blog/chaos-mesh-qa-at-kubecon-eu-2022"
+  },
+  "nextItem": {
+    "title": "How to Develop a Daily Reporting System to Track Chaos Testing Results",
+    "permalink": "/blog/develop-a-daily-reporting-system"
+  }
+}

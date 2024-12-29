@@ -1,0 +1,26 @@
+{
+  "id": "simulate-http-chaos-on-kubernetes",
+  "title": "Simulate HTTP Faults",
+  "description": "This document describes how to simulate HTTP faults by creating HTTPChaos experiments in Chaos Mesh.",
+  "source": "@site/versioned_docs/version-2.4.3/simulate-http-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-http-chaos-on-kubernetes",
+  "permalink": "/docs/2.4.3/simulate-http-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/simulate-http-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Simulate HTTP Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate GCP Faults",
+    "permalink": "/docs/2.4.3/simulate-gcp-chaos"
+  },
+  "next": {
+    "title": "Simulate Block Device Latency",
+    "permalink": "/docs/2.4.3/simulate-block-chaos-on-kubernetes"
+  }
+}

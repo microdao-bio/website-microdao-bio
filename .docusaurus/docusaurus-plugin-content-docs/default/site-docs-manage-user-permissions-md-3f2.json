@@ -1,0 +1,26 @@
+{
+  "id": "manage-user-permissions",
+  "title": "Manage User Permissions",
+  "description": "This document describes how to manage user permissions in Chaos Mesh, including creating user accounts with different roles, binding permissions to user accounts, managing tokens, and enabling or disabling permission authentication.",
+  "source": "@site/docs/manage-user-permissions.md",
+  "sourceDirName": ".",
+  "slug": "/manage-user-permissions",
+  "permalink": "/docs/next/manage-user-permissions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/manage-user-permissions.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Manage User Permissions"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Uninstall Chaos Mesh",
+    "permalink": "/docs/next/uninstallation"
+  },
+  "next": {
+    "title": "Configure namespace for Chaos experiments",
+    "permalink": "/docs/next/configure-enabled-namespace"
+  }
+}

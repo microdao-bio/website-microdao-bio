@@ -1,0 +1,26 @@
+{
+  "id": "send-http-request-on-workflow",
+  "title": "Send HTTP Requests on Workflow",
+  "description": "Chaos Mesh Workflow provides a Task node to support any workload, similar to Kubernetes Job. To make the user experience more convenient, Chaos Dashboard provides a template based on Task to create HTTP requests in WebUI.",
+  "source": "@site/versioned_docs/version-2.6.2/send-http-request-on-workflow.md",
+  "sourceDirName": ".",
+  "slug": "/send-http-request-on-workflow",
+  "permalink": "/docs/send-http-request-on-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/send-http-request-on-workflow.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Send HTTP Requests on Workflow"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Serial and Parallel Experiments",
+    "permalink": "/docs/run-serial-or-parallel-experiments"
+  },
+  "next": {
+    "title": "Check Workflow Status",
+    "permalink": "/docs/check-workflow-status"
+  }
+}

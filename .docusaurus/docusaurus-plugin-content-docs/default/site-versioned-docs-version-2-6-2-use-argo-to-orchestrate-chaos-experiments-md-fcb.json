@@ -1,0 +1,17 @@
+{
+  "id": "use-argo-to-orchestrate-chaos-experiments",
+  "title": "使用 Argo 编排混沌实验",
+  "description": "TODO",
+  "source": "@site/versioned_docs/version-2.6.2/use-argo-to-orchestrate-chaos-experiments.md",
+  "sourceDirName": ".",
+  "slug": "/use-argo-to-orchestrate-chaos-experiments",
+  "permalink": "/docs/use-argo-to-orchestrate-chaos-experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/use-argo-to-orchestrate-chaos-experiments.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "使用 Argo 编排混沌实验"
+  }
+}

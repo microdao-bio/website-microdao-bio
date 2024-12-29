@@ -1,0 +1,27 @@
+{
+  "id": "simulate-time-chaos-on-physical-nodes",
+  "title": "Simulate Time Faults",
+  "description": "This document describes how to use Chaosd to simulate a time offset scenario. You can create experiments either in command-line mode or service mode.",
+  "source": "@site/versioned_docs/version-2.5.2/simulate-time-chaos-on-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-time-chaos-on-physical-nodes",
+  "permalink": "/docs/2.5.2/simulate-time-chaos-on-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/simulate-time-chaos-on-physical-nodes.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Simulate Time Faults",
+    "summary": "This document describes how to use Chaosd to simulate a time offset scenario."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate JVM Application Faults",
+    "permalink": "/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes"
+  },
+  "next": {
+    "title": "Simulate File Faults",
+    "permalink": "/docs/2.5.2/simulate-file-chaos-in-physical-nodes"
+  }
+}

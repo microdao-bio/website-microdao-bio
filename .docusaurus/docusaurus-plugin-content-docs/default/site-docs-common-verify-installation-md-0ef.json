@@ -1,0 +1,15 @@
+{
+  "id": "common/verify-installation",
+  "title": "verify-installation",
+  "description": "To check the running status of Chaos Mesh, execute the following command:",
+  "source": "@site/docs/common/verify-installation.md",
+  "sourceDirName": "common",
+  "slug": "/common/verify-installation",
+  "permalink": "/docs/next/common/verify-installation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/common/verify-installation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

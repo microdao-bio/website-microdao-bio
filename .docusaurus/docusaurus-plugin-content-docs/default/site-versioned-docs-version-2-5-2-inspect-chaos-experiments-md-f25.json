@@ -1,0 +1,26 @@
+{
+  "id": "inspect-chaos-experiments",
+  "title": "Inspect Results of Chaos Experiments",
+  "description": "This document describes how to use Chaos Mesh to check running status and results of chaos experiments.",
+  "source": "@site/versioned_docs/version-2.5.2/inspect-chaos-experiments.md",
+  "sourceDirName": ".",
+  "slug": "/inspect-chaos-experiments",
+  "permalink": "/docs/2.5.2/inspect-chaos-experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/inspect-chaos-experiments.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Inspect Results of Chaos Experiments"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Run a Chaos Experiment",
+    "permalink": "/docs/2.5.2/run-a-chaos-experiment"
+  },
+  "next": {
+    "title": "Create Chaos Mesh Workflow",
+    "permalink": "/docs/2.5.2/create-chaos-mesh-workflow"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "simulate-jvm-application-chaos",
+  "title": "Simulate JVM Application Faults",
+  "description": "Chaos Mesh simulates the faults of JVM application through Byteman. The supported fault types are as follows:",
+  "source": "@site/versioned_docs/version-2.5.2/simulate-jvm-application-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-jvm-application-chaos",
+  "permalink": "/docs/2.5.2/simulate-jvm-application-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/simulate-jvm-application-chaos.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Simulate JVM Application Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Time Faults",
+    "permalink": "/docs/2.5.2/simulate-time-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "Simulate Linux Kernel Faults",
+    "permalink": "/docs/2.5.2/simulate-kernel-chaos-on-kubernetes"
+  }
+}

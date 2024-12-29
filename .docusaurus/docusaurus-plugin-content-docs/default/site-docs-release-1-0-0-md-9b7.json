@@ -1,0 +1,17 @@
+{
+  "id": "release-1.0.0",
+  "title": "1.0.0 release notes",
+  "description": "TODO",
+  "source": "@site/docs/release-1.0.0.md",
+  "sourceDirName": ".",
+  "slug": "/release-1.0.0",
+  "permalink": "/docs/next/release-1.0.0",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/release-1.0.0.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "1.0.0 release notes"
+  }
+}

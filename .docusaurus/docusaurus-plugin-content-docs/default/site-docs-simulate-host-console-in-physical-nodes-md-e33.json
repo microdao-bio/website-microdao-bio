@@ -1,0 +1,26 @@
+{
+  "id": "simulate-host-console-in-physical-nodes",
+  "title": "Simulate Host Faults",
+  "description": "This document introduces how to simulate host shutdown faults using Chaosd.",
+  "source": "@site/docs/simulate-host-console-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-host-console-in-physical-nodes",
+  "permalink": "/docs/next/simulate-host-console-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-host-console-in-physical-nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Host Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Network Faults",
+    "permalink": "/docs/next/simulate-network-chaos-in-physical-nodes"
+  },
+  "next": {
+    "title": "Simulate Stress Scenarios",
+    "permalink": "/docs/next/simulate-heavy-stress-in-physical-nodes"
+  }
+}

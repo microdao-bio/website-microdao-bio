@@ -1,0 +1,26 @@
+{
+  "id": "simulate-io-chaos-on-kubernetes",
+  "title": "Simulate File I/O Faults",
+  "description": "This document describes how to create IOChaos experiments in Chaos Mesh.",
+  "source": "@site/versioned_docs/version-2.6.2/simulate-io-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-io-chaos-on-kubernetes",
+  "permalink": "/docs/simulate-io-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/simulate-io-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Simulate File I/O Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Stress Scenarios",
+    "permalink": "/docs/simulate-heavy-stress-on-kubernetes"
+  },
+  "next": {
+    "title": "Simulate DNS Faults",
+    "permalink": "/docs/simulate-dns-chaos-on-kubernetes"
+  }
+}

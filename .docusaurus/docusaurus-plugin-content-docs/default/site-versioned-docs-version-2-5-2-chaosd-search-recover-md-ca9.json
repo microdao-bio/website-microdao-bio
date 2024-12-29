@@ -1,0 +1,27 @@
+{
+  "id": "chaosd-search-recover",
+  "title": "Search and Recover Experiments of Chaosd",
+  "description": "You can search experiments by conditions and recover the experiments corresponding to specified UIDs using Chaosd. This document describes how to search and recover experiments of Chaosd, and provides releated examples.",
+  "source": "@site/versioned_docs/version-2.5.2/chaosd-search-recover.md",
+  "sourceDirName": ".",
+  "slug": "/chaosd-search-recover",
+  "permalink": "/docs/2.5.2/chaosd-search-recover",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/chaosd-search-recover.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Search and Recover Experiments of Chaosd",
+    "summary": "Describes how to search and recover the experiments of Chaosd, and provide related examples."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Redis Faults",
+    "permalink": "/docs/2.5.2/simulate-redis-chaos-on-physical-nodes"
+  },
+  "next": {
+    "title": "GCP OAuth Authentication",
+    "permalink": "/docs/2.5.2/gcp-authentication"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "permalink": "/blog/building_automated_testing_framework",
+  "editUrl": "https://microdao.substack.com/blog/2020-08-14-building_automated_testing_framework.md",
+  "source": "@site/blog/2020-08-14-building_automated_testing_framework.md",
+  "title": "Building an Automated Testing Framework Based on Chaos Mesh and Argo",
+  "description": "TiPocket - Automated Testing Framework",
+  "date": "2020-08-14T00:00:00.000Z",
+  "formattedDate": "August 14, 2020",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    },
+    {
+      "label": "Test Automation",
+      "permalink": "/blog/tags/test-automation"
+    }
+  ],
+  "readingTime": 7.83,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Ben Ye, Chengwen Yin",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/chaos-mesh/chaos-mesh/blob/master/MAINTAINERS.md",
+      "imageURL": "https://avatars1.githubusercontent.com/u/59082378?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/building_automated_testing_framework",
+    "title": "Building an Automated Testing Framework Based on Chaos Mesh and Argo",
+    "author": "Ben Ye, Chengwen Yin",
+    "author_title": "Maintainer of Chaos Mesh",
+    "author_url": "https://github.com/chaos-mesh/chaos-mesh/blob/master/MAINTAINERS.md",
+    "author_image_url": "https://avatars1.githubusercontent.com/u/59082378?v=4",
+    "image": "/img/blog/automated_testing_framework.png",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Test Automation"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "chaos-mesh-action: Integrate Chaos Engineering into Your CI",
+    "permalink": "/blog/chaos-mesh-action-integrate-chaos-engineering-into-your-ci"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh Joins CNCF as a Sandbox Project",
+    "permalink": "/blog/chaos-mesh-join-cncf-sandbox-project"
+  }
+}

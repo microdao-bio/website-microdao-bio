@@ -1,0 +1,26 @@
+{
+  "id": "release-cycle",
+  "title": "Chaos Mesh Release Cycle",
+  "description": "This document is focused on Chaos Mesh developers and contributors who need to create an enhancement, issue, or pull request which targets a specific release milestone.",
+  "source": "@site/versioned_docs/version-2.5.2/release-cycle.md",
+  "sourceDirName": ".",
+  "slug": "/release-cycle",
+  "permalink": "/docs/2.5.2/release-cycle",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/release-cycle.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Chaos Mesh Release Cycle"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upgrade from 2.1 to 2.2",
+    "permalink": "/docs/2.5.2/upgrade-from-2.1-to-2.2"
+  },
+  "next": {
+    "title": "Chaos Mesh v2.5.0 Tracking",
+    "permalink": "/docs/2.5.2/release-2.5-tracking"
+  }
+}

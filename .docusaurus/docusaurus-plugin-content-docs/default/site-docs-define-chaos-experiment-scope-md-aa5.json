@@ -1,0 +1,26 @@
+{
+  "id": "define-chaos-experiment-scope",
+  "title": "Define the Scope of Chaos Experiments",
+  "description": "This document describes how to define the scope of a single Chaos experiment, which helps you accurately control the fault's explosion radius.",
+  "source": "@site/docs/define-chaos-experiment-scope.md",
+  "sourceDirName": ".",
+  "slug": "/define-chaos-experiment-scope",
+  "permalink": "/docs/next/define-chaos-experiment-scope",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/define-chaos-experiment-scope.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Define the Scope of Chaos Experiments"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Remote Cluster Management",
+    "permalink": "/docs/next/remote-cluster-management"
+  },
+  "next": {
+    "title": "Define Scheduling Rules",
+    "permalink": "/docs/next/define-scheduling-rules"
+  }
+}

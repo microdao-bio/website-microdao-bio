@@ -1,0 +1,26 @@
+{
+  "id": "extend-chaos-daemon-interface",
+  "title": "Extend Chaos Daemon Interface",
+  "description": "In Add a new chaos experiment type, you have added HelloWorldChaos, which can print Hello world! in the logs of Chaos Controller Manager.",
+  "source": "@site/docs/extend-chaos-daemon-interface.md",
+  "sourceDirName": ".",
+  "slug": "/extend-chaos-daemon-interface",
+  "permalink": "/docs/next/extend-chaos-daemon-interface",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/extend-chaos-daemon-interface.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Extend Chaos Daemon Interface"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Add a New Chaos Experiment Type",
+    "permalink": "/docs/next/add-new-chaos-experiment-type"
+  },
+  "next": {
+    "title": "Extend Chaosd",
+    "permalink": "/docs/next/extend-chaosd"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "simulate-heavy-stress-on-kubernetes",
+  "title": "Simulate Stress Scenarios",
+  "description": "StressChaos Introduction",
+  "source": "@site/docs/simulate-heavy-stress-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-heavy-stress-on-kubernetes",
+  "permalink": "/docs/next/simulate-heavy-stress-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-heavy-stress-on-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Stress Scenarios"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Network Faults",
+    "permalink": "/docs/next/simulate-network-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "Simulate File I/O Faults",
+    "permalink": "/docs/next/simulate-io-chaos-on-kubernetes"
+  }
+}

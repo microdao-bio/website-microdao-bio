@@ -1,0 +1,26 @@
+{
+  "id": "chaosd-overview",
+  "title": "Chaosd Introduction",
+  "description": "Chaosd introduction",
+  "source": "@site/versioned_docs/version-2.5.2/chaosd-overview.md",
+  "sourceDirName": ".",
+  "slug": "/chaosd-overview",
+  "permalink": "/docs/2.5.2/chaosd-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/chaosd-overview.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Chaosd Introduction"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Block Device Latency",
+    "permalink": "/docs/2.5.2/simulate-block-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "Simulate Faults on Physical Machines",
+    "permalink": "/docs/2.5.2/simulate-physical-machine-chaos"
+  }
+}

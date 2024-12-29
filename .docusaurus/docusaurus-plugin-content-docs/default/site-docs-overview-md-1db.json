@@ -1,0 +1,23 @@
+{
+  "id": "overview",
+  "title": "Chaos Mesh Overview",
+  "description": "This document describes the concepts, use cases, core strengths, and the architecture of Chaos Mesh.",
+  "source": "@site/docs/overview.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/next/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "title": "Chaos Mesh Overview"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Basic Features",
+    "permalink": "/docs/next/basic-features"
+  }
+}

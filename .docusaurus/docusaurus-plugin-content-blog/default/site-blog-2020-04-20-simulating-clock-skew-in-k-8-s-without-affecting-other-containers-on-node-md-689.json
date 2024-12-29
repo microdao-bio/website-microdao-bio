@@ -1,0 +1,61 @@
+{
+  "permalink": "/blog/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node",
+  "editUrl": "https://microdao.substack.com/blog/2020-04-20-simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node.md",
+  "source": "@site/blog/2020-04-20-simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node.md",
+  "title": "Simulating Clock Skew in K8s Without Affecting Other Containers on the Node",
+  "description": "Clock synchronization in distributed system",
+  "date": "2020-04-20T00:00:00.000Z",
+  "formattedDate": "April 20, 2020",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    },
+    {
+      "label": "Kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "label": "Distributed System",
+      "permalink": "/blog/tags/distributed-system"
+    }
+  ],
+  "readingTime": 8.43,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cwen Yin",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/cwen0",
+      "imageURL": "https://avatars1.githubusercontent.com/u/22956341?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node",
+    "title": "Simulating Clock Skew in K8s Without Affecting Other Containers on the Node",
+    "author": "Cwen Yin",
+    "author_title": "Maintainer of Chaos Mesh",
+    "author_url": "https://github.com/cwen0",
+    "author_image_url": "https://avatars1.githubusercontent.com/u/22956341?v=4",
+    "image": "/img/blog/clock-sync-chaos-engineering-k8s.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Kubernetes",
+      "Distributed System"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Chaos Mesh Joins CNCF as a Sandbox Project",
+    "permalink": "/blog/chaos-mesh-join-cncf-sandbox-project"
+  },
+  "nextItem": {
+    "title": "Run Your First Chaos Experiment in 10 Minutes",
+    "permalink": "/blog/run_your_first_chaos_experiment"
+  }
+}

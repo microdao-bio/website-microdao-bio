@@ -1,0 +1,15 @@
+{
+  "id": "common/quick-run",
+  "title": "quick-run",
+  "description": "After verifying that the installation is complete, you can run a Chaos experiment to experience the features of Chaos Mesh.",
+  "source": "@site/versioned_docs/version-2.4.3/common/quick-run.md",
+  "sourceDirName": "common",
+  "slug": "/common/quick-run",
+  "permalink": "/docs/2.4.3/common/quick-run",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/common/quick-run.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {}
+}

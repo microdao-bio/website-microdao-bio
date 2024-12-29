@@ -1,0 +1,26 @@
+{
+  "id": "chaosctl-tool",
+  "title": "Chaosctl",
+  "description": "Chaosctl is a tool to assist in debugging Chaos Mesh. With Chaosctl, you can simplify the process of developing and debugging new chaos types, and provide references for other developers when raising an issue.",
+  "source": "@site/versioned_docs/version-2.5.2/chaosctl-tool.md",
+  "sourceDirName": ".",
+  "slug": "/chaosctl-tool",
+  "permalink": "/docs/2.5.2/chaosctl-tool",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.5.2/chaosctl-tool.md",
+  "tags": [],
+  "version": "2.5.2",
+  "frontMatter": {
+    "title": "Chaosctl"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Use Grafana Data Source Plugin for Observations",
+    "permalink": "/docs/2.5.2/use-grafana-data-source"
+  },
+  "next": {
+    "title": "Developer Guide Overview",
+    "permalink": "/docs/2.5.2/developer-guide-overview"
+  }
+}

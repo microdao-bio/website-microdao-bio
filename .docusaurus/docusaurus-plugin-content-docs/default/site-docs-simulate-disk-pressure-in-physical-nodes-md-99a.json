@@ -1,0 +1,26 @@
+{
+  "id": "simulate-disk-pressure-in-physical-nodes",
+  "title": "Simulate Disk Faults",
+  "description": "This document describes how to use Chaosd to simulate disk faults. This feature helps you simulate disk read/write load (via dd) or disk fill (via dd or fallocate).",
+  "source": "@site/docs/simulate-disk-pressure-in-physical-nodes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-disk-pressure-in-physical-nodes",
+  "permalink": "/docs/next/simulate-disk-pressure-in-physical-nodes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-disk-pressure-in-physical-nodes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Disk Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Stress Scenarios",
+    "permalink": "/docs/next/simulate-heavy-stress-in-physical-nodes"
+  },
+  "next": {
+    "title": "Simulate JVM Application Faults",
+    "permalink": "/docs/next/simulate-jvm-application-chaos-in-physical-nodes"
+  }
+}

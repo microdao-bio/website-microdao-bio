@@ -1,0 +1,51 @@
+{
+  "permalink": "/blog/celebrating-one-year-of-chaos-mesh-looking-back-and-ahead",
+  "editUrl": "https://microdao.substack.com/blog/2021-02-05-celebrating-one-year-of-chaos-mesh-looking-back-and-ahead.md",
+  "source": "@site/blog/2021-02-05-celebrating-one-year-of-chaos-mesh-looking-back-and-ahead.md",
+  "title": "Celebrating One Year of Chaos Mesh: Looking Back and Ahead",
+  "description": "Celebrating One Year of Chaos Mesh: Looking Back and Ahead",
+  "date": "2021-02-05T00:00:00.000Z",
+  "formattedDate": "February 5, 2021",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    }
+  ],
+  "readingTime": 7.135,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cwen Yin, Calvin Weng",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/chaos-mesh/chaos-mesh/blob/master/MAINTAINERS.md",
+      "imageURL": "https://avatars1.githubusercontent.com/u/59082378?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/celebrating-one-year-of-chaos-mesh-looking-back-and-ahead",
+    "title": "Celebrating One Year of Chaos Mesh: Looking Back and Ahead",
+    "author": "Cwen Yin, Calvin Weng",
+    "author_title": "Maintainer of Chaos Mesh",
+    "author_url": "https://github.com/chaos-mesh/chaos-mesh/blob/master/MAINTAINERS.md",
+    "author_image_url": "https://avatars1.githubusercontent.com/u/59082378?v=4",
+    "image": "/img/blog/celebrating-one-year-of-chaos-mesh-looking-back-and-ahead.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "From a Newbie in Software Engineering to a Graduated LFX-Mentee",
+    "permalink": "/blog/lfx-mentorship-enriching-awschaos"
+  },
+  "nextItem": {
+    "title": "How to Simulate I/O Faults at Runtime",
+    "permalink": "/blog/how-to-simulate-io-faults-at-runtime"
+  }
+}

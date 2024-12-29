@@ -1,0 +1,26 @@
+{
+  "id": "configure-enabled-namespace",
+  "title": "Configure namespace for Chaos experiments",
+  "description": "This chapter walks you through how to configure Chaos experiments to only take effect in the specified namespace, and protect other unspecified namespaces against fault injection.",
+  "source": "@site/versioned_docs/version-2.4.3/configure-enabled-namespace.md",
+  "sourceDirName": ".",
+  "slug": "/configure-enabled-namespace",
+  "permalink": "/docs/2.4.3/configure-enabled-namespace",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/configure-enabled-namespace.md",
+  "tags": [],
+  "version": "2.4.3",
+  "frontMatter": {
+    "title": "Configure namespace for Chaos experiments"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Manage User Permissions",
+    "permalink": "/docs/2.4.3/manage-user-permissions"
+  },
+  "next": {
+    "title": "Define the Scope of Chaos Experiments",
+    "permalink": "/docs/2.4.3/define-chaos-experiment-scope"
+  }
+}

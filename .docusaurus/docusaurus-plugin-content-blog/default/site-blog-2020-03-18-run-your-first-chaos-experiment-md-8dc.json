@@ -1,0 +1,56 @@
+{
+  "permalink": "/blog/run_your_first_chaos_experiment",
+  "editUrl": "https://microdao.substack.com/blog/2020-03-18-run-your-first-chaos-experiment.md",
+  "source": "@site/blog/2020-03-18-run-your-first-chaos-experiment.md",
+  "title": "Run Your First Chaos Experiment in 10 Minutes",
+  "description": "Run your first chaos experiment in 10 minutes",
+  "date": "2020-03-18T00:00:00.000Z",
+  "formattedDate": "March 18, 2020",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    },
+    {
+      "label": "Kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    }
+  ],
+  "readingTime": 5.73,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Cwen Yin",
+      "title": "Maintainer of Chaos Mesh",
+      "url": "https://github.com/cwen0",
+      "imageURL": "https://avatars1.githubusercontent.com/u/22956341?v=4"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/run_your_first_chaos_experiment",
+    "title": "Run Your First Chaos Experiment in 10 Minutes",
+    "author": "Cwen Yin",
+    "author_title": "Maintainer of Chaos Mesh",
+    "author_url": "https://github.com/cwen0",
+    "author_image_url": "https://avatars1.githubusercontent.com/u/22956341?v=4",
+    "image": "/img/blog/run-first-chaos-experiment-in-ten-minutes.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering",
+      "Kubernetes"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Simulating Clock Skew in K8s Without Affecting Other Containers on the Node",
+    "permalink": "/blog/simulating-clock-skew-in-k8s-without-affecting-other-containers-on-node"
+  },
+  "nextItem": {
+    "title": "Chaos Mesh - Your Chaos Engineering Solution for System Resiliency on Kubernetes",
+    "permalink": "/blog/chaos_mesh_your_chaos_engineering_solution"
+  }
+}

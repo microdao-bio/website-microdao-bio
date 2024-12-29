@@ -1,0 +1,26 @@
+{
+  "id": "simulate-gcp-chaos",
+  "title": "Simulate GCP Faults",
+  "description": "This document describes how to use Chaos Mesh to inject faults into GCP Pod. Chaos Dashboard and YAML files are provided to create GCPChaos experiments.",
+  "source": "@site/docs/simulate-gcp-chaos.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-gcp-chaos",
+  "permalink": "/docs/next/simulate-gcp-chaos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-gcp-chaos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate GCP Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate Azure Faults",
+    "permalink": "/docs/next/simulate-azure-chaos"
+  },
+  "next": {
+    "title": "Simulate HTTP Faults",
+    "permalink": "/docs/next/simulate-http-chaos-on-kubernetes"
+  }
+}

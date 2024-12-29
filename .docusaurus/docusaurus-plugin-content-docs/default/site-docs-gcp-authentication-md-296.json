@@ -1,0 +1,26 @@
+{
+  "id": "gcp-authentication",
+  "title": "GCP OAuth Authentication",
+  "description": "When Chaos Mesh is deployed on the Google Cloud Platform, you can log in to Chaos Dashboard through Google OAuth. This document describes how to enable and configure this function.",
+  "source": "@site/docs/gcp-authentication.md",
+  "sourceDirName": ".",
+  "slug": "/gcp-authentication",
+  "permalink": "/docs/next/gcp-authentication",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/gcp-authentication.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "GCP OAuth Authentication"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Search and Recover Experiments of Chaosd",
+    "permalink": "/docs/next/chaosd-search-recover"
+  },
+  "next": {
+    "title": "Integrate Chaos Mesh to GitHub Actions",
+    "permalink": "/docs/next/integrate-chaos-mesh-into-github-actions"
+  }
+}

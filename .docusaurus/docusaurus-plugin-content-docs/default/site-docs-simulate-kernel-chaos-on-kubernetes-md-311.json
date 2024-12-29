@@ -1,0 +1,26 @@
+{
+  "id": "simulate-kernel-chaos-on-kubernetes",
+  "title": "Simulate Linux Kernel Faults",
+  "description": "This document describes how to use KernelChaos to simulate Linux kernel faults. This feature injects I/O-based or memory-based faults into the specified kernel paths using BPF.",
+  "source": "@site/docs/simulate-kernel-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-kernel-chaos-on-kubernetes",
+  "permalink": "/docs/next/simulate-kernel-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-kernel-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Linux Kernel Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate JVM Application Faults",
+    "permalink": "/docs/next/simulate-jvm-application-chaos"
+  },
+  "next": {
+    "title": "Simulate AWS Faults",
+    "permalink": "/docs/next/simulate-aws-chaos"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "basic-features",
+  "title": "Basic Features",
+  "description": "This document describes the basic features of Chaos Mesh, including fault injection, Chaos workflows, visualized operations, and security guarantees.",
+  "source": "@site/docs/basic-features.md",
+  "sourceDirName": ".",
+  "slug": "/basic-features",
+  "permalink": "/docs/next/basic-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/basic-features.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Basic Features"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Chaos Mesh Overview",
+    "permalink": "/docs/next/"
+  },
+  "next": {
+    "title": "Quick Start",
+    "permalink": "/docs/next/quick-start"
+  }
+}

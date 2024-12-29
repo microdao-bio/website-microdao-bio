@@ -1,0 +1,17 @@
+{
+  "id": "glossary",
+  "title": "术语表",
+  "description": "TODO",
+  "source": "@site/versioned_docs/version-2.6.2/glossary.md",
+  "sourceDirName": ".",
+  "slug": "/glossary",
+  "permalink": "/docs/glossary",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/glossary.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "术语表"
+  }
+}

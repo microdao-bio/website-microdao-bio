@@ -1,0 +1,26 @@
+{
+  "id": "production-installation-using-helm",
+  "title": "Install Chaos Mesh using Helm",
+  "description": "This document describes how to install Chaos Mesh in the production environment.",
+  "source": "@site/docs/production-installation-using-helm.md",
+  "sourceDirName": ".",
+  "slug": "/production-installation-using-helm",
+  "permalink": "/docs/next/production-installation-using-helm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/production-installation-using-helm.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Install Chaos Mesh using Helm"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/next/quick-start"
+  },
+  "next": {
+    "title": "Install Chaos Mesh Offline",
+    "permalink": "/docs/next/offline-installation"
+  }
+}

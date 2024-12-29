@@ -3,3 +3,9 @@
    **/*.pem
    **/*.key
    **/*.pub
+
+# SSH Keys
+**/.ssh/
+**/*.pem
+**/*.key
+**/*.pub

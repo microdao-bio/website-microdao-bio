@@ -1,0 +1,17 @@
+{
+  "id": "go-client",
+  "title": "Go",
+  "description": "TODO",
+  "source": "@site/docs/go-client.md",
+  "sourceDirName": ".",
+  "slug": "/go-client",
+  "permalink": "/docs/next/go-client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/go-client.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Go"
+  }
+}

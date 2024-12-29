@@ -1,0 +1,45 @@
+{
+  "permalink": "/blog/how-a-top-game-company-uses-chaos-engineering-to-improve-testing",
+  "editUrl": "https://microdao.substack.com/blog/2020-11-26-how-a-top-game-company-uses-chaos-engineering-to-improve-testing.md",
+  "source": "@site/blog/2020-11-26-how-a-top-game-company-uses-chaos-engineering-to-improve-testing.md",
+  "title": "How a Top Game Company Uses Chaos Engineering to Improve Testing",
+  "description": "How-a-Top-Game-Company-Uses-Chaos-Engineering-to-Improve-Testing",
+  "date": "2020-11-26T00:00:00.000Z",
+  "formattedDate": "November 26, 2020",
+  "tags": [
+    {
+      "label": "Chaos Mesh",
+      "permalink": "/blog/tags/chaos-mesh"
+    },
+    {
+      "label": "Chaos Engineering",
+      "permalink": "/blog/tags/chaos-engineering"
+    }
+  ],
+  "readingTime": 3.765,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Hui Zhang @ Fuxi Lab, NetEase"
+    }
+  ],
+  "frontMatter": {
+    "slug": "/how-a-top-game-company-uses-chaos-engineering-to-improve-testing",
+    "title": "How a Top Game Company Uses Chaos Engineering to Improve Testing",
+    "author": "Hui Zhang @ Fuxi Lab, NetEase",
+    "image": "/img/blog/fuxi-case-banner.jpg",
+    "tags": [
+      "Chaos Mesh",
+      "Chaos Engineering"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How to Simulate I/O Faults at Runtime",
+    "permalink": "/blog/how-to-simulate-io-faults-at-runtime"
+  },
+  "nextItem": {
+    "title": "Chaos Engineering - Breaking things Intentionally",
+    "permalink": "/blog/chaos-engineering-breaking-things-intentionally"
+  }
+}

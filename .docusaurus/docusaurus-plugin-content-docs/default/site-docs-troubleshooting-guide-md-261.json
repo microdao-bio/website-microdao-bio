@@ -1,0 +1,17 @@
+{
+  "id": "troubleshooting-guide",
+  "title": "故障排查",
+  "description": "TODO",
+  "source": "@site/docs/troubleshooting-guide.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting-guide",
+  "permalink": "/docs/next/troubleshooting-guide",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/troubleshooting-guide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "故障排查"
+  }
+}

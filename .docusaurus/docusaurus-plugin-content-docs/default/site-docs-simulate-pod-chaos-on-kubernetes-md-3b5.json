@@ -1,0 +1,26 @@
+{
+  "id": "simulate-pod-chaos-on-kubernetes",
+  "title": "Simulate Pod Faults",
+  "description": "This document describes how to use Chaos Mesh to inject faults into Kubernetes Pod to simulate Pod or container faults. Chaos Dashboard and YAML files are provided to create PodChaos experiments.",
+  "source": "@site/docs/simulate-pod-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-pod-chaos-on-kubernetes",
+  "permalink": "/docs/next/simulate-pod-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/simulate-pod-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Simulate Pod Faults"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Status Check in Workflow",
+    "permalink": "/docs/next/status-check-in-workflow"
+  },
+  "next": {
+    "title": "Simulate Network Faults",
+    "permalink": "/docs/next/simulate-network-chaos-on-kubernetes"
+  }
+}

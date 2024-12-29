@@ -1,0 +1,26 @@
+{
+  "id": "simulate-block-chaos-on-kubernetes",
+  "title": "Simulate Block Device Incidents",
+  "description": "BlockChaos Introduction",
+  "source": "@site/versioned_docs/version-2.6.2/simulate-block-chaos-on-kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/simulate-block-chaos-on-kubernetes",
+  "permalink": "/docs/simulate-block-chaos-on-kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.6.2/simulate-block-chaos-on-kubernetes.md",
+  "tags": [],
+  "version": "2.6.2",
+  "frontMatter": {
+    "title": "Simulate Block Device Incidents"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Simulate HTTP Faults",
+    "permalink": "/docs/simulate-http-chaos-on-kubernetes"
+  },
+  "next": {
+    "title": "Chaosd Introduction",
+    "permalink": "/docs/chaosd-overview"
+  }
+}
