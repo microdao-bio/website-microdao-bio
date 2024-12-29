@@ -2692,7 +2692,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.949ea376.js",
-          "hash": "b032894f663ff0db",
+          "hash": "c6350857943f9e22",
           "publicPath": "/zh/assets/js/runtime~main.949ea376.js"
         }
       ]
@@ -3569,9 +3569,9 @@
     "8792": {
       "js": [
         {
-          "file": "assets/js/main.18dff182.js",
-          "hash": "367cb97aceffa61c",
-          "publicPath": "/zh/assets/js/main.18dff182.js"
+          "file": "assets/js/main.de267833.js",
+          "hash": "98a51d9270ded4cf",
+          "publicPath": "/zh/assets/js/main.de267833.js"
         }
       ]
     },
