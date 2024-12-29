@@ -213,25 +213,22 @@ export default function Mesh() {
             {
               duration: 1,
               opacity: 1,
-              top: top - 225,
+              top: top - 105,
               left: left +5,
             }
           )
           new Typewriter('.mesh-text', { delay: 50 })
-            .typeString('Predicting resistance..')
+            .typeString('Monitor resistance')
             .pauseFor(500)
             .deleteAll()
-            .typeString('Diagnosing Resistance')
+            .typeString('Economic Impact Assessment')
             .pauseFor(2000)
             .deleteAll()
-            .typeString('Monitoring Resistance')
+            .typeString('Predict Antimicrobial Activity')
             .pauseFor(1500)
             .deleteAll()
-            .typeString('Funding new antibiotics')
+            .typeString('Fund new antibiotics')
             .pauseFor(1500)
-            .deleteAll()
-            .typeString('Prescribing the right antibiotic for the right infection')
-            .pauseFor(1000)
             .callFunction(() => {
               gsap.fromTo(
                 '.mesh-text',
