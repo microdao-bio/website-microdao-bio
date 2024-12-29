@@ -5,7 +5,7 @@
   "source": "@site/docs/release-2.5-tracking.md",
   "sourceDirName": ".",
   "slug": "/release-2.5-tracking",
-  "permalink": "/zh/docs/next/release-2.5-tracking",
+  "permalink": "/docs/next/release-2.5-tracking",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/microdao-bio/website-microdao-bio/docs/release-2.5-tracking.md",
@@ -17,6 +17,6 @@
   "sidebar": "docs",
   "previous": {
     "title": "Chaos Mesh Release Cycle",
-    "permalink": "/zh/docs/next/release-cycle"
+    "permalink": "/docs/next/release-cycle"
   }
 }

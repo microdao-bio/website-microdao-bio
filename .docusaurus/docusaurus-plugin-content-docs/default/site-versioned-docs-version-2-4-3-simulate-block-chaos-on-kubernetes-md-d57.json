@@ -5,7 +5,7 @@
   "source": "@site/versioned_docs/version-2.4.3/simulate-block-chaos-on-kubernetes.md",
   "sourceDirName": ".",
   "slug": "/simulate-block-chaos-on-kubernetes",
-  "permalink": "/zh/docs/2.4.3/simulate-block-chaos-on-kubernetes",
+  "permalink": "/docs/2.4.3/simulate-block-chaos-on-kubernetes",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/microdao-bio/website-microdao-bio/versioned_docs/version-2.4.3/simulate-block-chaos-on-kubernetes.md",
@@ -16,11 +16,11 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "模拟 HTTP 故障",
-    "permalink": "/zh/docs/2.4.3/simulate-http-chaos-on-kubernetes"
+    "title": "Simulate HTTP Faults",
+    "permalink": "/docs/2.4.3/simulate-http-chaos-on-kubernetes"
   },
   "next": {
-    "title": "Chaosd 组件简介",
-    "permalink": "/zh/docs/2.4.3/chaosd-overview"
+    "title": "Chaosd Introduction",
+    "permalink": "/docs/2.4.3/chaosd-overview"
   }
 }

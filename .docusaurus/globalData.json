@@ -1,376 +1,376 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/zh/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": false,
-          "path": "/zh/docs/next",
+          "path": "/docs/next",
           "mainDocId": "overview",
           "docs": [
             {
               "id": "add-new-chaos-experiment-type",
-              "path": "/zh/docs/next/add-new-chaos-experiment-type",
+              "path": "/docs/next/add-new-chaos-experiment-type",
               "sidebar": "docs"
             },
             {
               "id": "basic-features",
-              "path": "/zh/docs/next/basic-features",
+              "path": "/docs/next/basic-features",
               "sidebar": "docs"
             },
             {
               "id": "chaos-engineering-principles",
-              "path": "/zh/docs/next/chaos-engineering-principles"
+              "path": "/docs/next/chaos-engineering-principles"
             },
             {
               "id": "chaosctl-tool",
-              "path": "/zh/docs/next/chaosctl-tool",
+              "path": "/docs/next/chaosctl-tool",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-overview",
-              "path": "/zh/docs/next/chaosd-overview",
+              "path": "/docs/next/chaosd-overview",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-search-recover",
-              "path": "/zh/docs/next/chaosd-search-recover",
+              "path": "/docs/next/chaosd-search-recover",
               "sidebar": "docs"
             },
             {
               "id": "check-workflow-status",
-              "path": "/zh/docs/next/check-workflow-status",
+              "path": "/docs/next/check-workflow-status",
               "sidebar": "docs"
             },
             {
               "id": "clean-up-chaos-experiments",
-              "path": "/zh/docs/next/clean-up-chaos-experiments"
+              "path": "/docs/next/clean-up-chaos-experiments"
             },
             {
               "id": "common/quick-run",
-              "path": "/zh/docs/next/common/quick-run"
+              "path": "/docs/next/common/quick-run"
             },
             {
               "id": "common/verify-installation",
-              "path": "/zh/docs/next/common/verify-installation"
+              "path": "/docs/next/common/verify-installation"
             },
             {
               "id": "configure-development-environment",
-              "path": "/zh/docs/next/configure-development-environment",
+              "path": "/docs/next/configure-development-environment",
               "sidebar": "docs"
             },
             {
               "id": "configure-enabled-namespace",
-              "path": "/zh/docs/next/configure-enabled-namespace",
+              "path": "/docs/next/configure-enabled-namespace",
               "sidebar": "docs"
             },
             {
               "id": "create-chaos-mesh-workflow",
-              "path": "/zh/docs/next/create-chaos-mesh-workflow",
+              "path": "/docs/next/create-chaos-mesh-workflow",
               "sidebar": "docs"
             },
             {
               "id": "define-chaos-experiment-scope",
-              "path": "/zh/docs/next/define-chaos-experiment-scope",
+              "path": "/docs/next/define-chaos-experiment-scope",
               "sidebar": "docs"
             },
             {
               "id": "define-scheduling-rules",
-              "path": "/zh/docs/next/define-scheduling-rules",
+              "path": "/docs/next/define-scheduling-rules",
               "sidebar": "docs"
             },
             {
               "id": "define-workflow-scheduling-rules",
-              "path": "/zh/docs/next/define-workflow-scheduling-rules"
+              "path": "/docs/next/define-workflow-scheduling-rules"
             },
             {
               "id": "developer-guide-overview",
-              "path": "/zh/docs/next/developer-guide-overview",
+              "path": "/docs/next/developer-guide-overview",
               "sidebar": "docs"
             },
             {
               "id": "expose-dashboard-with-ingress",
-              "path": "/zh/docs/next/expose-dashboard-with-ingress",
+              "path": "/docs/next/expose-dashboard-with-ingress",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaos-daemon-interface",
-              "path": "/zh/docs/next/extend-chaos-daemon-interface",
+              "path": "/docs/next/extend-chaos-daemon-interface",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaosd",
-              "path": "/zh/docs/next/extend-chaosd",
+              "path": "/docs/next/extend-chaosd",
               "sidebar": "docs"
             },
             {
               "id": "faqs",
-              "path": "/zh/docs/next/faqs",
+              "path": "/docs/next/faqs",
               "sidebar": "docs"
             },
             {
               "id": "gcp-authentication",
-              "path": "/zh/docs/next/gcp-authentication",
+              "path": "/docs/next/gcp-authentication",
               "sidebar": "docs"
             },
             {
               "id": "glossary",
-              "path": "/zh/docs/next/glossary"
+              "path": "/docs/next/glossary"
             },
             {
               "id": "go-client",
-              "path": "/zh/docs/next/go-client"
+              "path": "/docs/next/go-client"
             },
             {
               "id": "inspect-chaos-experiments",
-              "path": "/zh/docs/next/inspect-chaos-experiments",
+              "path": "/docs/next/inspect-chaos-experiments",
               "sidebar": "docs"
             },
             {
               "id": "integrate-chaos-mesh-into-github-actions",
-              "path": "/zh/docs/next/integrate-chaos-mesh-into-github-actions",
+              "path": "/docs/next/integrate-chaos-mesh-into-github-actions",
               "sidebar": "docs"
             },
             {
               "id": "java-client",
-              "path": "/zh/docs/next/java-client"
+              "path": "/docs/next/java-client"
             },
             {
               "id": "manage-user-permissions",
-              "path": "/zh/docs/next/manage-user-permissions",
+              "path": "/docs/next/manage-user-permissions",
               "sidebar": "docs"
             },
             {
               "id": "multi-data-center-scenario",
-              "path": "/zh/docs/next/multi-data-center-scenario"
+              "path": "/docs/next/multi-data-center-scenario"
             },
             {
               "id": "offline-installation",
-              "path": "/zh/docs/next/offline-installation",
+              "path": "/docs/next/offline-installation",
               "sidebar": "docs"
             },
             {
               "id": "overview",
-              "path": "/zh/docs/next/",
+              "path": "/docs/next/",
               "sidebar": "docs"
             },
             {
               "id": "persistence-dashboard",
-              "path": "/zh/docs/next/persistence-dashboard",
+              "path": "/docs/next/persistence-dashboard",
               "sidebar": "docs"
             },
             {
               "id": "production-installation-using-helm",
-              "path": "/zh/docs/next/production-installation-using-helm",
+              "path": "/docs/next/production-installation-using-helm",
               "sidebar": "docs"
             },
             {
               "id": "python-client",
-              "path": "/zh/docs/next/python-client"
+              "path": "/docs/next/python-client"
             },
             {
               "id": "quick-start",
-              "path": "/zh/docs/next/quick-start",
+              "path": "/docs/next/quick-start",
               "sidebar": "docs"
             },
             {
               "id": "release-0.0.8",
-              "path": "/zh/docs/next/release-0.0.8"
+              "path": "/docs/next/release-0.0.8"
             },
             {
               "id": "release-0.0.9",
-              "path": "/zh/docs/next/release-0.0.9"
+              "path": "/docs/next/release-0.0.9"
             },
             {
               "id": "release-1.0.0",
-              "path": "/zh/docs/next/release-1.0.0"
+              "path": "/docs/next/release-1.0.0"
             },
             {
               "id": "release-2.0.0",
-              "path": "/zh/docs/next/release-2.0.0"
+              "path": "/docs/next/release-2.0.0"
             },
             {
               "id": "release-2.5-tracking",
-              "path": "/zh/docs/next/release-2.5-tracking",
+              "path": "/docs/next/release-2.5-tracking",
               "sidebar": "docs"
             },
             {
               "id": "release-cycle",
-              "path": "/zh/docs/next/release-cycle",
+              "path": "/docs/next/release-cycle",
               "sidebar": "docs"
             },
             {
               "id": "remote-cluster-management",
-              "path": "/zh/docs/next/remote-cluster-management",
+              "path": "/docs/next/remote-cluster-management",
               "sidebar": "docs"
             },
             {
               "id": "run-a-chaos-experiment",
-              "path": "/zh/docs/next/run-a-chaos-experiment",
+              "path": "/docs/next/run-a-chaos-experiment",
               "sidebar": "docs"
             },
             {
               "id": "run-serial-or-parallel-experiments",
-              "path": "/zh/docs/next/run-serial-or-parallel-experiments",
+              "path": "/docs/next/run-serial-or-parallel-experiments",
               "sidebar": "docs"
             },
             {
               "id": "rust-client",
-              "path": "/zh/docs/next/rust-client"
+              "path": "/docs/next/rust-client"
             },
             {
               "id": "send-http-request-on-workflow",
-              "path": "/zh/docs/next/send-http-request-on-workflow",
+              "path": "/docs/next/send-http-request-on-workflow",
               "sidebar": "docs"
             },
             {
               "id": "simulate-aws-chaos",
-              "path": "/zh/docs/next/simulate-aws-chaos",
+              "path": "/docs/next/simulate-aws-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-azure-chaos",
-              "path": "/zh/docs/next/simulate-azure-chaos",
+              "path": "/docs/next/simulate-azure-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-block-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-block-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-block-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-disk-pressure-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-disk-pressure-in-physical-nodes",
+              "path": "/docs/next/simulate-disk-pressure-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-dns-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-dns-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-dns-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-file-chaos-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-file-chaos-in-physical-nodes",
+              "path": "/docs/next/simulate-file-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-gcp-chaos",
-              "path": "/zh/docs/next/simulate-gcp-chaos",
+              "path": "/docs/next/simulate-gcp-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-heavy-stress-in-physical-nodes",
+              "path": "/docs/next/simulate-heavy-stress-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-on-kubernetes",
-              "path": "/zh/docs/next/simulate-heavy-stress-on-kubernetes",
+              "path": "/docs/next/simulate-heavy-stress-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-host-console-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-host-console-in-physical-nodes",
+              "path": "/docs/next/simulate-host-console-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-http-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-http-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-http-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-io-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-io-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-io-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos",
-              "path": "/zh/docs/next/simulate-jvm-application-chaos",
+              "path": "/docs/next/simulate-jvm-application-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-jvm-application-chaos-in-physical-nodes",
+              "path": "/docs/next/simulate-jvm-application-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-kernel-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-kernel-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-kernel-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-network-chaos-in-physical-nodes",
+              "path": "/docs/next/simulate-network-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-network-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-network-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-physical-machine-chaos",
-              "path": "/zh/docs/next/simulate-physical-machine-chaos",
+              "path": "/docs/next/simulate-physical-machine-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-pod-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-pod-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-pod-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-process-chaos-in-physical-nodes",
-              "path": "/zh/docs/next/simulate-process-chaos-in-physical-nodes",
+              "path": "/docs/next/simulate-process-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-redis-chaos-on-physical-nodes",
-              "path": "/zh/docs/next/simulate-redis-chaos-on-physical-nodes",
+              "path": "/docs/next/simulate-redis-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-kubernetes",
-              "path": "/zh/docs/next/simulate-time-chaos-on-kubernetes",
+              "path": "/docs/next/simulate-time-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-physical-nodes",
-              "path": "/zh/docs/next/simulate-time-chaos-on-physical-nodes",
+              "path": "/docs/next/simulate-time-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "status-check-in-workflow",
-              "path": "/zh/docs/next/status-check-in-workflow",
+              "path": "/docs/next/status-check-in-workflow",
               "sidebar": "docs"
             },
             {
               "id": "troubleshooting-guide",
-              "path": "/zh/docs/next/troubleshooting-guide"
+              "path": "/docs/next/troubleshooting-guide"
             },
             {
               "id": "uninstallation",
-              "path": "/zh/docs/next/uninstallation",
+              "path": "/docs/next/uninstallation",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-from-2.1-to-2.2",
-              "path": "/zh/docs/next/upgrade-from-2.1-to-2.2",
+              "path": "/docs/next/upgrade-from-2.1-to-2.2",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-to-2.0",
-              "path": "/zh/docs/next/upgrade-to-2.0",
+              "path": "/docs/next/upgrade-to-2.0",
               "sidebar": "docs"
             },
             {
               "id": "use-argo-to-orchestrate-chaos-experiments",
-              "path": "/zh/docs/next/use-argo-to-orchestrate-chaos-experiments"
+              "path": "/docs/next/use-argo-to-orchestrate-chaos-experiments"
             },
             {
               "id": "use-grafana-data-source",
-              "path": "/zh/docs/next/use-grafana-data-source",
+              "path": "/docs/next/use-grafana-data-source",
               "sidebar": "docs"
             }
           ],
@@ -378,7 +378,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/zh/docs/next/",
+                "path": "/docs/next/",
                 "label": "overview"
               }
             }
@@ -388,370 +388,370 @@
           "name": "2.6.2",
           "label": "2.6.2",
           "isLast": true,
-          "path": "/zh/docs",
+          "path": "/docs",
           "mainDocId": "overview",
           "docs": [
             {
               "id": "add-new-chaos-experiment-type",
-              "path": "/zh/docs/add-new-chaos-experiment-type",
+              "path": "/docs/add-new-chaos-experiment-type",
               "sidebar": "docs"
             },
             {
               "id": "basic-features",
-              "path": "/zh/docs/basic-features",
+              "path": "/docs/basic-features",
               "sidebar": "docs"
             },
             {
               "id": "chaos-engineering-principles",
-              "path": "/zh/docs/chaos-engineering-principles"
+              "path": "/docs/chaos-engineering-principles"
             },
             {
               "id": "chaosctl-tool",
-              "path": "/zh/docs/chaosctl-tool",
+              "path": "/docs/chaosctl-tool",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-overview",
-              "path": "/zh/docs/chaosd-overview",
+              "path": "/docs/chaosd-overview",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-search-recover",
-              "path": "/zh/docs/chaosd-search-recover",
+              "path": "/docs/chaosd-search-recover",
               "sidebar": "docs"
             },
             {
               "id": "check-workflow-status",
-              "path": "/zh/docs/check-workflow-status",
+              "path": "/docs/check-workflow-status",
               "sidebar": "docs"
             },
             {
               "id": "clean-up-chaos-experiments",
-              "path": "/zh/docs/clean-up-chaos-experiments"
+              "path": "/docs/clean-up-chaos-experiments"
             },
             {
               "id": "common/quick-run",
-              "path": "/zh/docs/common/quick-run"
+              "path": "/docs/common/quick-run"
             },
             {
               "id": "common/verify-installation",
-              "path": "/zh/docs/common/verify-installation"
+              "path": "/docs/common/verify-installation"
             },
             {
               "id": "configure-development-environment",
-              "path": "/zh/docs/configure-development-environment",
+              "path": "/docs/configure-development-environment",
               "sidebar": "docs"
             },
             {
               "id": "configure-enabled-namespace",
-              "path": "/zh/docs/configure-enabled-namespace",
+              "path": "/docs/configure-enabled-namespace",
               "sidebar": "docs"
             },
             {
               "id": "create-chaos-mesh-workflow",
-              "path": "/zh/docs/create-chaos-mesh-workflow",
+              "path": "/docs/create-chaos-mesh-workflow",
               "sidebar": "docs"
             },
             {
               "id": "define-chaos-experiment-scope",
-              "path": "/zh/docs/define-chaos-experiment-scope",
+              "path": "/docs/define-chaos-experiment-scope",
               "sidebar": "docs"
             },
             {
               "id": "define-scheduling-rules",
-              "path": "/zh/docs/define-scheduling-rules",
+              "path": "/docs/define-scheduling-rules",
               "sidebar": "docs"
             },
             {
               "id": "define-workflow-scheduling-rules",
-              "path": "/zh/docs/define-workflow-scheduling-rules"
+              "path": "/docs/define-workflow-scheduling-rules"
             },
             {
               "id": "developer-guide-overview",
-              "path": "/zh/docs/developer-guide-overview",
+              "path": "/docs/developer-guide-overview",
               "sidebar": "docs"
             },
             {
               "id": "expose-dashboard-with-ingress",
-              "path": "/zh/docs/expose-dashboard-with-ingress",
+              "path": "/docs/expose-dashboard-with-ingress",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaos-daemon-interface",
-              "path": "/zh/docs/extend-chaos-daemon-interface",
+              "path": "/docs/extend-chaos-daemon-interface",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaosd",
-              "path": "/zh/docs/extend-chaosd",
+              "path": "/docs/extend-chaosd",
               "sidebar": "docs"
             },
             {
               "id": "faqs",
-              "path": "/zh/docs/faqs",
+              "path": "/docs/faqs",
               "sidebar": "docs"
             },
             {
               "id": "gcp-authentication",
-              "path": "/zh/docs/gcp-authentication",
+              "path": "/docs/gcp-authentication",
               "sidebar": "docs"
             },
             {
               "id": "glossary",
-              "path": "/zh/docs/glossary"
+              "path": "/docs/glossary"
             },
             {
               "id": "go-client",
-              "path": "/zh/docs/go-client"
+              "path": "/docs/go-client"
             },
             {
               "id": "inspect-chaos-experiments",
-              "path": "/zh/docs/inspect-chaos-experiments",
+              "path": "/docs/inspect-chaos-experiments",
               "sidebar": "docs"
             },
             {
               "id": "integrate-chaos-mesh-into-github-actions",
-              "path": "/zh/docs/integrate-chaos-mesh-into-github-actions",
+              "path": "/docs/integrate-chaos-mesh-into-github-actions",
               "sidebar": "docs"
             },
             {
               "id": "java-client",
-              "path": "/zh/docs/java-client"
+              "path": "/docs/java-client"
             },
             {
               "id": "manage-user-permissions",
-              "path": "/zh/docs/manage-user-permissions",
+              "path": "/docs/manage-user-permissions",
               "sidebar": "docs"
             },
             {
               "id": "multi-data-center-scenario",
-              "path": "/zh/docs/multi-data-center-scenario"
+              "path": "/docs/multi-data-center-scenario"
             },
             {
               "id": "offline-installation",
-              "path": "/zh/docs/offline-installation",
+              "path": "/docs/offline-installation",
               "sidebar": "docs"
             },
             {
               "id": "overview",
-              "path": "/zh/docs/",
+              "path": "/docs/",
               "sidebar": "docs"
             },
             {
               "id": "persistence-dashboard",
-              "path": "/zh/docs/persistence-dashboard",
+              "path": "/docs/persistence-dashboard",
               "sidebar": "docs"
             },
             {
               "id": "production-installation-using-helm",
-              "path": "/zh/docs/production-installation-using-helm",
+              "path": "/docs/production-installation-using-helm",
               "sidebar": "docs"
             },
             {
               "id": "python-client",
-              "path": "/zh/docs/python-client"
+              "path": "/docs/python-client"
             },
             {
               "id": "quick-start",
-              "path": "/zh/docs/quick-start",
+              "path": "/docs/quick-start",
               "sidebar": "docs"
             },
             {
               "id": "release-0.0.8",
-              "path": "/zh/docs/release-0.0.8"
+              "path": "/docs/release-0.0.8"
             },
             {
               "id": "release-0.0.9",
-              "path": "/zh/docs/release-0.0.9"
+              "path": "/docs/release-0.0.9"
             },
             {
               "id": "release-1.0.0",
-              "path": "/zh/docs/release-1.0.0"
+              "path": "/docs/release-1.0.0"
             },
             {
               "id": "release-2.0.0",
-              "path": "/zh/docs/release-2.0.0"
+              "path": "/docs/release-2.0.0"
             },
             {
               "id": "release-2.5-tracking",
-              "path": "/zh/docs/release-2.5-tracking",
+              "path": "/docs/release-2.5-tracking",
               "sidebar": "docs"
             },
             {
               "id": "release-cycle",
-              "path": "/zh/docs/release-cycle",
+              "path": "/docs/release-cycle",
               "sidebar": "docs"
             },
             {
               "id": "remote-cluster-management",
-              "path": "/zh/docs/remote-cluster-management",
+              "path": "/docs/remote-cluster-management",
               "sidebar": "docs"
             },
             {
               "id": "run-a-chaos-experiment",
-              "path": "/zh/docs/run-a-chaos-experiment",
+              "path": "/docs/run-a-chaos-experiment",
               "sidebar": "docs"
             },
             {
               "id": "run-serial-or-parallel-experiments",
-              "path": "/zh/docs/run-serial-or-parallel-experiments",
+              "path": "/docs/run-serial-or-parallel-experiments",
               "sidebar": "docs"
             },
             {
               "id": "rust-client",
-              "path": "/zh/docs/rust-client"
+              "path": "/docs/rust-client"
             },
             {
               "id": "send-http-request-on-workflow",
-              "path": "/zh/docs/send-http-request-on-workflow",
+              "path": "/docs/send-http-request-on-workflow",
               "sidebar": "docs"
             },
             {
               "id": "simulate-aws-chaos",
-              "path": "/zh/docs/simulate-aws-chaos",
+              "path": "/docs/simulate-aws-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-azure-chaos",
-              "path": "/zh/docs/simulate-azure-chaos",
+              "path": "/docs/simulate-azure-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-block-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-block-chaos-on-kubernetes",
+              "path": "/docs/simulate-block-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-disk-pressure-in-physical-nodes",
-              "path": "/zh/docs/simulate-disk-pressure-in-physical-nodes",
+              "path": "/docs/simulate-disk-pressure-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-dns-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-dns-chaos-on-kubernetes",
+              "path": "/docs/simulate-dns-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-file-chaos-in-physical-nodes",
-              "path": "/zh/docs/simulate-file-chaos-in-physical-nodes",
+              "path": "/docs/simulate-file-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-gcp-chaos",
-              "path": "/zh/docs/simulate-gcp-chaos",
+              "path": "/docs/simulate-gcp-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-in-physical-nodes",
-              "path": "/zh/docs/simulate-heavy-stress-in-physical-nodes",
+              "path": "/docs/simulate-heavy-stress-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-on-kubernetes",
-              "path": "/zh/docs/simulate-heavy-stress-on-kubernetes",
+              "path": "/docs/simulate-heavy-stress-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-host-console-in-physical-nodes",
-              "path": "/zh/docs/simulate-host-console-in-physical-nodes",
+              "path": "/docs/simulate-host-console-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-http-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-http-chaos-on-kubernetes",
+              "path": "/docs/simulate-http-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-io-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-io-chaos-on-kubernetes",
+              "path": "/docs/simulate-io-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos",
-              "path": "/zh/docs/simulate-jvm-application-chaos",
+              "path": "/docs/simulate-jvm-application-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos-in-physical-nodes",
-              "path": "/zh/docs/simulate-jvm-application-chaos-in-physical-nodes",
+              "path": "/docs/simulate-jvm-application-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-kernel-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-kernel-chaos-on-kubernetes",
+              "path": "/docs/simulate-kernel-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-in-physical-nodes",
-              "path": "/zh/docs/simulate-network-chaos-in-physical-nodes",
+              "path": "/docs/simulate-network-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-network-chaos-on-kubernetes",
+              "path": "/docs/simulate-network-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-physical-machine-chaos",
-              "path": "/zh/docs/simulate-physical-machine-chaos",
+              "path": "/docs/simulate-physical-machine-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-pod-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-pod-chaos-on-kubernetes",
+              "path": "/docs/simulate-pod-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-process-chaos-in-physical-nodes",
-              "path": "/zh/docs/simulate-process-chaos-in-physical-nodes",
+              "path": "/docs/simulate-process-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-redis-chaos-on-physical-nodes",
-              "path": "/zh/docs/simulate-redis-chaos-on-physical-nodes",
+              "path": "/docs/simulate-redis-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-kubernetes",
-              "path": "/zh/docs/simulate-time-chaos-on-kubernetes",
+              "path": "/docs/simulate-time-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-physical-nodes",
-              "path": "/zh/docs/simulate-time-chaos-on-physical-nodes",
+              "path": "/docs/simulate-time-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "status-check-in-workflow",
-              "path": "/zh/docs/status-check-in-workflow",
+              "path": "/docs/status-check-in-workflow",
               "sidebar": "docs"
             },
             {
               "id": "troubleshooting-guide",
-              "path": "/zh/docs/troubleshooting-guide"
+              "path": "/docs/troubleshooting-guide"
             },
             {
               "id": "uninstallation",
-              "path": "/zh/docs/uninstallation",
+              "path": "/docs/uninstallation",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-from-2.1-to-2.2",
-              "path": "/zh/docs/upgrade-from-2.1-to-2.2",
+              "path": "/docs/upgrade-from-2.1-to-2.2",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-to-2.0",
-              "path": "/zh/docs/upgrade-to-2.0",
+              "path": "/docs/upgrade-to-2.0",
               "sidebar": "docs"
             },
             {
               "id": "use-argo-to-orchestrate-chaos-experiments",
-              "path": "/zh/docs/use-argo-to-orchestrate-chaos-experiments"
+              "path": "/docs/use-argo-to-orchestrate-chaos-experiments"
             },
             {
               "id": "use-grafana-data-source",
-              "path": "/zh/docs/use-grafana-data-source",
+              "path": "/docs/use-grafana-data-source",
               "sidebar": "docs"
             }
           ],
@@ -759,7 +759,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/zh/docs/",
+                "path": "/docs/",
                 "label": "overview"
               }
             }
@@ -769,365 +769,365 @@
           "name": "2.5.2",
           "label": "2.5.2",
           "isLast": false,
-          "path": "/zh/docs/2.5.2",
+          "path": "/docs/2.5.2",
           "mainDocId": "overview",
           "docs": [
             {
               "id": "add-new-chaos-experiment-type",
-              "path": "/zh/docs/2.5.2/add-new-chaos-experiment-type",
+              "path": "/docs/2.5.2/add-new-chaos-experiment-type",
               "sidebar": "docs"
             },
             {
               "id": "basic-features",
-              "path": "/zh/docs/2.5.2/basic-features",
+              "path": "/docs/2.5.2/basic-features",
               "sidebar": "docs"
             },
             {
               "id": "chaos-engineering-principles",
-              "path": "/zh/docs/2.5.2/chaos-engineering-principles"
+              "path": "/docs/2.5.2/chaos-engineering-principles"
             },
             {
               "id": "chaosctl-tool",
-              "path": "/zh/docs/2.5.2/chaosctl-tool",
+              "path": "/docs/2.5.2/chaosctl-tool",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-overview",
-              "path": "/zh/docs/2.5.2/chaosd-overview",
+              "path": "/docs/2.5.2/chaosd-overview",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-search-recover",
-              "path": "/zh/docs/2.5.2/chaosd-search-recover",
+              "path": "/docs/2.5.2/chaosd-search-recover",
               "sidebar": "docs"
             },
             {
               "id": "check-workflow-status",
-              "path": "/zh/docs/2.5.2/check-workflow-status",
+              "path": "/docs/2.5.2/check-workflow-status",
               "sidebar": "docs"
             },
             {
               "id": "clean-up-chaos-experiments",
-              "path": "/zh/docs/2.5.2/clean-up-chaos-experiments"
+              "path": "/docs/2.5.2/clean-up-chaos-experiments"
             },
             {
               "id": "common/quick-run",
-              "path": "/zh/docs/2.5.2/common/quick-run"
+              "path": "/docs/2.5.2/common/quick-run"
             },
             {
               "id": "common/verify-installation",
-              "path": "/zh/docs/2.5.2/common/verify-installation"
+              "path": "/docs/2.5.2/common/verify-installation"
             },
             {
               "id": "configure-development-environment",
-              "path": "/zh/docs/2.5.2/configure-development-environment",
+              "path": "/docs/2.5.2/configure-development-environment",
               "sidebar": "docs"
             },
             {
               "id": "configure-enabled-namespace",
-              "path": "/zh/docs/2.5.2/configure-enabled-namespace",
+              "path": "/docs/2.5.2/configure-enabled-namespace",
               "sidebar": "docs"
             },
             {
               "id": "create-chaos-mesh-workflow",
-              "path": "/zh/docs/2.5.2/create-chaos-mesh-workflow",
+              "path": "/docs/2.5.2/create-chaos-mesh-workflow",
               "sidebar": "docs"
             },
             {
               "id": "define-chaos-experiment-scope",
-              "path": "/zh/docs/2.5.2/define-chaos-experiment-scope",
+              "path": "/docs/2.5.2/define-chaos-experiment-scope",
               "sidebar": "docs"
             },
             {
               "id": "define-scheduling-rules",
-              "path": "/zh/docs/2.5.2/define-scheduling-rules",
+              "path": "/docs/2.5.2/define-scheduling-rules",
               "sidebar": "docs"
             },
             {
               "id": "define-workflow-scheduling-rules",
-              "path": "/zh/docs/2.5.2/define-workflow-scheduling-rules"
+              "path": "/docs/2.5.2/define-workflow-scheduling-rules"
             },
             {
               "id": "developer-guide-overview",
-              "path": "/zh/docs/2.5.2/developer-guide-overview",
+              "path": "/docs/2.5.2/developer-guide-overview",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaos-daemon-interface",
-              "path": "/zh/docs/2.5.2/extend-chaos-daemon-interface",
+              "path": "/docs/2.5.2/extend-chaos-daemon-interface",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaosd",
-              "path": "/zh/docs/2.5.2/extend-chaosd",
+              "path": "/docs/2.5.2/extend-chaosd",
               "sidebar": "docs"
             },
             {
               "id": "faqs",
-              "path": "/zh/docs/2.5.2/faqs",
+              "path": "/docs/2.5.2/faqs",
               "sidebar": "docs"
             },
             {
               "id": "gcp-authentication",
-              "path": "/zh/docs/2.5.2/gcp-authentication",
+              "path": "/docs/2.5.2/gcp-authentication",
               "sidebar": "docs"
             },
             {
               "id": "glossary",
-              "path": "/zh/docs/2.5.2/glossary"
+              "path": "/docs/2.5.2/glossary"
             },
             {
               "id": "go-client",
-              "path": "/zh/docs/2.5.2/go-client"
+              "path": "/docs/2.5.2/go-client"
             },
             {
               "id": "inspect-chaos-experiments",
-              "path": "/zh/docs/2.5.2/inspect-chaos-experiments",
+              "path": "/docs/2.5.2/inspect-chaos-experiments",
               "sidebar": "docs"
             },
             {
               "id": "integrate-chaos-mesh-into-github-actions",
-              "path": "/zh/docs/2.5.2/integrate-chaos-mesh-into-github-actions",
+              "path": "/docs/2.5.2/integrate-chaos-mesh-into-github-actions",
               "sidebar": "docs"
             },
             {
               "id": "java-client",
-              "path": "/zh/docs/2.5.2/java-client"
+              "path": "/docs/2.5.2/java-client"
             },
             {
               "id": "manage-user-permissions",
-              "path": "/zh/docs/2.5.2/manage-user-permissions",
+              "path": "/docs/2.5.2/manage-user-permissions",
               "sidebar": "docs"
             },
             {
               "id": "multi-data-center-scenario",
-              "path": "/zh/docs/2.5.2/multi-data-center-scenario"
+              "path": "/docs/2.5.2/multi-data-center-scenario"
             },
             {
               "id": "offline-installation",
-              "path": "/zh/docs/2.5.2/offline-installation",
+              "path": "/docs/2.5.2/offline-installation",
               "sidebar": "docs"
             },
             {
               "id": "overview",
-              "path": "/zh/docs/2.5.2/",
+              "path": "/docs/2.5.2/",
               "sidebar": "docs"
             },
             {
               "id": "persistence-dashboard",
-              "path": "/zh/docs/2.5.2/persistence-dashboard",
+              "path": "/docs/2.5.2/persistence-dashboard",
               "sidebar": "docs"
             },
             {
               "id": "production-installation-using-helm",
-              "path": "/zh/docs/2.5.2/production-installation-using-helm",
+              "path": "/docs/2.5.2/production-installation-using-helm",
               "sidebar": "docs"
             },
             {
               "id": "python-client",
-              "path": "/zh/docs/2.5.2/python-client"
+              "path": "/docs/2.5.2/python-client"
             },
             {
               "id": "quick-start",
-              "path": "/zh/docs/2.5.2/quick-start",
+              "path": "/docs/2.5.2/quick-start",
               "sidebar": "docs"
             },
             {
               "id": "release-0.0.8",
-              "path": "/zh/docs/2.5.2/release-0.0.8"
+              "path": "/docs/2.5.2/release-0.0.8"
             },
             {
               "id": "release-0.0.9",
-              "path": "/zh/docs/2.5.2/release-0.0.9"
+              "path": "/docs/2.5.2/release-0.0.9"
             },
             {
               "id": "release-1.0.0",
-              "path": "/zh/docs/2.5.2/release-1.0.0"
+              "path": "/docs/2.5.2/release-1.0.0"
             },
             {
               "id": "release-2.0.0",
-              "path": "/zh/docs/2.5.2/release-2.0.0"
+              "path": "/docs/2.5.2/release-2.0.0"
             },
             {
               "id": "release-2.5-tracking",
-              "path": "/zh/docs/2.5.2/release-2.5-tracking",
+              "path": "/docs/2.5.2/release-2.5-tracking",
               "sidebar": "docs"
             },
             {
               "id": "release-cycle",
-              "path": "/zh/docs/2.5.2/release-cycle",
+              "path": "/docs/2.5.2/release-cycle",
               "sidebar": "docs"
             },
             {
               "id": "remote-cluster-management",
-              "path": "/zh/docs/2.5.2/remote-cluster-management",
+              "path": "/docs/2.5.2/remote-cluster-management",
               "sidebar": "docs"
             },
             {
               "id": "run-a-chaos-experiment",
-              "path": "/zh/docs/2.5.2/run-a-chaos-experiment",
+              "path": "/docs/2.5.2/run-a-chaos-experiment",
               "sidebar": "docs"
             },
             {
               "id": "run-serial-or-parallel-experiments",
-              "path": "/zh/docs/2.5.2/run-serial-or-parallel-experiments",
+              "path": "/docs/2.5.2/run-serial-or-parallel-experiments",
               "sidebar": "docs"
             },
             {
               "id": "rust-client",
-              "path": "/zh/docs/2.5.2/rust-client"
+              "path": "/docs/2.5.2/rust-client"
             },
             {
               "id": "send-http-request-on-workflow",
-              "path": "/zh/docs/2.5.2/send-http-request-on-workflow",
+              "path": "/docs/2.5.2/send-http-request-on-workflow",
               "sidebar": "docs"
             },
             {
               "id": "simulate-aws-chaos",
-              "path": "/zh/docs/2.5.2/simulate-aws-chaos",
+              "path": "/docs/2.5.2/simulate-aws-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-azure-chaos",
-              "path": "/zh/docs/2.5.2/simulate-azure-chaos",
+              "path": "/docs/2.5.2/simulate-azure-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-block-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-block-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-block-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-disk-pressure-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-disk-pressure-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-disk-pressure-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-dns-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-dns-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-dns-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-file-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-file-chaos-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-file-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-gcp-chaos",
-              "path": "/zh/docs/2.5.2/simulate-gcp-chaos",
+              "path": "/docs/2.5.2/simulate-gcp-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-heavy-stress-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-heavy-stress-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-heavy-stress-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-heavy-stress-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-host-console-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-host-console-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-host-console-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-http-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-http-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-http-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-io-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-io-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-io-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos",
-              "path": "/zh/docs/2.5.2/simulate-jvm-application-chaos",
+              "path": "/docs/2.5.2/simulate-jvm-application-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-jvm-application-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-kernel-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-kernel-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-kernel-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-network-chaos-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-network-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-network-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-network-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-physical-machine-chaos",
-              "path": "/zh/docs/2.5.2/simulate-physical-machine-chaos",
+              "path": "/docs/2.5.2/simulate-physical-machine-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-pod-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-pod-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-pod-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-process-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-process-chaos-in-physical-nodes",
+              "path": "/docs/2.5.2/simulate-process-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-redis-chaos-on-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-redis-chaos-on-physical-nodes",
+              "path": "/docs/2.5.2/simulate-redis-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-kubernetes",
-              "path": "/zh/docs/2.5.2/simulate-time-chaos-on-kubernetes",
+              "path": "/docs/2.5.2/simulate-time-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-physical-nodes",
-              "path": "/zh/docs/2.5.2/simulate-time-chaos-on-physical-nodes",
+              "path": "/docs/2.5.2/simulate-time-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "status-check-in-workflow",
-              "path": "/zh/docs/2.5.2/status-check-in-workflow",
+              "path": "/docs/2.5.2/status-check-in-workflow",
               "sidebar": "docs"
             },
             {
               "id": "troubleshooting-guide",
-              "path": "/zh/docs/2.5.2/troubleshooting-guide"
+              "path": "/docs/2.5.2/troubleshooting-guide"
             },
             {
               "id": "uninstallation",
-              "path": "/zh/docs/2.5.2/uninstallation",
+              "path": "/docs/2.5.2/uninstallation",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-from-2.1-to-2.2",
-              "path": "/zh/docs/2.5.2/upgrade-from-2.1-to-2.2",
+              "path": "/docs/2.5.2/upgrade-from-2.1-to-2.2",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-to-2.0",
-              "path": "/zh/docs/2.5.2/upgrade-to-2.0",
+              "path": "/docs/2.5.2/upgrade-to-2.0",
               "sidebar": "docs"
             },
             {
               "id": "use-argo-to-orchestrate-chaos-experiments",
-              "path": "/zh/docs/2.5.2/use-argo-to-orchestrate-chaos-experiments"
+              "path": "/docs/2.5.2/use-argo-to-orchestrate-chaos-experiments"
             },
             {
               "id": "use-grafana-data-source",
-              "path": "/zh/docs/2.5.2/use-grafana-data-source",
+              "path": "/docs/2.5.2/use-grafana-data-source",
               "sidebar": "docs"
             }
           ],
@@ -1135,7 +1135,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/zh/docs/2.5.2/",
+                "path": "/docs/2.5.2/",
                 "label": "overview"
               }
             }
@@ -1145,360 +1145,360 @@
           "name": "2.4.3",
           "label": "2.4.3",
           "isLast": false,
-          "path": "/zh/docs/2.4.3",
+          "path": "/docs/2.4.3",
           "mainDocId": "overview",
           "docs": [
             {
               "id": "add-new-chaos-experiment-type",
-              "path": "/zh/docs/2.4.3/add-new-chaos-experiment-type",
+              "path": "/docs/2.4.3/add-new-chaos-experiment-type",
               "sidebar": "docs"
             },
             {
               "id": "basic-features",
-              "path": "/zh/docs/2.4.3/basic-features",
+              "path": "/docs/2.4.3/basic-features",
               "sidebar": "docs"
             },
             {
               "id": "chaos-engineering-principles",
-              "path": "/zh/docs/2.4.3/chaos-engineering-principles"
+              "path": "/docs/2.4.3/chaos-engineering-principles"
             },
             {
               "id": "chaosctl-tool",
-              "path": "/zh/docs/2.4.3/chaosctl-tool",
+              "path": "/docs/2.4.3/chaosctl-tool",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-overview",
-              "path": "/zh/docs/2.4.3/chaosd-overview",
+              "path": "/docs/2.4.3/chaosd-overview",
               "sidebar": "docs"
             },
             {
               "id": "chaosd-search-recover",
-              "path": "/zh/docs/2.4.3/chaosd-search-recover",
+              "path": "/docs/2.4.3/chaosd-search-recover",
               "sidebar": "docs"
             },
             {
               "id": "check-workflow-status",
-              "path": "/zh/docs/2.4.3/check-workflow-status",
+              "path": "/docs/2.4.3/check-workflow-status",
               "sidebar": "docs"
             },
             {
               "id": "clean-up-chaos-experiments",
-              "path": "/zh/docs/2.4.3/clean-up-chaos-experiments"
+              "path": "/docs/2.4.3/clean-up-chaos-experiments"
             },
             {
               "id": "common/quick-run",
-              "path": "/zh/docs/2.4.3/common/quick-run"
+              "path": "/docs/2.4.3/common/quick-run"
             },
             {
               "id": "common/verify-installation",
-              "path": "/zh/docs/2.4.3/common/verify-installation"
+              "path": "/docs/2.4.3/common/verify-installation"
             },
             {
               "id": "configure-development-environment",
-              "path": "/zh/docs/2.4.3/configure-development-environment",
+              "path": "/docs/2.4.3/configure-development-environment",
               "sidebar": "docs"
             },
             {
               "id": "configure-enabled-namespace",
-              "path": "/zh/docs/2.4.3/configure-enabled-namespace",
+              "path": "/docs/2.4.3/configure-enabled-namespace",
               "sidebar": "docs"
             },
             {
               "id": "create-chaos-mesh-workflow",
-              "path": "/zh/docs/2.4.3/create-chaos-mesh-workflow",
+              "path": "/docs/2.4.3/create-chaos-mesh-workflow",
               "sidebar": "docs"
             },
             {
               "id": "define-chaos-experiment-scope",
-              "path": "/zh/docs/2.4.3/define-chaos-experiment-scope",
+              "path": "/docs/2.4.3/define-chaos-experiment-scope",
               "sidebar": "docs"
             },
             {
               "id": "define-scheduling-rules",
-              "path": "/zh/docs/2.4.3/define-scheduling-rules",
+              "path": "/docs/2.4.3/define-scheduling-rules",
               "sidebar": "docs"
             },
             {
               "id": "define-workflow-scheduling-rules",
-              "path": "/zh/docs/2.4.3/define-workflow-scheduling-rules"
+              "path": "/docs/2.4.3/define-workflow-scheduling-rules"
             },
             {
               "id": "developer-guide-overview",
-              "path": "/zh/docs/2.4.3/developer-guide-overview",
+              "path": "/docs/2.4.3/developer-guide-overview",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaos-daemon-interface",
-              "path": "/zh/docs/2.4.3/extend-chaos-daemon-interface",
+              "path": "/docs/2.4.3/extend-chaos-daemon-interface",
               "sidebar": "docs"
             },
             {
               "id": "extend-chaosd",
-              "path": "/zh/docs/2.4.3/extend-chaosd",
+              "path": "/docs/2.4.3/extend-chaosd",
               "sidebar": "docs"
             },
             {
               "id": "faqs",
-              "path": "/zh/docs/2.4.3/faqs",
+              "path": "/docs/2.4.3/faqs",
               "sidebar": "docs"
             },
             {
               "id": "gcp-authentication",
-              "path": "/zh/docs/2.4.3/gcp-authentication",
+              "path": "/docs/2.4.3/gcp-authentication",
               "sidebar": "docs"
             },
             {
               "id": "glossary",
-              "path": "/zh/docs/2.4.3/glossary"
+              "path": "/docs/2.4.3/glossary"
             },
             {
               "id": "go-client",
-              "path": "/zh/docs/2.4.3/go-client"
+              "path": "/docs/2.4.3/go-client"
             },
             {
               "id": "inspect-chaos-experiments",
-              "path": "/zh/docs/2.4.3/inspect-chaos-experiments",
+              "path": "/docs/2.4.3/inspect-chaos-experiments",
               "sidebar": "docs"
             },
             {
               "id": "integrate-chaos-mesh-into-github-actions",
-              "path": "/zh/docs/2.4.3/integrate-chaos-mesh-into-github-actions",
+              "path": "/docs/2.4.3/integrate-chaos-mesh-into-github-actions",
               "sidebar": "docs"
             },
             {
               "id": "java-client",
-              "path": "/zh/docs/2.4.3/java-client"
+              "path": "/docs/2.4.3/java-client"
             },
             {
               "id": "manage-user-permissions",
-              "path": "/zh/docs/2.4.3/manage-user-permissions",
+              "path": "/docs/2.4.3/manage-user-permissions",
               "sidebar": "docs"
             },
             {
               "id": "multi-data-center-scenario",
-              "path": "/zh/docs/2.4.3/multi-data-center-scenario"
+              "path": "/docs/2.4.3/multi-data-center-scenario"
             },
             {
               "id": "offline-installation",
-              "path": "/zh/docs/2.4.3/offline-installation",
+              "path": "/docs/2.4.3/offline-installation",
               "sidebar": "docs"
             },
             {
               "id": "overview",
-              "path": "/zh/docs/2.4.3/",
+              "path": "/docs/2.4.3/",
               "sidebar": "docs"
             },
             {
               "id": "persistence-dashboard",
-              "path": "/zh/docs/2.4.3/persistence-dashboard",
+              "path": "/docs/2.4.3/persistence-dashboard",
               "sidebar": "docs"
             },
             {
               "id": "production-installation-using-helm",
-              "path": "/zh/docs/2.4.3/production-installation-using-helm",
+              "path": "/docs/2.4.3/production-installation-using-helm",
               "sidebar": "docs"
             },
             {
               "id": "python-client",
-              "path": "/zh/docs/2.4.3/python-client"
+              "path": "/docs/2.4.3/python-client"
             },
             {
               "id": "quick-start",
-              "path": "/zh/docs/2.4.3/quick-start",
+              "path": "/docs/2.4.3/quick-start",
               "sidebar": "docs"
             },
             {
               "id": "release-0.0.8",
-              "path": "/zh/docs/2.4.3/release-0.0.8"
+              "path": "/docs/2.4.3/release-0.0.8"
             },
             {
               "id": "release-0.0.9",
-              "path": "/zh/docs/2.4.3/release-0.0.9"
+              "path": "/docs/2.4.3/release-0.0.9"
             },
             {
               "id": "release-1.0.0",
-              "path": "/zh/docs/2.4.3/release-1.0.0"
+              "path": "/docs/2.4.3/release-1.0.0"
             },
             {
               "id": "release-2.0.0",
-              "path": "/zh/docs/2.4.3/release-2.0.0"
+              "path": "/docs/2.4.3/release-2.0.0"
             },
             {
               "id": "release-2.4-tracking",
-              "path": "/zh/docs/2.4.3/release-2.4-tracking",
+              "path": "/docs/2.4.3/release-2.4-tracking",
               "sidebar": "docs"
             },
             {
               "id": "release-cycle",
-              "path": "/zh/docs/2.4.3/release-cycle",
+              "path": "/docs/2.4.3/release-cycle",
               "sidebar": "docs"
             },
             {
               "id": "run-a-chaos-experiment",
-              "path": "/zh/docs/2.4.3/run-a-chaos-experiment",
+              "path": "/docs/2.4.3/run-a-chaos-experiment",
               "sidebar": "docs"
             },
             {
               "id": "run-serial-or-parallel-experiments",
-              "path": "/zh/docs/2.4.3/run-serial-or-parallel-experiments",
+              "path": "/docs/2.4.3/run-serial-or-parallel-experiments",
               "sidebar": "docs"
             },
             {
               "id": "rust-client",
-              "path": "/zh/docs/2.4.3/rust-client"
+              "path": "/docs/2.4.3/rust-client"
             },
             {
               "id": "send-http-request-on-workflow",
-              "path": "/zh/docs/2.4.3/send-http-request-on-workflow",
+              "path": "/docs/2.4.3/send-http-request-on-workflow",
               "sidebar": "docs"
             },
             {
               "id": "simulate-aws-chaos",
-              "path": "/zh/docs/2.4.3/simulate-aws-chaos",
+              "path": "/docs/2.4.3/simulate-aws-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-azure-chaos",
-              "path": "/zh/docs/2.4.3/simulate-azure-chaos",
+              "path": "/docs/2.4.3/simulate-azure-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-block-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-block-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-block-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-disk-pressure-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-disk-pressure-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-disk-pressure-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-dns-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-dns-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-dns-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-file-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-file-chaos-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-file-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-gcp-chaos",
-              "path": "/zh/docs/2.4.3/simulate-gcp-chaos",
+              "path": "/docs/2.4.3/simulate-gcp-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-heavy-stress-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-heavy-stress-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-heavy-stress-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-heavy-stress-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-heavy-stress-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-host-console-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-host-console-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-host-console-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-http-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-http-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-http-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-io-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-io-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-io-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos",
-              "path": "/zh/docs/2.4.3/simulate-jvm-application-chaos",
+              "path": "/docs/2.4.3/simulate-jvm-application-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-jvm-application-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-jvm-application-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-kernel-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-kernel-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-kernel-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-network-chaos-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-network-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-network-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-network-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-network-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-physical-machine-chaos",
-              "path": "/zh/docs/2.4.3/simulate-physical-machine-chaos",
+              "path": "/docs/2.4.3/simulate-physical-machine-chaos",
               "sidebar": "docs"
             },
             {
               "id": "simulate-pod-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-pod-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-pod-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-process-chaos-in-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-process-chaos-in-physical-nodes",
+              "path": "/docs/2.4.3/simulate-process-chaos-in-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-redis-chaos-on-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-redis-chaos-on-physical-nodes",
+              "path": "/docs/2.4.3/simulate-redis-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-kubernetes",
-              "path": "/zh/docs/2.4.3/simulate-time-chaos-on-kubernetes",
+              "path": "/docs/2.4.3/simulate-time-chaos-on-kubernetes",
               "sidebar": "docs"
             },
             {
               "id": "simulate-time-chaos-on-physical-nodes",
-              "path": "/zh/docs/2.4.3/simulate-time-chaos-on-physical-nodes",
+              "path": "/docs/2.4.3/simulate-time-chaos-on-physical-nodes",
               "sidebar": "docs"
             },
             {
               "id": "status-check-in-workflow",
-              "path": "/zh/docs/2.4.3/status-check-in-workflow",
+              "path": "/docs/2.4.3/status-check-in-workflow",
               "sidebar": "docs"
             },
             {
               "id": "troubleshooting-guide",
-              "path": "/zh/docs/2.4.3/troubleshooting-guide"
+              "path": "/docs/2.4.3/troubleshooting-guide"
             },
             {
               "id": "uninstallation",
-              "path": "/zh/docs/2.4.3/uninstallation",
+              "path": "/docs/2.4.3/uninstallation",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-from-2.1-to-2.2",
-              "path": "/zh/docs/2.4.3/upgrade-from-2.1-to-2.2",
+              "path": "/docs/2.4.3/upgrade-from-2.1-to-2.2",
               "sidebar": "docs"
             },
             {
               "id": "upgrade-to-2.0",
-              "path": "/zh/docs/2.4.3/upgrade-to-2.0",
+              "path": "/docs/2.4.3/upgrade-to-2.0",
               "sidebar": "docs"
             },
             {
               "id": "use-argo-to-orchestrate-chaos-experiments",
-              "path": "/zh/docs/2.4.3/use-argo-to-orchestrate-chaos-experiments"
+              "path": "/docs/2.4.3/use-argo-to-orchestrate-chaos-experiments"
             },
             {
               "id": "use-grafana-data-source",
-              "path": "/zh/docs/2.4.3/use-grafana-data-source",
+              "path": "/docs/2.4.3/use-grafana-data-source",
               "sidebar": "docs"
             }
           ],
@@ -1506,7 +1506,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/zh/docs/2.4.3/",
+                "path": "/docs/2.4.3/",
                 "label": "overview"
               }
             }

@@ -83,11 +83,10 @@ const config = {
       },
       items: [
         { to: 'https://microdao.substack.com/', label: 'Blog' },
-        //  {to: 'https://alpha.forum.microdao.bio/', label: 'Forum'}
-        {
-          href: 'https://alpha.forum.microdao.bio/',
-          label: 'Forum',
-        },
+        // {
+        //   href: 'https://alpha.forum.microdao.bio/',
+        //   label: 'Forum',
+        // },
         // {
         //   type: 'localeDropdown',
         //   position: 'right',
